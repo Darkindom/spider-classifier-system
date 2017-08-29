@@ -568,7 +568,6 @@ assigned,5
 notification,5
 unit,5
 bound,5
-abstractions,5
 infections,5
 test,5
 transfers,5
@@ -584,6 +583,7 @@ explicit,5
 facility,5
 \,5
 dependencies,5
+abstractions,5
 routes,5
 directly,5
 require,5
@@ -635,7 +635,6 @@ accurate,5
 valuable,5
 clocks,5
 expert,5
-conditions,5
 complementary,5
 systematic,5
 reliable,5
@@ -668,6 +667,7 @@ exhibit,5
 subject,5
 hierarchical,5
 terminal,5
+conditions,5
 electrode,5
 environments,5
 maximize,5
@@ -843,6 +843,7 @@ impact,4
 dependent,4
 art,4
 intelligence,4
+numerous,4
 gap,4
 empirical,4
 technical,4
@@ -901,7 +902,6 @@ viewed,4
 supported,4
 centralized,4
 equilibrium,4
-numerous,4
 interacting,4
 identification,4
 closed,4
@@ -991,6 +991,7 @@ ensure,3
 objectives,3
 rely,3
 oc,3
+comparing,3
 call,3
 offer,3
 picture,3
@@ -1108,7 +1109,6 @@ overload,3
 berkeley,3
 equations,3
 governance,3
-comparing,3
 achieving,3
 varying,3
 positioning,3
@@ -1197,6 +1197,7 @@ gephi,3
 priors,3
 teams,3
 outputs,3
+95%,3
 reservation,3
 thrombosis,3
 partial,3
@@ -1424,6 +1425,7 @@ paradigms,2
 breaks,2
 multiplexing,2
 manual,2
+5%,2
 tutorial,2
 participation,2
 efforts,2
@@ -1978,7 +1980,7 @@ mammalian,1
 oxide,1
 wlans,1
 exceptions,1
-recom,1
+impose,1
 iterative,1
 updated,1
 implementations,1
@@ -2084,6 +2086,7 @@ redefinition,1
 scissors,1
 spondylitis,1
 researched,1
+priority,1
 shiloach,1
 perturbations,1
 hypothetical,1
@@ -2164,6 +2167,7 @@ amazon,1
 spirit,1
 policymakers,1
 disadvantage,1
+41%,1
 runs,1
 thrusts,1
 automatic,1
@@ -2349,6 +2353,7 @@ strengthening,1
 proved,1
 opportunistic,1
 phoneme,1
+15%,1
 simulations,1
 trip,1
 marking,1
@@ -2412,6 +2417,7 @@ affiliation,1
 scarce,1
 port,1
 substitute,1
+30%,1
 adds,1
 constitution,1
 contrastive,1
@@ -2447,6 +2453,7 @@ selects,1
 acceptable,1
 apparent,1
 ook,1
+1.5%,1
 appendix,1
 virtue,1
 organisational,1
@@ -2537,6 +2544,7 @@ keyed,1
 monitors,1
 accomplish,1
 attracted,1
+79%,1
 dominate,1
 assurance,1
 unifying,1
@@ -2550,7 +2558,6 @@ byte,1
 care,1
 training,1
 mended,1
-impose,1
 routed,1
 concrete,1
 undesirable,1
@@ -2638,6 +2645,7 @@ hinges,1
 conferencing,1
 discussing,1
 transmits,1
+90.1%,1
 lasers,1
 synonymous,1
 burst,1
@@ -2904,6 +2912,7 @@ flaws,1
 codify,1
 bicycles,1
 predisposing,1
+85%,1
 betweenness,1
 archives,1
 authorization,1
@@ -3021,6 +3030,7 @@ majority,1
 eff,1
 programmers,1
 victim,1
+am1.5,1
 react,1
 balkanized,1
 sponsored,1
@@ -3181,7 +3191,7 @@ oscillations,1
 delivered,1
 contacts,1
 broadband,1
-causal,1
+93.7%,1
 connecting,1
 eliminate,1
 ▪,1
@@ -3269,7 +3279,6 @@ stable,1
 undirected,1
 dramatically,1
 overlaps,1
-am1,1
 putting,1
 mixing,1
 artery,1
@@ -3435,7 +3444,7 @@ practitioners,1
 start,1
 intercontact,1
 annotation,1
-priority,1
+98.5%,1
 multiprogram,1
 ary,1
 prone,1
@@ -3554,6 +3563,7 @@ responds,1
 treat,1
 indicators,1
 senses,1
+causal,1
 protect,1
 assert,1
 hmm,1
@@ -3640,6 +3650,7 @@ encouraging,1
 diaries,1
 parallelization,1
 overlap,1
+3.3%,1
 assuming,1
 multidirectional,1
 biology,1
@@ -3703,6 +3714,7 @@ nonzeros,1
 friends,1
 searches,1
 auxiliary,1
+recom,1
 rule,1
 portion,1
 compete,1

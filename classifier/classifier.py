@@ -11,6 +11,8 @@ path_file = os.path.abspath(sys.argv[0])
 path_file=os.path.dirname(path_file) + '/'
 print path_file
 
+kinds = 8
+
 
 def getPofClass(index, word_list):
     # 输入类index的贝叶斯训练结果文件
@@ -65,7 +67,7 @@ def bayes(text):
     # 求每个类index的P值，最大P值的类别 为最匹配text的类别
     max = 0
     maxIndex = 0
-    for index in xrange(1, 8):
+    for index in xrange(1, kinds+1):
         y = getPofClass(index, word_list_nostop)
         if y != float("inf") and y > max:
             max = y
@@ -76,12 +78,12 @@ def bayes(text):
 def classify():
     all_count = 0
     right_count = 0
-    file_text = open(path_file + 'data/classify_text.json', "r")
+    file_text = open(path_file + 'data/wait_to_classify_text.json', "r")
     item = json.load(file_text)
     wait_classify_text = item['data']
     file_text.close
 
-    file_outcome = open(path_file + 'outcome/outcome_url.txt', 'w')
+    file_outcome = open(path_file + 'classify_result.txt', 'w')
     for item in wait_classify_text:
         text = item['abstract']
         text = text.strip()

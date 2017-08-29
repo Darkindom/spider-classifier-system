@@ -8,8 +8,11 @@ import json
 import word_is_num
 
 path_file = os.path.abspath(sys.argv[0])
-path_file=os.path.dirname(path_file) + '/'
+path_spider = os.path.abspath(os.path.join(path_file, os.pardir))
+path_file = os.path.dirname(path_file) + '/'
+path_spider = os.path.dirname(path_spider) + '/spider_json/'
 print path_file
+print path_spider
 
 ## 参数说明
  # all_frequency       array   所有训练集的单词数量的数组
@@ -19,7 +22,7 @@ print path_file
  # path_file           string  文本地址路径
 all_frequency = []
 all_word = []
-
+kinds = 8
 
 # 处理样本文档，获取样本文档的词频表，词频和
 # 并把单词计入总训练集的单词all_word中
@@ -31,7 +34,7 @@ def getWordFre(index):
     text_word_dic = {}
 
     # 得到语料中的样本文档，获得 index对应类别的 text_word_dic
-    path_index = path_file + 'data/training_text/data_' + str(index) + '.json'
+    path_index = path_spider + 'data_' + str(index) + '.json'
     file_index = open(path_index, 'r')
     text_json = json.load(file_index)
 
@@ -73,7 +76,7 @@ def getWordFre(index):
                     text_word_dic[word] = 1
                     if word not in all_word:
                         all_word.append(word)
-    print 'There are ' + str(text_json['num']) + ' files in ' + str(index) + ' kind.\n'
+    print 'There are ' + str(text_json['num']) + ' files in the ' + str(index) + ' kind.'
     return text_word_dic, text_frequency
 
 
@@ -84,7 +87,7 @@ def WriteFreFile(index):
     text_word_dic_num = len(text_word_dic)
 
     # 把样本文档的词数，词频和记录到all_frequency 所有训练集的单词数组中
-    print 'num = ' + str(text_word_dic_num) + ', fre = ' + str(text_frequency)
+    print 'num = ' + str(text_word_dic_num) + ', fre = ' + str(text_frequency) + '\n'
     all_frequency.append(str(text_word_dic_num))
     all_frequency.append(str(text_frequency))
 
@@ -101,7 +104,7 @@ def WriteFreFile(index):
 # 这是训练前的预处理函数
 # 作用是计算出每个类别的样本文档词频和，词频表，以供训练用
 def prepare():
-    for index in xrange(1, 8):
+    for index in xrange(1, kinds+1):
         WriteFreFile(index)
 
     # 在all_word_num.txt文件中记录训练的单词总数，以及每一个类别样本文档的（所有单词数，不重复单词数）
@@ -109,7 +112,7 @@ def prepare():
     all_word_num = len(all_word)
     file_all_word.write(str(all_word_num) + '\n')
     print all_frequency
-    for i in xrange(0, 13, 2):
+    for i in xrange(0, kinds*2-1, 2):
         file_all_word.write(all_frequency[i] + ',' + all_frequency[i + 1] + '\n')
     file_all_word.close
 
@@ -165,6 +168,6 @@ def training(index):
 # 对训练素材进行预处理
 prepare()
 # 执行训练
-for i in xrange(1, 8):
+for i in xrange(1, kinds+1):
     training(i)
     print str(i) + ' done';

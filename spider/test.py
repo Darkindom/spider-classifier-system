@@ -3,18 +3,18 @@ import re
 import json
 import requests
 from bs4 import BeautifulSoup
-import sys
+import os, sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-f = open('/Users/darkindom/Desktop/spidder/spider_json/aa.json', "r")
-item = json.load(f)
-print item
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'}
+page = 20
 
-for i in item['data']:
-    print i['title']
-    print i['authors']
-    print i['abstract']
-    print i['fields']
+path_file = os.path.abspath(sys.argv[0])
 
-f.close()
+path_parent = os.path.abspath(os.path.join(path_file, os.pardir))
+path_file = os.path.dirname(path_file) + '/'
+path_parent = os.path.dirname(path_parent) + '/'
+
+print path_file
+print path_parent

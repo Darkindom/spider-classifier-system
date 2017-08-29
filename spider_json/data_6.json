@@ -1,101 +1,126 @@
 {
     "data": [
         {
-            "abstract": "Agriculture is a vital development tool for achieving the Millennium Development Goal that calls for halving by 2015 the share of people suffering from extreme poverty and hunger. That is the overall message of this year's World Development Report (WDR), the 30th in the series. Three out of every four poor people in developing countries live in rural areas, and most of them depend directly or indirectly on agriculture for their livelihoods. This report provides guidance to governments and the international community on designing and implementing agriculture for development agendas that can make a difference in the lives of hundreds of millions of rural poor. The report highlights two major regional challenges. In much of Sub-Saharan Africa, agriculture is a strong option for spurring growth, overcoming poverty, and enhancing food security. Agricultural productivity growth is vital for stimulating growth in other parts of the economy. But accelerated growth requires a sharp productivity increase in smallholder farming combined with more effective support to the millions coping as subsistence farmers, many of them in remote areas. Recent improved performance holds promise, and this report identifies many emerging successes that can be scaled up. In Asia, overcoming widespread poverty requires confronting widening rural-urban income disparities. Asia's fast-growing economies remain home to over 600 million rural people living in extreme poverty, and despite massive rural-urban migration, rural poverty will remain dominant for several more decades. For this reason, the WDR focuses on ways to generate rural jobs by diversifying into labor intensive, high value agriculture linked to a dynamic rural, non-farm sector. In all regions, with rising land and water scarcity and the added pressures of a globalizing world, the future of agriculture is intrinsically tied to better stewardship of natural resources. With the right incentives and investments, agriculture's environmental footprint can be lightened and environmental services harnessed to protect watersheds and biodiversity.", 
+            "abstract": "In this paper we investigate how telecommunications infrastructure affects economic growth. This issue is important and has received considerable attention in the popular press concerning the creation of the \"information superhighway\" and its potential impacts on the economy. We use evidence from 21 OECD countries over the past twenty years to examine the impacts that telecommunications developments may have had. We estimate a structural model which endogenizes telecommunication investment by specifying a micro-model of supply and demand for telecommunication investments. The micromodel is then jointly estimated with the macro-growth equation. After controlling for country-specific fixed effects, we find evidence of a positive causal link, provided that a critical mass of telecommunication infrastructure is present. ZUSAMMENFASSUNG - (Telekommunikations-Infrastruktur und Wirtschaftsentwicklung: Ein simultanes Modell) In diesem Beitrag wird untersucht, welchen Einflus die Telekommunikations-Infrastruktur auf die wirtschaftliche Entwicklung ausubt. Diese wichtige Frage hat im Zusammenhang mit der Diskussion um \"Informationsautobahnen\" Aktualitat erlangt. In der vorliegenden Studie wird der Einflus der Telekommunikations-Infrastruktur fur 21 OECDLander fur die vergangenen 20 Jahre analysiert. Es wird ein Strukturgleichungsmodell geschatzt, in dem Investitionen in die Telekommunikations-Infrastruktur als endogene Variable erfast werden und in einem Mikromodell Angebot und Nachfrage nach Telekommunikations- Investitionen spezifiziert werden. Das Mikromodell wird dann zusammen mit der Makro- Wachstumsgleichung geschatzt. Als Ergebnis stellen die Autoren dann eine positive Kausalbeziehung zwischen Telekommunikations-Investitionen und wirtschaftlicher Entwicklung fest, wenn eine kritische Masse an Telekommunikations- Infrastruktur existiert.", 
             "authors": [
-                "Robert Townsend", 
-                "Elisabeth Sadoulet", 
-                "Alain De Janvry", 
-                "Derek Byerlee", 
-                "Irina Klytchnikova"
+                "Larshendrik Roller", 
+                "Leonard Waverman"
             ], 
             "fields": [
-                "Dado", 
-                "Monetary policy", 
-                "Competitor analysis", 
-                "Intellectual property", 
-                "Externality"
+                "Critical mass", 
+                "Knowledge", 
+                "Bibliography", 
+                "Economic growth", 
+                "Drainage divide"
             ], 
-            "title": "World development report 2008 : agriculture for development", 
-            "url": "http://cn.bing.com/academic/profile?id=7c9661dccdcef970a4f7f29b30a571c3&encoded=0&v=paper_preview&mkt=zh-cn"
+            "title": "Telecommunications Infrastructure and Economic Development: A Simultaneous Approach", 
+            "url": "http://cn.bing.com/academic/profile?id=c32fa6922b92cd7df073a5ca42a2d911&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "Abstract#R##N#This paper reviews the published articles on eTourism in the past 20 years. Using a wide variety of sources, mainly in the tourism literature, this paper comprehensively reviews and analyses prior studies in the context of Internet applications to tourism. The paper also projects future developments in eTourism and demonstrates critical changes that will influence the tourism industry structure. A major contribution of this paper is its overview of the research and development efforts that have been endeavoured in the field, and the challenges that tourism researchers are, and will be, facing.", 
+            "abstract": "In Competition in Telecommunications, Jean-Jacques Laffont and Jean Tirole analyze regulatory reform and the emergence of competition in network industries using the state-of-the-art theoretical tools of industrial organization, political economy, and the economics of incentives. The book opens with background information for the reader who is unfamiliar with current issues in the telecommunication industry. The following sections focus on four central aspects of the recent deregulatory movement: the introduction of incentive regulation; one-way access; the special nature of competition in a industry requiring two-way access; and universal service, in particular, the use of engineering models to compute subsidies and the design of universal service auctions.", 
             "authors": [
-                "Dimitrios Buhalis"
+                "Jean Tirole", 
+                "Jeanjacques Laffont"
             ], 
             "fields": [
-                "Electronic business", 
-                "E-commerce", 
-                "Information technology", 
-                "Tourism", 
-                "Marketing"
-            ], 
-            "title": "Progress in information technology and tourism management: 20 years on and 10 years after the Internet\u2014The state of eTourism research", 
-            "url": "http://cn.bing.com/academic/profile?id=5266c2df99647bd204e2c68630fa8fc9&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
-            "abstract": "In several key industries, including semiconductors, biotechnology, computer software, and the Internet, our patent system is creating a patent thicket: an overlapping set of patent rights requiring that those seeking to commercialize new technology obtain licenses from multiple patentees. The patent thicket is especially thorny when combined with the risk of hold-up, namely the danger that new products will inadvertently infringe on patents issued after these products were designed. The need to navigate the patent thicket and hold-up is especially pronounced in industries such as telecommunications and computing in which formal standard-setting is a core part of bringing new technologies to market. Cross-licenses and patent pools are two natural and effective methods used by market participants to cut through the patent thicket, but each involves some transaction costs. Antitrust law and enforcement, with its historical hostility to cooperation among horizontal rivals, can easily add to these transaction costs. Yet a few relatively simple principles, such as the desirability package licensing for complementary patents but not for substitute patents, can go a long way towards insuring that antitrust will help solve the problems caused by the patent thicket and by hold-up rather than exacerbating them.", 
-            "authors": [
-                "Carl Shapiro"
-            ], 
-            "fields": [
-                "Biotechnology", 
                 "Telecommunications", 
-                "Transaction cost", 
-                "Semiconductor"
+                "Competition"
             ], 
-            "title": "Navigating the Patent Thicket: Cross Licenses, Patent Pools, and Standard-Setting", 
-            "url": "http://cn.bing.com/academic/profile?id=0080973e878c62cfbf55bd3f7c0b1289&encoded=0&v=paper_preview&mkt=zh-cn"
+            "title": "Competition in telecommunications", 
+            "url": "http://cn.bing.com/academic/profile?id=dbf6cb5dafa7d12e13dcb76ba3e35e5c&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "Regulatory reform had its beginnings in the United States in the 1970s, and today it is taking place around the globe. One of the central questions for industrial policy is how to regulate firms with market power. Regulatory Reform tackles this important policy issue in two parts: it describes an analytical framework for studying the main issues in regulatory reform, and then applies the analysis to the British experience in four utility industries--telecommunications, gas, electricity, and water supply. Britain's utility industries, state-owned monopolies just ten years ago, offer a dramatic example of comprehensive reforms with parallels elsewhere: industries have been restructured, markets have been liberalized, and new regulatory methods and institutions have been created. The authors focus on common policy questions that arise in each industry while taking into account the considerable diversity between the industries and the different reform policies adopted. The analysis and experience in Britain's utility industries also provides a rich variety of issues concerning monopolistic and anticompetitive practices that are of interest for competition policy in general.", 
+            "abstract": "In this paper we investigate how telecommunications infrastructure affects economic growth. This issue is important and has received considerable attention in the popular press concerning the creation of the \"information superhighway\" and its potential impacts on the economy. We use evidence from 21 OECD countries over the past twenty years to examine the impacts that telecommunications developments may have had. We estimate a structural model which endogenizes telecommunication investment by specifying a micro-model of supply and demand for telecommunication investments. The micromodel is then jointly estimated with the macro-growth equation. After controlling for country-specific fixed effects, we find evidence of a positive causal link, provided that a critical mass of telecommunication infrastructure is present. ZUSAMMENFASSUNG - (Telekommunikations-Infrastruktur und Wirtschaftsentwicklung: Ein simultanes Modell) In diesem Beitrag wird untersucht, welchen Einflus die Telekommunikations-Infrastruktur auf die wirtschaftliche Entwicklung ausubt. Diese wichtige Frage hat im Zusammenhang mit der Diskussion um \"Informationsautobahnen\" Aktualitat erlangt. In der vorliegenden Studie wird der Einflus der Telekommunikations-Infrastruktur fur 21 OECDLander fur die vergangenen 20 Jahre analysiert. Es wird ein Strukturgleichungsmodell geschatzt, in dem Investitionen in die Telekommunikations-Infrastruktur als endogene Variable erfast werden und in einem Mikromodell Angebot und Nachfrage nach Telekommunikations- Investitionen spezifiziert werden. Das Mikromodell wird dann zusammen mit der Makro- Wachstumsgleichung geschatzt. Als Ergebnis stellen die Autoren dann eine positive Kausalbeziehung zwischen Telekommunikations-Investitionen und wirtschaftlicher Entwicklung fest, wenn eine kritische Masse an Telekommunikations- Infrastruktur existiert.", 
             "authors": [
-                "Mark Armstrong", 
-                "Simon Cowan", 
-                "John Vickers"
+                "Larshendrik Roller", 
+                "Leonard Waverman"
             ], 
             "fields": [
-                "Water", 
-                "Gasoline", 
+                "Critical mass", 
+                "Knowledge", 
+                "Bibliography", 
+                "Economic growth", 
+                "Drainage divide"
+            ], 
+            "title": "Telecommunications Infrastructure and Economic Development: A Simultaneous Approach", 
+            "url": "http://cn.bing.com/academic/profile?id=c32fa6922b92cd7df073a5ca42a2d911&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The telecommunications industry is undergoing a radical transformation, creating exciting new opportunities and new challenges for infrastructure and service providers. The established value chain is increasingly being deconstructed, with the entry of powerful new players and radical restructuring of the industry. Rapid technological developments and increasing market turbulences have added new dimensions to an already complex scenario. Many tested business models, as well as related frameworks, tools and techniques, have become obsolete. The paper uses recent evidence to illustrate the evolving telecommunications value chains and market structure, examine the underlying theoretical and practical reasons for such changes, and highlight the strategic implications for the various players involved. The paper concludes that some of the current changes in the telecommunications industry are very radical, and all players need to re-evaluate their strategies and market positions and make hard decisions as to where to go next. The value chains are rapidly evolving into value networks, with multiple entry and exit points, creating enormous complexity for all the players involved. Further research is urgently needed to map out the telecommunications value chains and value networks that are possible in the context of the new economy; identify the different players and the possible strategies and business models that they can adopt; develop new conceptual frameworks for understanding the current changes in the telecommunications and related industries; and create new tools and techniques for identifying opportunities and threats and for making new strategies.", 
+            "authors": [
+                "Feng Li", 
+                "Jason Whalley"
+            ], 
+            "fields": [
+                "Practical reason", 
+                "Commerce", 
+                "Conceptual framework", 
                 "Telecommunications", 
-                "Industrial policy", 
-                "Regulation"
+                "Value chain"
             ], 
-            "title": "Regulatory Reform: Economic Analysis and British Experience", 
-            "url": "http://cn.bing.com/academic/profile?id=32e0725650dd9222b31ca3151824da25&encoded=0&v=paper_preview&mkt=zh-cn"
+            "title": "Deconstruction of the telecommunications industry: From value chain to value networks", 
+            "url": "http://cn.bing.com/academic/profile?id=af3957dfb189edae8ececbf0b7824788&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "Key features of one automated intelligent vehicle/highway system (IVHS) are outlined, it is shown how core driver decisions are improved, a basic IVHS control system architecture is proposed, and a design of some control subsystems is offered. Some experimental work is summarized. A system that promises a threefold increase in capacity is outlined, and a four-layer hierarchical control architecture that decomposes this problem into more manageable units is proposed. >", 
+            "abstract": "The paper uses an original international database on regulation, market structure and performance in the telecommunications industry to investigate the effects of entry liberalisation and privatisation on productivity, prices and quality of service in long-distance (domestic and international) and mobile cellular telephony services in 23 OECD countries over the 1991-1997 period. The data on regulation and market structure is analysed by means of factor analysis techniques in order to group countries according to their policy and market environments. Controlling for technology developments and differences in economic structure, panel data estimates show that prospective competition (as proxied by the number of years remaining to liberalisation) and effective competition (as proxied by the share of new entrants or by the number of competitors) both bring about productivity and quality improvements and reduce the prices of all the telecommunications services considered in the analysis ...", 
             "authors": [
-                "Pravin Varaiya"
+                "Oliver Boylaud", 
+                "Giuseppe Nicoletti"
             ], 
             "fields": [
-                "Automatic control", 
-                "Computer architecture", 
-                "Control system", 
-                "Occupational safety and health", 
-                "Systems architecture"
+                "Market structure", 
+                "Quality of service", 
+                "Telecommunications", 
+                "Factor analysis", 
+                "Quality management"
             ], 
-            "title": "Smart cars on smart roads: problems of control", 
-            "url": "http://cn.bing.com/academic/profile?id=c88dc00b5d033de00c3c0bdc2281cce9&encoded=0&v=paper_preview&mkt=zh-cn"
+            "title": "Regulation, market structure and performance in telecommunications", 
+            "url": "http://cn.bing.com/academic/profile?id=84c6da75a2b48930b8f5aaaf68ebf57a&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "We present some information-theoretic considerations used to determine upper bounds on the information rates that can be reliably transmitted over a two-ray propagation path mobile radio channel model, operating in a time division multiplex access (TDMA) regime, under given decoding delay constraints. The sense in which reliability is measured is addressed, and in the interesting eases where the decoding delay constraint plays a significant role, the maximal achievable rate (capacity), is specified in terms of capacity versus outage. In this case, no coding capacity in the strict Shannon sense exists. Simple schemes for time and space diversity are examined, and their potential benefits are illuminated from an information-theoretic stand point. In our presentation, we chose to specialize to the TDMA protocol for the sake of clarity and convenience. Our main arguments and results extend directly to certain variants of other multiple access protocols such as code division multiple access (CDMA) and frequency division multiple access (FDMA), provided that no fast feedback from the receiver to the transmitter is available. >", 
+            "abstract": "There were enormous differences in the revenues from the European third generation (3G, or UMTS) mobile-phone license auctions, from 20 Euros per capita in Switzerland to 650 Euros per capita in the U.K., though the values of the licences sold were similar. Poor auction designs in some countries facilitated collusion between firms and failed to attract entrants. The sequencing of the auctions was also crucial. We discuss the auctions in the U.K., Netherlands, Germany, Italy, Austria, Switzerland, Belgium, Greece and Denmark.", 
             "authors": [
-                "L H Ozarow", 
-                "Shlomo Shamai", 
-                "A D Wyner"
+                "Paul Klemperer"
             ], 
             "fields": [
-                "Channel capacity", 
-                "Information theory", 
-                "Time division multiple access", 
-                "Reliability", 
-                "Communications protocol"
+                "Bidding", 
+                "UMTS frequency bands", 
+                "Common value auction", 
+                "3G", 
+                "Telecommunications"
             ], 
-            "title": "Information theoretic considerations for cellular mobile radio", 
-            "url": "http://cn.bing.com/academic/profile?id=997a70ec16e485ef74d9987624407088&encoded=0&v=paper_preview&mkt=zh-cn"
+            "title": "How (Not) to Run Auctions: The European 3G Telecom Auctions", 
+            "url": "http://cn.bing.com/academic/profile?id=65800f237491938ac5bdf2349538ae39&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Financial services are undergoing a major period of internationalization. National markets are interlinked by telecommunications, a process induced through deregulation and new communications technologies. This paper reviews the recent, intertwined trends in the finance and telecommunications industries in light of urban and regional restructuring theory, cites several company-specific examples, explores the impacts on the international urban hierarchy and the labor process (e.g., back offices), and assesses the role of teleports. Finally, it offers an agenda for further research.", 
+            "authors": [
+                "Barney Warf"
+            ], 
+            "fields": [
+                "Information and Communications Technology", 
+                "Financial Services", 
+                "Telecommunications"
+            ], 
+            "title": "TELECOMMUNICATIONS AND THE GLOBALIZATION OF FINANCIAL SERVICES", 
+            "url": "http://cn.bing.com/academic/profile?id=63099736d12e1b7cc4fa2a0b6470d8bc&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The authors draw on strategic human resource and industrial relations theories to identify the sets of employee voice mechanisms and human resource practices that are likely to predict firm-level quit rates, then empirically evaluate the predictive power of these variables using data from a 1998 establishmentlevel survey in the telecommunications industry. With respect to alternative voice mechanisms, they find that union representation predicts lower quit rates, even after they control for compensation and a wide range of other human resource practices that may be affected by collective bargaining. Also predicting lower quit rates is employee participation in offline problem-solving groups and in self-directed teams. No apparent association is found between quit rates and the availability of nonunion dispute resolution procedures. Regarding human resource practices, higher relative wages and internal promotion policies predict lower quit rates, and contingent staffing, electronic monitoring, and variable pay predict higher rates.", 
+            "authors": [
+                "Rosemary Batt", 
+                "Alexander J S Colvin", 
+                "Jeffrey H Keefe"
+            ], 
+            "fields": [
+                "Dispute resolution", 
+                "Industrial relations", 
+                "Human Resources", 
+                "Strategic management", 
+                "Work"
+            ], 
+            "title": "Employee Voice, Human Resource Practices, and Quit Rates: Evidence from the Telecommunications Industry", 
+            "url": "http://cn.bing.com/academic/profile?id=00798a4c35487a33edd995808d731723&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
             "abstract": "Background: Cyberbullying describes bullying using mobile phones and the internet. Most previous studies have focused on the prevalence of text message and email bullying. Methods: Two surveys with pupils aged 11\u201316 years: (1) 92 pupils from 14 schools, supplemented by focus groups; (2) 533 pupils from 5 schools, to assess the generalisability of findings from the first study, and investigate relationships of cyberbullying to general internet use. Both studies differentiated cyberbullying inside and outside of school, and 7 media of cyberbullying. Results: Both studies found cyberbullying less frequent than traditional bullying, but appreciable, and reported more outside of school than inside. Phone call and text message bullying were most prevalent, with instant messaging bullying in the second study; their impact was perceived as comparable to traditional bullying. Mobile phone/video clip bullying, while rarer, was perceived to have more negative impact. Age and gender differences varied between the two studies. Study 1 found that most cyberbullying was done by one or a few students, usually from the same year group. It often just lasted about a week, but sometimes much longer. The second study found that being a cybervictim, but not a cyberbully, correlated with internet use; many cybervictims were traditional \u2018bully-victims\u2019. Pupils recommended blocking/avoiding messages, and telling someone, as the best coping strategies; but many cybervictims had told nobody about it. Conclusions: Cyberbullying is an important new kind of bullying, with some different characteristics from traditional bullying. Much happens outside school. Implications for research and practical action are discussed. Keywords: Bullying, victim, cyber, mobile phone, internet, adolescence, aggression, computers.", 
@@ -1765,6 +1790,25 @@
             "url": "http://cn.bing.com/academic/profile?id=5fe95b7289f9d5d3aa0256e346f44afe&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
+            "abstract": "Abstract#R##N#Introduction:#R##N##R##N#Media-based physical activity interventions include a variety of print, graphic, audiovisual, and broadcast media programs intended to influence behavior change. New information technology allows print to be delivered in personalized, interactive formats that may enhance efficacy. Media-based interventions have been shaped by conceptual models from health education, Social Cognitive Theory, the Transtheoretical Model, and Social Marketing frameworks.#R##N##R##N#Methods: We reviewed 28 studies of media-based interventions of which seven were mass media campaigns at the state or national level and the remaining 21 were delivered through health care, the workplace, or in the community.#R##N##R##N#Results: Recall of mass-media messages generally was high, but mass-media campaigns had very little impact on physical activity behavior. Interventions using print and/or telephone were effective in changing behavior in the short term. Studies in which there were more contacts and interventions tailored to the target audience were most effective.#R##N##R##N#Conclusion: A key issue for research on media-based physical activity interventions is reaching socially disadvantaged groups for whom access, particularly to new forms of communication technology, may be limited. There is a clear need for controlled trials comparing different forms and intensities of media-based physical activity interventions. Controlled studies of personalized print, interactive computer-mediated programs, and web-based formats for program delivery also are needed. The integration of media-based methods into public and private sector service delivery has much potential for innovation.", 
+            "authors": [
+                "Bessh Marcus", 
+                "Neville Owen", 
+                "Leighannh Forsyth", 
+                "Nicka Cavill", 
+                "Fred Fridinger"
+            ], 
+            "fields": [
+                "Physical fitness", 
+                "Mass media", 
+                "Service delivery framework", 
+                "Private sector", 
+                "Human factors and ergonomics"
+            ], 
+            "title": "Physical activity interventions using mass media, print media, and information technology", 
+            "url": "http://cn.bing.com/academic/profile?id=4b0f7009bb6e3ab2a024c58147da1bff&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
             "abstract": "A multimedia communication system includes both the communication protocols used to transport the real-time data and the distributed computing system (DCS) within which any applications using the protocols must execute. The architecture presented attempts to integrate these communications protocols with the DCS in a smooth fashion in order to ease the writing of multimedia applications. Two issues are identified as being essential to the success of this integration: the synchronization of related real-time data streams, and the management of heterogeneous multimedia hardware. The synchronization problem is tackled by defining explicit synchronization properties at the presentation level and by providing control and synchronization operations within the DCS which operate in terms of these properties. The heterogeneity problems are addressed by separating the data transport semantics (protocols themselves) from the control semantics (protocol interfaces). >", 
             "authors": [
                 "Cosmos Nicolaou"
@@ -1812,110 +1856,91 @@
             "url": "http://cn.bing.com/academic/profile?id=67688379e3afbaaadaaa9ec6998382d5&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "Performance characteristics are derived for two different forms of multireceivers (the coherent and noncoherent) which are used with binary and N -ary signaling through the Rician fading multichannel. The coherent multireceiver is capable of perfectly measuring the channel amplitudes and phases whereas, at the other extreme, the noncoherent multireceiver implies a receiver which requires no channel measurement whatsoever. The multichannel model presumes that each transmission mode supports a specular or fixed component and a random or scatter component which fades according to the Rayleigh distribution. Heretofore, performance analyses of multichannel links have assumed that the fading obeys the Rayleigh law. This multichannel model is sufficiently general to include four practical types: the Rician and the Rayleigh fading multichannels, multichannels whose propagation modes do not fade, and those which simultaneously contain Rician and Rayleigh fading propagation paths or the so called mixed-mode multichannel. Error probabilities are graphically illustrated and compared for various multichannel models. It is found that the effectiveness of multichannel reception is highly dependent on the strength of the specular channel component relative to the mean squared value of the random channel component. In particular, multichannel reception is more effective when applied to the completely random multichannel. For special cases the error-rate expressions reduce to well-known results.", 
+            "abstract": "Incentive regulation is designed to improve productive efficiency, enhance service quality and consumer welfare, and reduce the costs of regulation. The issue that is considered here is whether incentive regulation in the form of a price cap applicable to interstate access service to local loops in the telecommunications industry in the United States has resulted in an increase in the technical efficiency and allocative efficiency of local exchange carriers. The results suggest that for changes in technical efficiency, there is a definite randomness between 1985 and 1993 with technical efficiency increasing in some years and decreasing in others. Subsequent to 1993, however, there is a consistent improvement in technical efficiency. Given that incentive regulation in the form of price caps was implemented in 1991, it is likely that some portion of the improvement in technical efficiency subsequent to 1993 is attributable to incentive regulation.", 
             "authors": [
-                "William C Lindsey"
+                "Noel D Uri"
             ], 
             "fields": [
-                "Diversity scheme", 
-                "Word error rate", 
-                "Telecommunications", 
-                "Rician fading", 
-                "Detection theory"
-            ], 
-            "title": "Error probabilities for Rician fading multichannel reception of binary and n -ary signals", 
-            "url": "http://cn.bing.com/academic/profile?id=8ea5cafeff1faa5e45d38d2f3b1fdc9e&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
-            "abstract": "Abstlact : Trivalent lanthanide ions display fascinating optical properties. The discovery of the corresponding elements and their fist industrial uses were intimately linked to their optical properties. This relationship has been kept alive until today when many high-technology applications of lanthanide-containing materials such as energy -saving lighting devices, displays, optical fibers and amplifiers, lasers, responsive luminescent stains for biomedical analyses and in cellulo sensing and imaging heavily rely on the brilliant and pure-color emission of lanthanide ions. In this review we first outlined the basics of lanthanide luminescence with emphasis on f-f transitions, the sensitization mechanisms, and the assessment of the luminescence efficiency of lanthanide-containing emissive molecular edifices. Emphasis was then put on two fast developing aspects of lanthanide luminescence: materials for telecommunications and light emitting diodes, and biomedical imaging and sensing. Recent advances in NIR-emitting materials for plastic amplifiers and waveguides were described, together with the main solutions brought by researchers to minimize non-radiative deactivation of excited states. The demonstration in 1999 that erbium tris(8-hydroxyquinolinate) displayed a bright green emission suitable for orgenic light emitting diodes (OLEDs) was followed by realizing that in OLEDs, 25% of the excitation energy leads to singlet states and 75% to triplet states. Since lanthanide ions are good triplet quenchers, they now also play a key role in the development of these lighting devices. Luminescence analyses of biological molecules are among the most sensitive analytical techniques known. The long lifetime of the lanthanide excited states allows time-resolved spectroscopy to be used, suppressing the sample autofluorescence and reaching very low detection limits. Not only visible lanthanide sensors are now ubiquitously provided in medical diagnosis and in cell imaging, but the feasibility of using NIR emission of ions such as Ybm is now being tested because of deeper penetration in biological tissues Key wonls: lanthanide luminescence; sensitization; near infrared; telecommunications; organic light emitting diode (OLED);", 
-            "authors": [
-                "Jeanclaude G Bunzli", 
-                "Steve Comby", 
-                "Annesophie Chauvin", 
-                "Caroline Vandevyver"
-            ], 
-            "fields": [
-                "Excited state", 
-                "Near-infrared spectroscopy", 
-                "OLED", 
-                "Detection limit", 
+                "Service quality", 
+                "Allocative efficiency", 
+                "Productive efficiency", 
                 "Telecommunications"
             ], 
-            "title": "New Opportunities for Lanthanide Luminescence", 
-            "url": "http://cn.bing.com/academic/profile?id=d1a915c99143273cac12ee41f4e9fa28&encoded=0&v=paper_preview&mkt=zh-cn"
+            "title": "Technical Efficiency, Allocative Efficiency, and the Implementation of a Price Cap Plan in Telecommunications in the United States", 
+            "url": "http://cn.bing.com/academic/profile?id=365b979c8c3b3897f042d1d99e1f5bbb&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "The performance and complexity of channel-optimized vector quantizers are studied for the Gauss-Markov source. Observations on the geometric structure of these quantizers are made, which have an important implication on the encoding complexity. For the squared-error distortion measure, it is shown that an operation equivalent to a Euclidean distance measurement with respect to an appropriately defined set of points (used to identify the encoding regions) can be used to perform the encoding. This implies that the encoding complexity is proportional to the number of encoding regions. It is then demonstrated that for very noisy channels and a heavily correlated source, when the codebook size is large, the number of encoding regions is considerably smaller than the codebook size-implying a reduction in encoding complexity. >", 
+            "abstract": "The Spanish telecommunications regulator recently introduced a capac- ity-based access system. Under this regulation, entrants pay a flat charge for the inter- connection circuits leased to the incumbent operator and are able to freely use these circuits to provide telecommunications services. This paper determines the optimal capacity-based access charge in the presence of time varying demand and capacity constraints and compares this regulation with the traditional time of use access sys- tem. The analysis shows that either type of regulation allows the incumbent to recover its fixed costs and can promote the same pattern of entry. Finally, the optimal capac- ity-based access charge when the entrant has market power is derived.", 
             "authors": [
-                "Nariman Farvardin", 
-                "Vinay A Vaishampayan"
+                "Joan Calzada"
             ], 
             "fields": [
-                "Encoding", 
-                "Euclidean distance", 
-                "Lattice", 
-                "Vector quantization", 
-                "Information theory"
+                "Fixed cost", 
+                "Telecommunications"
             ], 
-            "title": "On the performance and complexity of channel-optimized vector quantizers", 
-            "url": "http://cn.bing.com/academic/profile?id=9086b21bcf412fba7e27ad63e9bd1bad&encoded=0&v=paper_preview&mkt=zh-cn"
+            "title": "Capacity-based versus time-based access charges in telecommunications", 
+            "url": "http://cn.bing.com/academic/profile?id=fab4bdfe4544017711f17ea5c6839c64&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "The relationship between workplace factors and work-related upper extremity musculoskeletal disorders (UE disorders) was assessed in a cross-sectional study of 533 telecommunication employees utilizing video display terminals (VDTs). Cases of UE disorders were defined using symptom questionnaires and physical examinations. Data on demographics, individual factors (medical conditions and recreational activities), work organization and practices, and psychosocial aspects of work, including electronic performance monitoring (EPM), were obtained by questionnaire. Associations between workplace factors and UE disorders were assessed by multiple logistic models generated for each of the four UE areas (neck, shoulder, elbow, hand/wrists). One-hundred and eleven (22%) participants met our case definition for UE disorders. Probable tendon-related disorders were the most common (15% of participants). Probable nerve entrapment syndromes were found in 4% of participants. The hand/wrist was the area most affected, 12%...", 
+            "abstract": "The objective of this paper is to assess the effect of mergers and acquisitions on shareholder wealth when subsequent related significant events are anticipated. We identify a particular merger and acquisition between telecommunication companies in Korea and examine whether it conveys good or bad news to stock market participants. We hypothesize and find that mergers and acquisitions are interpreted as good news by the marketplace when they are expected to be accompanied by a subsequent related significant event, in our case granting of a government license for the IMT-2000 mobile service.", 
             "authors": [
-                "Thomas R Hales", 
-                "Steven L Sauter", 
-                "Martin R Peterson", 
-                "Lawrence J Fine", 
-                "Vern Putzanderson", 
-                "Larry R Schleifer", 
-                "Troy T Ochs", 
-                "Bruce Bernard"
+                "Changi Nam", 
+                "Donghoon Yang", 
+                "Myeongcheol Park", 
+                "Gilhwan Oh", 
+                "Jonghyun Park"
             ], 
             "fields": [
-                "Physical examination", 
-                "Case definition", 
+                "Mergers and acquisitions", 
+                "Telecommunications"
+            ], 
+            "title": "Stock Market Reaction to Mergers and Acquisitions in Anticipation of a Subsequent Related Significant Event: Evidence from the Korean Telecommunications Industry", 
+            "url": "http://cn.bing.com/academic/profile?id=a7057f2bad25fd07ac5036e7f685a5ff&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This article develops an analytical framework that can be used to assess competition in South African telecommunications and, thereafter, applies this framework in an evaluation of vertical integration patterns in the telecommunications industry. It is shown that, despite recent regulatory reforms, substantial vertical competition concerns remain unaddressed in both fixed line and mobile telecommunications markets. Copyright (c) 2006 The Authors. Journal compilation (c) 2006 Economic Society of South Africa.", 
+            "authors": [
+                "Nicola Theron", 
+                "W H Boshoff"
+            ], 
+            "fields": [
                 "Telecommunications", 
-                "Cross-sectional study", 
-                "Information processing"
+                "Mobile telephony", 
+                "Deregulation", 
+                "Competitive analysis", 
+                "Liberalization"
             ], 
-            "title": "Musculoskeletal disorders among visual display terminal users in a telecommunications company", 
-            "url": "http://cn.bing.com/academic/profile?id=57ce9190ced13a9fcb1a9ca34e1f06e6&encoded=0&v=paper_preview&mkt=zh-cn"
+            "title": "Vertical Integration in South African Telecommunications: A Competition Analysis", 
+            "url": "http://cn.bing.com/academic/profile?id=024fa1d77d690c17b040ab44c3bb680f&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "Rapid advances in information technology and telecommunications - and, more specifically, wireless and mobile communications - and their convergence (\"telematics\") are leading to the emergence of a new type of information infrastructure that has the potential of supporting an array of advanced services for healthcare. The objective of this paper is to provide a snapshot of the applications of wireless telemedicine systems. A review of the spectrum of these applications and the potential benefits of these efforts is presented, followed by successful case studies in electronic patient record, emergency telemedicine, teleradiology, and home monitoring. It is anticipated that the progress carried out in these efforts and the potential benefits of emerging mobile technologies will trigger the development of more applications, thus enabling the offering of a better service to the citizen.", 
+            "abstract": "The development of telecommunications in Brazil demands increasingly skilled professionals. Professional training in this area is mainly acquired in the courses of technical and technological training. In the teaching of telecommunications, an alternative to the rapid technological progress and the cost of equipment for laboratory practice is the use of didactic simulators. Animation models were developed to represent concepts in digital telephony, specifically in time-division multiplexing, demultiplexing and switching time. Visualization tests were made with multimedia resource for the teacher in the classroom and with personal computers for each student in the computer lab. The models were adequate as an additional tool in teaching telecommunications and as a complement of the laboratory practice in the discipline of telephony. We noticed the potential of discrete simulation software to make animation models for technical and technological education in other subjects in the course of telecommunications.", 
             "authors": [
-                "C S Pattichis", 
-                "E Kyriacou", 
-                "S Voskarides", 
-                "M S Pattichis", 
-                "R S H Istepanian", 
-                "C N Schizas"
+                "Thiago Miranda Paravidino Da Silva", 
+                "Joao Jose De Assis Rangel"
             ], 
             "fields": [
-                "Remote patient monitoring", 
-                "Information technology", 
-                "UMTS frequency bands", 
-                "Communications system", 
-                "Medical imaging"
-            ], 
-            "title": "Wireless telemedicine systems: an overview", 
-            "url": "http://cn.bing.com/academic/profile?id=1a3661fadd93d317fd765aed5e1f6b6b&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
-            "abstract": "Podcasting has become a popular medium for accessing and assimilating information and podcasts are increasingly being used to deliver audio recordings of lectures to campus\u2010based students. This paper describes a simple, cost\u2010effective and file size\u2010efficient method for producing video podcasts combining lecture slides and audio without a requirement for any specialist software. The results from a pilot scheme delivering supplementary lecture materials as audio and video podcasts are also presented, including data on download patterns and responses to a survey of students on podcast use. These results reveal students\u2019 enthusiasm for podcast recordings of lecture materials and their primary use by students in revision and preparation for assessments. Survey responses also suggest little likely impact on lecture attendance as a consequence of podcasting, but indicate that podcast recordings of lectures may not be effective in facilitating mobile learning.", 
-            "authors": [
-                "Jonathan T Copley"
-            ], 
-            "fields": [
-                "Cost-effectiveness analysis", 
                 "Telecommunications", 
-                "Higher education", 
-                "Distance education", 
-                "Educational technology"
+                "Computer simulation", 
+                "Education", 
+                "Telephony", 
+                "Computational model"
             ], 
-            "title": "Audio and Video Podcasts of Lectures for Campus-Based Students: Production and Evaluation of Student Use.", 
-            "url": "http://cn.bing.com/academic/profile?id=ac83dbf3b0f53f278120ceed86b091e1&encoded=0&v=paper_preview&mkt=zh-cn"
+            "title": "Discrete event simulation as didactic support to the teaching of telecommunications systems: applications in digital telephony", 
+            "url": "http://cn.bing.com/academic/profile?id=5047d910b6392710bf49a134f64f8437&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We assess the performance of National Regulatory Authorities across 16 EU countries regarding economic regulation in telecommunications sector, by constructing a so-called Composite Regulatory Performance Indicator for regulatory aspects such as effectiveness of the national regulatory system, effectiveness of the dispute settlement body, general market access conditions and application of remedies in markets for narrowband voice, mobile, broadband and business services. This composite indicator is the output measure used in the DEA non-parametric approach. The computation of efficiency scores allows to rank the NRAs and to detect some room for improvement in terms of efficiency gains for each national authority.", 
+            "authors": [
+                "Antonio Afonso", 
+                "Carla Scaglioni"
+            ], 
+            "fields": [
+                "Telecommunications", 
+                "Performance indicator"
+            ], 
+            "title": "An Assessment of Telecommunications Regulation Performance in the European Union", 
+            "url": "http://cn.bing.com/academic/profile?id=812b2bb0a29a68147bbf3338f5d508f1&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
             "abstract": "Direct radio-based vehicle-to-vehicle communication can help prevent accidents by providing accurate and up-to-date local status and hazard information to the driver. In this paper, we assume that two types of messages are used for traffic safety-related communication: 1) Periodic messages (ldquobeaconsrdquo) that are sent by all vehicles to inform their neighbors about their current status (i.e., position) and 2) event-driven messages that are sent whenever a hazard has been detected. In IEEE 802.11 distributed-coordination-function-based vehicular networks, interferences and packet collisions can lead to the failure of the reception of safety-critical information, in particular when the beaconing load leads to an almost-saturated channel, as it could easily happen in many critical vehicular traffic conditions. In this paper, we demonstrate the importance of transmit power control to avoid saturated channel conditions and ensure the best use of the channel for safety-related purposes. We propose a distributed transmit power control method based on a strict fairness criterion, i.e., distributed fair power adjustment for vehicular environments (D-FPAV), to control the load of periodic messages on the channel. The benefits are twofold: 1) The bandwidth is made available for higher priority data like dissemination of warnings, and 2) beacons from different vehicles are treated with ldquoequal rights,rdquo and therefore, the best possible reception under the available bandwidth constraints is ensured. We formally prove the fairness of the proposed approach. Then, we make use of the ns-2 simulator that was significantly enhanced by realistic highway mobility patterns, improved radio propagation, receiver models, and the IEEE 802.11p specifications to show the beneficial impact of D-FPAV for safety-related communications. We finally put forward a method, i.e., emergency message dissemination for vehicular environments (EMDV), for fast and effective multihop information dissemination of event-driven messages and show that EMDV benefits of the beaconing load control provided by D-FPAV with respect to both probability of reception and latency.", 
@@ -2644,5 +2669,5 @@
             "url": "http://cn.bing.com/academic/profile?id=4633157b4caab96c6a2087e9f3703037&encoded=0&v=paper_preview&mkt=zh-cn"
         }
     ], 
-    "num": 155
+    "num": 158
 }

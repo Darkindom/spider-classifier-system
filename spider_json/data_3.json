@@ -883,23 +883,6 @@
             "url": "http://cn.bing.com/academic/profile?id=9b6cfd9585b317356104433cf57b2db9&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "We report first-principles calculations of the current-voltage ( I-V ) characteristics of a molecular device and compare with experiment. We find that the shape of the I-V curve is largely determined by the electronic structure of the molecule, while the presence of single atoms at the molecule-electrode interface play a key role in determining the absolute value of the current. The results show that such simulations would be useful for the design of future microelectronic devices for which the Boltzmann-equation approach is no longer applicable.", 
-            "authors": [
-                "M Di Ventra", 
-                "Sokrates T Pantelides", 
-                "N D Lang"
-            ], 
-            "fields": [
-                "Boltzmann equation", 
-                "Electronic structure", 
-                "Electrode", 
-                "Engineering", 
-                "Interface"
-            ], 
-            "title": "First-Principles Calculation of Transport Properties of a Molecular Device", 
-            "url": "http://cn.bing.com/academic/profile?id=9b6cfd9585b317356104433cf57b2db9&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
             "abstract": "Background#R##N#The estimated number of new HIV infections in the United States reflects the leading edge of the epidemic. Previously, CDC estimated HIV incidence in the United States in 2006 as 56,300 (95% CI: 48,200\u201364,500). We updated the 2006 estimate and calculated incidence for 2007\u20132009 using improved methodology.#R##N##R##N#Methodology#R##N#We estimated incidence using incidence surveillance data from 16 states and 2 cities and a modification of our previously described stratified extrapolation method based on a sample survey approach with multiple imputation, stratification, and extrapolation to account for missing data and heterogeneity of HIV testing behavior among population groups.#R##N##R##N#Principal Findings#R##N#Estimated HIV incidence among persons aged 13 years and older was 48,600 (95% CI: 42,400\u201354,700) in 2006, 56,000 (95% CI: 49,100\u201362,900) in 2007, 47,800 (95% CI: 41,800\u201353,800) in 2008 and 48,100 (95% CI: 42,200\u201354,000) in 2009. From 2006 to 2009 incidence did not change significantly overall or among specific race/ethnicity or risk groups. However, there was a 21% (95% CI:1.9%\u201339.8%; p = 0.017) increase in incidence for people aged 13\u201329 years, driven by a 34% (95% CI: 8.4%\u201360.4%) increase in young men who have sex with men (MSM). There was a 48% increase among young black/African American MSM (12.3%\u201383.0%; p<0.001). Among people aged 13\u201329, only MSM experienced significant increases in incidence, and among 13\u201329 year-old MSM, incidence increased significantly among young, black/African American MSM. In 2009, MSM accounted for 61% of new infections, heterosexual contact 27%, injection drug use (IDU) 9%, and MSM/IDU 3%.#R##N##R##N#Conclusions/Significance#R##N#Overall, HIV incidence in the United States was relatively stable 2006\u20132009; however, among young MSM, particularly black/African American MSM, incidence increased. HIV continues to be a major public health burden, disproportionately affecting several populations in the United States, especially MSM and racial and ethnic minorities. Expanded, improved, and targeted prevention is necessary to reduce HIV incidence.", 
             "authors": [
                 "Joseph Prejean", 
@@ -1169,6 +1152,21 @@
             "url": "http://cn.bing.com/academic/profile?id=3e2a17d19cfa400f95a3aa4bf6ec3751&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
+            "abstract": "Spectroscopic measurements and laser performance of Ti:Al2O3 are discussed in detail. Data on absorption and fluorescence spectra and fluorescence lifetime as a function of temperature are presented. Laser characteristics observed with pulsed-dye-laser, frequency-doubled Nd:YAG-laser, and argon-ion-laser pumping are covered and show that nearly quantum-limited conversion of pump radiation can be achieved, along with tuning over the wavelength range 660\u2013986 nm.", 
+            "authors": [
+                "Peter F Moulton"
+            ], 
+            "fields": [
+                "Luminescence", 
+                "Stimulated emission", 
+                "Dye laser", 
+                "Temperature", 
+                "Oxide minerals"
+            ], 
+            "title": "Spectroscopic and laser characteristics of Ti:Al 2 O 3", 
+            "url": "http://cn.bing.com/academic/profile?id=4ecbde870b29ce7f467534291dcf18df&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
             "abstract": "The present invention provides stretchable, and optionally printable, semiconductors and electronic circuits capable of providing good performance when stretched, compressed, flexed or otherwise deformed. Stretchable semiconductors and electronic circuits of the present invention preferred for some applications are flexible, in addition to being stretchable, and thus are capable of significant elongation, flexing, bending or other deformation along one or more axes. Further, stretchable semiconductors and electronic circuits of the present invention may be adapted to a wide range of device configurations to provide fully flexible electronic and optoelectronic devices.", 
             "authors": [
                 "John A Rogers", 
@@ -1263,31 +1261,6 @@
             ], 
             "title": "Synthetic nano-scale fibrous extracellular matrix.", 
             "url": "http://cn.bing.com/academic/profile?id=6622b51de6742da4578023d8e8f8ed19&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
-            "abstract": "Mesenchymal stem cell-mediated tissue regeneration is a promising approach for regenerative medicine for a wide range of applications. Here we report a new population of stem cells isolated from the root apical papilla of human teeth (SCAP, stem cells from apical papilla). Using a minipig model, we transplanted both human SCAP and periodontal ligament stem cells (PDLSCs) to generate a root/periodontal complex capable of supporting a porcelain crown, resulting in normal tooth function. This work integrates a stem cell-mediated tissue regeneration strategy, engineered materials for structure, and current dental crown technologies. This hybridized tissue engineering approach led to recovery of tooth strength and appearance.", 
-            "authors": [
-                "Wataru Sonoyama", 
-                "Yi Liu", 
-                "Dianji Fang", 
-                "Takayoshi Yamaza", 
-                "Byoungmoo Seo", 
-                "Chunmei Zhang", 
-                "He Liu", 
-                "Stan Gronthos", 
-                "Cunyu Wang", 
-                "Songtao Shi", 
-                "Songlin Wang"
-            ], 
-            "fields": [
-                "Regenerative medicine", 
-                "Periodontal fiber", 
-                "Stem cell", 
-                "Engineering", 
-                "Tissue engineering"
-            ], 
-            "title": "Mesenchymal Stem Cell-Mediated Functional Tooth Regeneration in Swine", 
-            "url": "http://cn.bing.com/academic/profile?id=3d19fcefa31237ca23c908072ea2adfc&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
             "abstract": "Mesenchymal stem cell-mediated tissue regeneration is a promising approach for regenerative medicine for a wide range of applications. Here we report a new population of stem cells isolated from the root apical papilla of human teeth (SCAP, stem cells from apical papilla). Using a minipig model, we transplanted both human SCAP and periodontal ligament stem cells (PDLSCs) to generate a root/periodontal complex capable of supporting a porcelain crown, resulting in normal tooth function. This work integrates a stem cell-mediated tissue regeneration strategy, engineered materials for structure, and current dental crown technologies. This hybridized tissue engineering approach led to recovery of tooth strength and appearance.", 
@@ -1527,22 +1500,6 @@
             "url": "http://cn.bing.com/academic/profile?id=f3314ad721e92d9859376fd89c8109fe&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "Abstract#R##N#This paper presents the results of an extensive literature review on the topic of thermal adaptation in the built environment. The adaptive approach to modeling thermal comfort acknowledges that thermal perception in \u2018real world\u2019 settings is influenced by the complexities of past thermal history and cultural and technical practices. An important premise of the adaptive model is that the person is no longer a passive recipient of the given thermal environment, but instead is an active agent interacting with the person\u2014environment system via multiple feedback loops. Thermal adaptation can be attributed to three different processes\u2014behavioral adjustment, physiological acclimatization and psychological habituation or expectation. Both climate chamber and field evidence indicates that the slower process of acclimatization is not so relevant to thermal adaptation in the relatively moderate conditions found in buildings, whereas behavioral adjustment and expectation have a much greater influence. One of the most important findings from our review of field evidence was the distinction between thermal comfort responses in air-conditioned vs. naturally ventilated buildings, most likely resulting from a combination of past thermal history in the buildings and differences in levels of perceived control.", 
-            "authors": [
-                "Richard De Dear", 
-                "Gail Brager"
-            ], 
-            "fields": [
-                "Ventilation", 
-                "Architecture", 
-                "Feedback loop", 
-                "Air conditioning", 
-                "Engineering"
-            ], 
-            "title": "Thermal Adaptation in the Built Environment: a Literature Review", 
-            "url": "http://cn.bing.com/academic/profile?id=74f8ce8fcb9aba3315d1480b5f4f223c&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
             "abstract": "This paper examines information system evolution in small firms. It focuses on applications growth, and uses the experiences of six small manufacturing firms to identify motivators and inhibitors of growth. Many factors were identified. Motivators of growth included improved enthusiasm for the technology. Inadequate resources and limited education about information systems were among the factors that inhibited application growth.", 
             "authors": [
                 "Paul B Cragg", 
@@ -1607,6 +1564,26 @@
             ], 
             "title": "Open pore biodegradable matrices formed with gas foaming", 
             "url": "http://cn.bing.com/academic/profile?id=7746262a502f3bdda170843d17d8d5d2&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The emission and absorption properties of numerous host crystals doped with Yb/sup 3+/ ions have been studied. The hosts which have been selected include LiYF/sub 4/, LaF/sub 3/, SrF/sub 2/, BaF/sub 2/, KCaF/sub 3/, KY/sub 3/F/sub 10/, Rb/sub 2/NaYF/sub 6/, BaY/sub 2/F/sub 8/, Y/sub 2/SiO/sub 5/, Y/sub 3/Al/sub 5/O/sub 12/, YAlO/sub 3/, LuPO/sub 4/, Ca/sub 5/(PO/sub 4/)/sub 3/F, LiYO/sub 2/, and ScBO/sub 3/. Spectral determinations have been made of the resonant absorption and emission cross sections between 850 and 1100 nm, and the emission decay times of the upper laser level have been measured. The emission cross sections have been evaluated using the absorption cross section and principle of reciprocity, and again using the Fuchtbauer-Ladenberg formula. Agreement between the two methods is within 20% for most materials. The results are discussed in the framework of requirements for an effective diode-pumped Yb/sup 3+/ laser system. Ca/sub 5/(PO/sub 4/)/sub 3/F:Yb is predicted to exhibit the most useful laser properties and is expected to be far superior to Y/sub 3/Al/sub 5/O/sub 12/:Yb in many key microscopic parameter values. >", 
+            "authors": [
+                "L D Deloach", 
+                "Stephen A Payne", 
+                "L L Chase", 
+                "L K Smith", 
+                "Wayne L Kway", 
+                "W F Krupke"
+            ], 
+            "fields": [
+                "Cross section", 
+                "Doping", 
+                "Room temperature", 
+                "Emission spectrum", 
+                "Crystal"
+            ], 
+            "title": "Evaluation of absorption and emission properties of Yb/sup 3+/ doped crystals for laser applications", 
+            "url": "http://cn.bing.com/academic/profile?id=b21294f8bb1c4ffc68faf5b6aa146266&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
             "abstract": "The emission and absorption properties of numerous host crystals doped with Yb/sup 3+/ ions have been studied. The hosts which have been selected include LiYF/sub 4/, LaF/sub 3/, SrF/sub 2/, BaF/sub 2/, KCaF/sub 3/, KY/sub 3/F/sub 10/, Rb/sub 2/NaYF/sub 6/, BaY/sub 2/F/sub 8/, Y/sub 2/SiO/sub 5/, Y/sub 3/Al/sub 5/O/sub 12/, YAlO/sub 3/, LuPO/sub 4/, Ca/sub 5/(PO/sub 4/)/sub 3/F, LiYO/sub 2/, and ScBO/sub 3/. Spectral determinations have been made of the resonant absorption and emission cross sections between 850 and 1100 nm, and the emission decay times of the upper laser level have been measured. The emission cross sections have been evaluated using the absorption cross section and principle of reciprocity, and again using the Fuchtbauer-Ladenberg formula. Agreement between the two methods is within 20% for most materials. The results are discussed in the framework of requirements for an effective diode-pumped Yb/sup 3+/ laser system. Ca/sub 5/(PO/sub 4/)/sub 3/F:Yb is predicted to exhibit the most useful laser properties and is expected to be far superior to Y/sub 3/Al/sub 5/O/sub 12/:Yb in many key microscopic parameter values. >", 
@@ -1866,108 +1843,6 @@
             "url": "http://cn.bing.com/academic/profile?id=a97446f7b7394d7d77a6b9a11cf70d3c&encoded=0&v=paper_preview&mkt=zh-cn"
         }, 
         {
-            "abstract": "The alignment between vorticity and eigenvectors of the strain\u2010rate tensor in numerical solutions of Navier\u2013Stokes turbulence is studied. Solutions for isotropic flow and homogeneous shear flow from pseudospectral calculations using 1283 grid points have been examined. The Taylor Reynolds number is 83 or greater. In both flows there is an increased probability for the vorticity to point in the intermediate strain direction and at three\u2010fourths of the sample points this strain is positive (extensive). This propensity for vorticity alignment with a positive intermediate strain is a consequence of angular momentum conservation, as shown by a restricted Euler model of the coupling between strain and vorticity. Probability distributions for intermediate strain, conditioned on total strain, change from a symmetric triangular form at small strain to an asymmetric one for large strain. The most probable value of the asymmetric distribution gives strains in the ratios of 3:1: \u22124. The evolution of the distribution from a symmetric to an asymmetric form as the strain magnitude increases is essentially the same in both flows, indicating a generic structure of intense turbulence. The alignment between the gradient of a passive scalar and eigenvectors of the strain\u2010rate tensor for Prandtl numbers of 0.1, 0.2, 0.5, and 1.0 has also been studied. There is an increased probability for the scalar gradient to align in the most compressive strain direction, and the average gradient is larger when it is pointing in that direction. Estimates for the scalar dissipation from the turbulent kinetic energy, its dissipation, and the root\u2010mean\u2010square scalar value are in reasonable agreement with calculated scalar dissipation if no explicit Prandtl number dependence is used in the estimate. Statistical analysis of scalar dissipation conditioned on energy dissipation yields a power\u2010law relation between conditioned mean values. Both simulated flows are found to obey the qualitative predictions of the Gurvich\u2013Yaglom (lognormal) intermittency model. Energy and scalar intermittency exponents are estimated and compared to measured values.", 
-            "authors": [
-                "W T Ashurst", 
-                "Alan R Kerstein", 
-                "R M Kerr", 
-                "Carl H Gibson"
-            ], 
-            "fields": [
-                "Numerical analysis", 
-                "Eigenvalues and eigenvectors", 
-                "Differential equation", 
-                "Shear flow", 
-                "Strain rate"
-            ], 
-            "title": "Alignment of vorticity and scalar gradient with strain rate in simulated Navier-Stokes turbulence", 
-            "url": "http://cn.bing.com/academic/profile?id=6e51f8c529a02f2f37059a60236d61da&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
-            "abstract": "Abstract#R##N##R##N#The visco-plastic model of material behaviour is of much practical interest in its own right and initial strain techniques for its solution have been developed and proved efficient. More important however is the fact that the visco-plastic model can be used to generate plasticity solutions in a simple manner when stationary conditions are reached and, at the other extreme, can reproduce standard creep phenomena. Used in this sense it allows the treatment of non-associated plasticity and strain softening situations which present difficulties in conventional plasticity approaches. A standard programme thus allows the treatment of a wide range of materially non-linear problems.#R##N##R##N##R##N##R##N#The paper discusses various applications of the new general formulation and introduces certain numerical information on solution stability.", 
-            "authors": [
-                "O C Zienkiewicz", 
-                "I C Cormeau"
-            ], 
-            "fields": [
-                "Creep", 
-                "Viscoplasticity", 
-                "Engineering", 
-                "Deformation"
-            ], 
-            "title": "Visco\u2010plasticity\u2014plasticity and creep in elastic solids\u2014a unified numerical solution approach", 
-            "url": "http://cn.bing.com/academic/profile?id=312f2e3329dc00e6f8df3e5ec5375ad9&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
-            "abstract": "Background: Depression and anxiety disorders are common and treatable with cognitive behavior therapy (CBT), but access to this therapy is limited. Objective: Review evidence that computerized CBT for the anxiety and depressive disorders is acceptable to patients and effective in the short and longer term. Method: Systematic reviews and data bases were searched for randomized controlled trials of computerized cognitive behavior therapy versus a treatment or control condition in people who met diagnostic criteria for major depression, panic disorder, social phobia or generalized anxiety disorder. Number randomized, superiority of treatment versus control (Hedges g) on primary outcome measure, risk of bias, length of follow up, patient adherence and satisfaction were extracted. Principal Findings: 22 studies of comparisons with a control group were identified. The mean effect size superiority was 0.88 (NNT 2.13), and the benefit was evident across all four disorders. Improvement from computerized CBT was maintained for a median of 26 weeks follow-up. Acceptability, as indicated by adherence and satisfaction, was good. Research probity was good and bias risk low. Effect sizes were non-significantly higher in comparisons with waitlist than with active treatment control conditions. Five studies comparing computerized CBT with traditional face-to-face CBT were identified, and both modes of treatment appeared equally beneficial. Conclusions: Computerized CBT for anxiety and depressive disorders, especially via the internet, has the capacity to provide effective acceptable and practical health care for those who might otherwise remain untreated.", 
-            "authors": [
-                "Gavin Andrews", 
-                "Pim Cuijpers", 
-                "Michelle G Craske", 
-                "Peter M Mcevoy", 
-                "Nickolai Titov"
-            ], 
-            "fields": [
-                "The Internet", 
-                "Biology", 
-                "Meta-analysis", 
-                "Effect size", 
-                "Engineering"
-            ], 
-            "title": "Computer Therapy for the Anxiety and Depressive Disorders Is Effective, Acceptable and Practical Health Care: A Meta-Analysis", 
-            "url": "http://cn.bing.com/academic/profile?id=8f915720476899986b39d53e43f74566&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
-            "abstract": "Recently, interest in diode laser-pumped solid-state lasers has increased due to their advantages over flashlamp-pumped solid-state lasers. A historical overview is presented of semiconductor diode-pumped solid-state lasers beginning with work in the early 1960s and continuing through recent work on wavelength extension of these devices by laser operation on new transitions. Modeling of these devices by rate equations to obtain expressions for threshold, slope efficiency, and figures of merit is also given. >", 
-            "authors": [
-                "T Y Fan", 
-                "Robert L Byer"
-            ], 
-            "fields": [
-                "Rate equation", 
-                "Optical pumping", 
-                "Application software", 
-                "Semiconductor laser theory", 
-                "Continuous wave"
-            ], 
-            "title": "Diode laser-pumped solid-state lasers", 
-            "url": "http://cn.bing.com/academic/profile?id=ccb9a4036f8d7ffb2062cbe6205ff946&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
-            "abstract": "Recent brain imaging studies using functional magnetic resonance imaging (fMRI) have implicated insula and anterior cingulate cortices in the empathic response to another's pain. However, virtually nothing is known about the impact of the voluntary generation of compassion on this network. To investigate these questions we assessed brain activity using fMRI while novice and expert meditation practitioners generated a loving-kindness-compassion meditation state. To probe affective reactivity, we presented emotional and neutral sounds during the meditation and comparison periods. Our main hypothesis was that the concern for others cultivated during this form of meditation enhances affective processing, in particular in response to sounds of distress, and that this response to emotional sounds is modulated by the degree of meditation training. The presentation of the emotional sounds was associated with increased pupil diameter and activation of limbic regions (insula and cingulate cortices) during meditation (versus rest). During meditation, activation in insula was greater during presentation of negative sounds than positive or neutral sounds in expert than it was in novice meditators. The strength of activation in insula was also associated with self-reported intensity of the meditation for both groups. These results support the role of the limbic circuitry in emotion sharing. The comparison between meditation vs. rest states between experts and novices also showed increased activation in amygdala, right temporo-parietal junction (TPJ), and right posterior superior temporal sulcus (pSTS) in response to all sounds, suggesting, greater detection of the emotional sounds, and enhanced mentation in response to emotional human vocalizations for experts than novices during meditation. Together these data indicate that the mental expertise to cultivate positive emotion alters the activation of circuitries previously linked to empathy and theory of mind in response to emotional stimuli.", 
-            "authors": [
-                "Antoine Lutz", 
-                "Julie Brefczynskilewis", 
-                "Tom Johnstone", 
-                "Richard J Davidson"
-            ], 
-            "fields": [
-                "Buddhism", 
-                "Behavior", 
-                "Central nervous system", 
-                "Emotion", 
-                "Neuroimaging"
-            ], 
-            "title": "Regulation of the neural circuitry of emotion by compassion meditation: effects of meditative expertise", 
-            "url": "http://cn.bing.com/academic/profile?id=cbdd2aef134bb894c4589b4d23b3c9f3&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
-            "abstract": "We have developed a simplified version of the side-pumped pulsed dye laser which has a spectral halfwidth of 1.25 GHz and a peak power of 10 kW at 600 nm. The basic laser consists of only four components (output mirror, dye cell, diffraction grating, and tuning mirror) and is exceptionally easy to align. Since the beam expander has been eliminated, the laser cavity can be made quite compact. Under the condition of reduced gain, the laser has been operated in a single mode.", 
-            "authors": [
-                "Michael G Littman", 
-                "Harold J Metcalf"
-            ], 
-            "fields": [
-                "Design", 
-                "Optical pumping", 
-                "Single-mode optical fiber", 
-                "Astronomical interferometer", 
-                "Fabry\u2013P\u00e9rot interferometer"
-            ], 
-            "title": "Spectrally narrow pulsed dye laser without beam expander", 
-            "url": "http://cn.bing.com/academic/profile?id=9d8f1b58a9646caaaf8ba97b1c97f13f&encoded=0&v=paper_preview&mkt=zh-cn"
-        }, 
-        {
             "abstract": "Abstract: We present a new adaptive kernel density estimator based on linear diffusion processes. The proposed estimator builds on existing ideas for adaptive smoothing by incorporating information from a pilot density estimate. In addition, we propose a new plug-in bandwidth selection method that is free from the arbitrary normal reference rules used by existing methods. We present simulation examples in which the proposed approach outperforms existing methods in terms of accuracy and reliability.", 
             "authors": [
                 "Zdravko I Botev", 
@@ -1983,7 +1858,76 @@
             ], 
             "title": "Kernel density estimation via diffusion", 
             "url": "http://cn.bing.com/academic/profile?id=676d923a769d4395e718c83859b2b110&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This study provides a detailed literature review and an assessment of results of the research and development work forming the current status of nanofluid technology for heat transfer applications. Nanofluid technology is a relatively new field, and as such, the supporting studies are not extensive. Specifically, experimental results were reviewed in this study regarding the enhancement of the thermal conductivity and convective heat transfer of nanofluids relative to conventional heat transfer fluids, and assessments were made as to the state-of-the-art of verified parametric trends and magnitudes. Pertinent parameters of particle volume concentration, particle material, particle size, particle shape, base fluid material, temperature, additive, and acidity were considered individually, and experimental results from multiple research groups were used together when assessing results. To this end, published research results from many studies were recast using a common parameter to facilitate comparisons of ...", 
+            "authors": [
+                "Wenhua Yu", 
+                "D M France", 
+                "J L Routbort", 
+                "Stephen U S Choi"
+            ], 
+            "fields": [
+                "pH", 
+                "Nanoparticle", 
+                "Critical heat flux", 
+                "Convective heat transfer", 
+                "Heat transfer"
+            ], 
+            "title": "Review and Comparison of Nanofluid Thermal Conductivity and Heat Transfer Enhancements", 
+            "url": "http://cn.bing.com/academic/profile?id=e6f2603004284624d8393c19f1cd3f21&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper considers the problem of motion planning for a car-like robot (i.e., a mobile robot with a nonholonomic constraint whose turning radius is lower-bounded). We present a fast and exact planner for our mobile robot model, based upon recursive subdivision of a collision-free path generated by a lower-level geometric planner that ignores the motion constraints. The resultant trajectory is optimized to give a path that is of near-minimal length in its homotopy class. Our claims of high speed are supported by experimental results for implementations that assume a robot moving amid polygonal obstacles. The completeness and the complexity of the algorithm are proven using an appropriate metric in the configuration space R/sup 2//spl times/S/sup 1/ of the robot. This metric is defined by using the length of the shortest paths in the absence of obstacles as the distance between two configurations. We prove that the new induced topology and the classical one are the same. Although we concentrate upon the car-like robot, the generalization of these techniques leads to new theoretical issues involving sub-Riemannian geometry and to practical results for nonholonomic motion planning. >", 
+            "authors": [
+                "Jeanpaul Laumond", 
+                "Paul E Jacobs", 
+                "Michel Taix", 
+                "Richard M Murray"
+            ], 
+            "fields": [
+                "Shortest path problem", 
+                "Planning", 
+                "Completeness", 
+                "Engineering", 
+                "Mobile robot"
+            ], 
+            "title": "A motion planner for nonholonomic mobile robots", 
+            "url": "http://cn.bing.com/academic/profile?id=f705dadafe94e3396bf823436b5ffd6c&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper develops a new framework for examining the determinants of wage distributions that emphasizes within-industry reallocation, labor market frictions, and differences in workforce composition across firms. More productive firms pay higher wages and exporting increases the wage paid by a firm with a given productivity. The opening of trade enhances wage inequality and can either raise or reduce unemployment. While wage inequality is higher in a trade equilibrium than in autarky, gradual trade liberalization first increases and later decreases inequality. Copyright 2010 The Econometric Society.", 
+            "authors": [
+                "Elhanan Helpman", 
+                "Oleg Itskhoki", 
+                "Stephen J Redding"
+            ], 
+            "fields": [
+                "Econometrics", 
+                "Risk", 
+                "Industrial history", 
+                "Numerical analysis", 
+                "Economy"
+            ], 
+            "title": "INEQUALITY AND UNEMPLOYMENT IN A GLOBAL ECONOMY", 
+            "url": "http://cn.bing.com/academic/profile?id=96df62251dd0c9dd0c261e41c2c91791&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "A new method for detecting spikes in acoustic Doppler velocimeter data sequences is suggested. The method combines three concepts: (1) that differentiation enhances the high frequency portion of a signal, (2) that the expected maximum of a random series is given by the Universal threshold, and (3) that good data cluster in a dense cloud in phase space or Poincare maps. These concepts are used to construct an ellipsoid in three-dimensional phase space, then points lying outside the ellipsoid are designated as spikes. The new method is shown to have superior performance to various other methods and it has the added advantage that it requires no parameters. Several methods for replacing sequences of spurious data are presented. A polynomial fitted to good data on either side of the spike event, then interpolated across the event, is preferred by the authors.", 
+            "authors": [
+                "D Goring", 
+                "Vladimir Nikora"
+            ], 
+            "fields": [
+                "Polynomial", 
+                "Acoustic Doppler velocimetry", 
+                "Engineering", 
+                "Instrumentation", 
+                "Measuring instrument"
+            ], 
+            "title": "Despiking Acoustic Doppler Velocimeter Data", 
+            "url": "http://cn.bing.com/academic/profile?id=53cb0a615bb4e22c3a818653e43fe065&encoded=0&v=paper_preview&mkt=zh-cn"
         }
     ], 
-    "num": 106
+    "num": 103
 }

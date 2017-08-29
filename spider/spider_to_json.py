@@ -3,15 +3,21 @@ import re
 import json
 import requests
 from bs4 import BeautifulSoup
-import sys
+import os, sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'}
 page = 20
-file_url_path = '/Users/darkindom/Desktop/spidder/spider_json/url_'
-file_data_path = '/Users/darkindom/Desktop/spidder/spider_json/data_'
-file_keywords_path = '/Users/darkindom/Desktop/spidder/keywords.txt'
+
+path_file = os.path.abspath(sys.argv[0])
+path_parent = os.path.abspath(os.path.join(path_file, os.pardir))
+path_file = os.path.dirname(path_file) + '/'
+path_parent = os.path.dirname(path_parent) + '/'
+
+file_url_path = path_parent + 'spider_json/url_'
+file_data_path = path_parent + 'spider_json/data_'
+file_keywords_path = path_file + 'keywords.txt'
 
 def getKeywords():
     with open(file_keywords_path, "r") as f_keywords:
