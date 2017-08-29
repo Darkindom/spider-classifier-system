@@ -2,7 +2,14 @@
 爬虫+分类
 # 爬虫
 爬虫使用的是Python的request 和 BeatifulSoup库
-爬取的文件存于spider_to_json文件夹中
+#### json格式
+spider/spider_to_json.py
+爬取的文件存于../spider_json文件夹中
+#### txt格式
+spider/spider_to_txt.py
+爬取的文件存于../spider_txt文件夹中
+
+
 
 # 分类器
 ## 原理
@@ -43,7 +50,7 @@ X = {![公式名](http://latex.codecogs.com/png.latex?{X_{1},X_{2},...,X_{m}})}
 ### 预处理
 操作 | 文件
 ---|---
-计算各个类别的所有训练文本的词频和，词频表 | 
+计算各个类别的所有训练文本的词频和，词频表 |
 记录各个类别的词频表 | `index_fre.json`
 记录各个类别的单词总数，词频和 | `all_word_num.json`
 记录所有训练样本的单词总数 | `all_word_num.json`
@@ -56,9 +63,9 @@ X = {![公式名](http://latex.codecogs.com/png.latex?{X_{1},X_{2},...,X_{m}})}
 ### 分类器
 操作 | 文件
 ---|---
-处理待分类文本，取得该文本的单词列表 | 
+处理待分类文本，取得该文本的单词列表 |
 从文件中读取各个类别的类条件概率表 | `index_bayestraining.json`
-对待分类文本的单词与各个类别进行比较，计算 | 
-&nbsp;&nbsp;&nbsp;&nbsp;若单词在该类别的表中，则用对应的概率 | 
-&nbsp;&nbsp;&nbsp;&nbsp;若单词不在该类别的表中，则计算 1/(所有训练样本的单词数 + 词频和) | 
+对待分类文本的单词与各个类别进行比较，计算 |
+&nbsp;&nbsp;&nbsp;&nbsp;若单词在该类别的表中，则用对应的概率 |
+&nbsp;&nbsp;&nbsp;&nbsp;若单词不在该类别的表中，则计算 1/(所有训练样本的单词数 + 词频和) |
 最终取得的结果即为该文本与类别的关联度，关联度最大的即视为该文本所属的类别，并记录 | `classify_text.json`
