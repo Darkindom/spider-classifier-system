@@ -1,9 +1,10 @@
 # spider-classifier-system
 爬虫+分类
 
-
+<br/>
+<br/>
 # 爬虫
-#### 爬虫使用的是Python的request 和 BeatifulSoup库
+爬虫使用的是Python的request 和 BeatifulSoup库
 #### json格式
 spider/spider_to_json.py
 爬取的文件存于../spider_json文件夹中
@@ -12,6 +13,8 @@ spider/spider_to_txt.py
 爬取的文件存于../spider_txt文件夹中
 
 
+<br/>
+<br/>
 # 分类器
 ## 原理
 
@@ -71,8 +74,20 @@ X = {![公式名](http://latex.codecogs.com/png.latex?{X_{1},X_{2},...,X_{m}})}
 &nbsp;&nbsp;&nbsp;&nbsp;若单词不在该类别的表中，则计算 1/(所有训练样本的单词数 + 词频和) |
 最终取得的结果即为该文本与类别的关联度，关联度最大的即视为该文本所属的类别，并记录 | `classify_text.json`
 
-
+<br/>
+<br/>
 # Elasticsearch
+## 环境搭建
+#### 运行Elasticsearch
+进入	/elasticsearch-5.5.2/ 文件夹  
+运行	`./bin/elasticsearch` 将ES开启  
+打开浏览器	输入 `localhost:9200/`	即可看到成功运行的案例
+
+#### 运行插件 elasticsearch-head
+进入	elasticsearch-head 文件夹  
+运行	`npm run start`  
+打开浏览器	输入 `localhost:9100/`	显示的就是head插件的页面
+
 ## 操作
 
 数据存放于es中，包括分类完的数据  
