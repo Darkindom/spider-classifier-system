@@ -1,0 +1,44 @@
+main {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 300px auto;
+}
+main .info {
+    font-size: 20px;
+    text-align: center;
+}
+main .search {
+    width: 960px;
+    overflow: hidden;
+}
+main .search .input-type {
+    float: left;
+    width: 100px;
+    height: 34px;
+    margin-right: 10px;
+    line-height: 34px;
+    border: 1px solid #000;
+    background-color: #f5f5f5;
+}
+main .search #search-input {
+    float: left;
+    display: block;
+    width: 800px;
+    height: 30px;
+}
+main .search .search-btn {
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    border: 2px solid #666;
+    line-height: 30px;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    background-color: #666;
+    cursor: pointer;
+}

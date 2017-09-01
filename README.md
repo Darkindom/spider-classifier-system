@@ -1,8 +1,7 @@
 # spider-classifier-system
 爬虫+分类
 
-<br/>
-<br/>
+
 # 爬虫
 爬虫使用的是Python的request 和 BeatifulSoup库
 #### json格式
@@ -13,12 +12,11 @@ spider/spider_to_txt.py
 爬取的文件存于../spider_txt文件夹中
 
 
-<br/>
-<br/>
+
 # 分类器
 ## 原理
 
-###贝叶斯公式  
+### 贝叶斯公式  
 ![公式名](http://latex.codecogs.com/png.latex?P(B|A)=\frac{P(A|B)P(B)}{P(A)})  
 
 有分类集合C = { ![公式名](http://latex.codecogs.com/png.latex?C_{1}C_{2}...C_{n}) }  
@@ -50,7 +48,7 @@ X = {![公式名](http://latex.codecogs.com/png.latex?{X_{1},X_{2},...,X_{m}})}
 类条件概率可以认为是单词tm在证明文本D属于类别C上提供了多大的证据
 
 
-##训练器
+## 训练器
 ### 预处理
 操作 | 文件
 ---|---
@@ -74,8 +72,7 @@ X = {![公式名](http://latex.codecogs.com/png.latex?{X_{1},X_{2},...,X_{m}})}
 &nbsp;&nbsp;&nbsp;&nbsp;若单词不在该类别的表中，则计算 1/(所有训练样本的单词数 + 词频和) |
 最终取得的结果即为该文本与类别的关联度，关联度最大的即视为该文本所属的类别，并记录 | `classify_text.json`
 
-<br/>
-<br/>
+
 # Elasticsearch
 ## 环境搭建
 #### 运行Elasticsearch
@@ -88,12 +85,31 @@ X = {![公式名](http://latex.codecogs.com/png.latex?{X_{1},X_{2},...,X_{m}})}
 运行	`npm run start`  
 打开浏览器	输入 `localhost:9100/`	显示的就是head插件的页面
 
+
+## 对于可能出现的集群健康值 ：yellow
+执行  curl -XPUT "http://localhost:9200/_settings" -d' { "number_of_replicas" : 0 } '
+得到  {"acknowledged":true}
+
+
 ## 操作
 
 数据存放于es中，包括分类完的数据  
 通过发送请求进行操作：  
-> 新增 put  localhost:9200/index/type/id  
-修改 post  localhost:9200/index/type/id  
-删除 delete  localhost:9200/index/type/id  
-搜索 post  localhost:9200/index/type/_search  
+> 新增 put  `localhost:9200/index/type/id`  
+修改 post  `localhost:9200/index/type/id`  
+删除 delete  `localhost:9200/index/type/id`  
+搜索 post  `localhost:9200/index/type/_search`  
 
+## 注意事项
+
+更改ip地址后，需要及时更改 /elasticsearch-5.5.2/config/elasticsearch.yml 中对应的ip地址
+
+# 可视化界面
+## 服务器
+服务器是用nodeJS搭建的，同时需要注意连接es的ip地址也要及时更改为现在的地址
+### 跨域问题
+因为es库和服务器在不同的端口，所以需要解决跨端口问题，这里使用的方法是：  
+nodeJS的 proxy
+把发送向 /papers/* 的请求转到9200端口上
+
+## 客户端

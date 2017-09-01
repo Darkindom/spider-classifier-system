@@ -1,0 +1,406 @@
+[2017-08-30T10:43:57,789][INFO ][o.e.n.Node               ] [] initializing ...
+[2017-08-30T10:43:58,113][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] using [1] data paths, mounts [[/ (/dev/disk0s2)]], net usable_space [71.3gb], net total_space [118.4gb], spins? [unknown], types [hfs]
+[2017-08-30T10:43:58,114][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] heap size [1.9gb], compressed ordinary object pointers [true]
+[2017-08-30T10:43:58,158][INFO ][o.e.n.Node               ] node name [rnQD3QO] derived from node ID [rnQD3QOKRgq3maAyhuE5gQ]; set [node.name] to override
+[2017-08-30T10:43:58,161][INFO ][o.e.n.Node               ] version[5.5.2], pid[34202], build[b2f0c09/2017-08-14T12:33:14.154Z], OS[Mac OS X/10.11.6/x86_64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_144/25.144-b01]
+[2017-08-30T10:43:58,168][INFO ][o.e.n.Node               ] JVM arguments [-Xms2g, -Xmx2g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -Djdk.io.permissionsUseCanonicalPath=true, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Dlog4j.skipJansi=true, -XX:+HeapDumpOnOutOfMemoryError, -Des.path.home=/Users/darkindom/Desktop/spidder/elasticsearch-5.5.2]
+[2017-08-30T10:44:01,778][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [aggs-matrix-stats]
+[2017-08-30T10:44:01,778][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [ingest-common]
+[2017-08-30T10:44:01,778][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-expression]
+[2017-08-30T10:44:01,779][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-groovy]
+[2017-08-30T10:44:01,779][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-mustache]
+[2017-08-30T10:44:01,779][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-painless]
+[2017-08-30T10:44:01,779][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [parent-join]
+[2017-08-30T10:44:01,780][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [percolator]
+[2017-08-30T10:44:01,780][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [reindex]
+[2017-08-30T10:44:01,780][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty3]
+[2017-08-30T10:44:01,781][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty4]
+[2017-08-30T10:44:01,782][INFO ][o.e.p.PluginsService     ] [rnQD3QO] no plugins loaded
+[2017-08-30T10:44:05,927][INFO ][o.e.d.DiscoveryModule    ] [rnQD3QO] using discovery type [zen]
+[2017-08-30T10:44:07,419][INFO ][o.e.n.Node               ] initialized
+[2017-08-30T10:44:07,420][INFO ][o.e.n.Node               ] [rnQD3QO] starting ...
+[2017-08-30T10:44:07,805][INFO ][o.e.t.TransportService   ] [rnQD3QO] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2017-08-30T10:44:10,908][INFO ][o.e.c.s.ClusterService   ] [rnQD3QO] new_master {rnQD3QO}{rnQD3QOKRgq3maAyhuE5gQ}{wFdkizXdShGmnCqHTCTv6w}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-elected-as-master ([0] nodes joined)
+[2017-08-30T10:44:10,996][INFO ][o.e.h.n.Netty4HttpServerTransport] [rnQD3QO] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
+[2017-08-30T10:44:10,996][INFO ][o.e.n.Node               ] [rnQD3QO] started
+[2017-08-30T10:44:11,295][INFO ][o.e.g.GatewayService     ] [rnQD3QO] recovered [1] indices into cluster_state
+[2017-08-30T10:44:12,578][INFO ][o.e.c.r.a.AllocationService] [rnQD3QO] Cluster health status changed from [RED] to [GREEN] (reason: [shards started [[peoples][3]] ...]).
+[2017-08-30T11:37:39,083][INFO ][o.e.c.m.MetaDataDeleteIndexService] [rnQD3QO] [peoples/7jEgMZqJRQ6xJ2EmY_BxjA] deleting index
+[2017-08-30T11:40:34,686][INFO ][o.e.c.m.MetaDataCreateIndexService] [rnQD3QO] [papers] creating index, cause [auto(bulk api)], templates [], shards [5]/[1], mappings []
+[2017-08-30T11:40:34,987][DEBUG][o.e.a.b.TransportShardBulkAction] [rnQD3QO] [papers][3] failed to execute bulk item (index) BulkShardRequest [[papers][3]] containing [index {[papers][artificial][AV4xOfKSdrjKFpkeBHXd], source[{
+"abstract": "Evolutionary algorithms (EAs) are stochastic search methods that mimic the natural biological evolution and/or the social behavior of species. Such algorithms have been developed to arrive at near-optimum solutions to large-scale optimization problems, for which traditional mathematical techniques may fail. This paper compares the formulation and results of five recent evolutionary-based algorithms: genetic algorithms, memetic algorithms, particle swarm, ant-colony systems, and shuffled frog leaping. A brief description of each algorithm is presented along with a pseudocode to facilitate the implementation and use of such algorithms by researchers and practitioners. Benchmark comparisons among the algorithms are presented for both continuous and discrete optimization problems, in terms of processing time, convergence speed, and quality of the results. Based on this comparative analysis, the performance of EAs is discussed along with some guidelines for determining the best operators for each algorithm. The study presents sophisticated ideas in a simplified form that should be beneficial to both practitioners and researchers involved in solving optimization problems.", 
+"authors": [
+    "Emad Elbeltagi", 
+    "Tarek Hegazy", 
+    "Donald E Grierson"
+], 
+"fields": artificial, 
+"title": "Comparison among five evolutionary-based optimization algorithms", 
+"url": "http://cn.bing.com/academic/profile?id=e8c3f26473f3e260b3ca25322b7abf86&encoded=0&v=paper_preview&mkt=zh-cn"
+}]}]
+org.elasticsearch.index.mapper.MapperParsingException: failed to parse
+	at org.elasticsearch.index.mapper.DocumentParser.wrapInMapperParsingException(DocumentParser.java:176) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:69) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentMapper.parse(DocumentMapper.java:277) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndex(IndexShard.java:529) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndexOnPrimary(IndexShard.java:506) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.prepareIndexOperationOnPrimary(TransportShardBulkAction.java:450) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeIndexRequestOnPrimary(TransportShardBulkAction.java:458) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeBulkItemRequest(TransportShardBulkAction.java:143) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:939) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:908) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.ReplicationOperation.execute(ReplicationOperation.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:322) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:264) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:888) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:885) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShardOperationsLock.acquire(IndexShardOperationsLock.java:151) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.acquirePrimaryOperationLock(IndexShard.java:1657) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.acquirePrimaryShardReference(TransportReplicationAction.java:897) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.access$400(TransportReplicationAction.java:93) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.doRun(TransportReplicationAction.java:281) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:260) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:252) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.RequestHandlerRegistry.processMessageReceived(RequestHandlerRegistry.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.TransportService$7.doRun(TransportService.java:644) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:638) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_144]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_144]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_144]
+Caused by: com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'artificial': was expecting ('true', 'false' or 'null')
+ at [Source: org.elasticsearch.common.bytes.BytesReference$MarkSupportingStreamInputWrapper@4a539559; line: 8, column: 22]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:1702) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:558) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._reportInvalidToken(UTF8StreamJsonParser.java:3528) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleUnexpectedValue(UTF8StreamJsonParser.java:2686) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken(UTF8StreamJsonParser.java:832) ~[jackson-core-2.8.6.jar:2.8.6]
+	at org.elasticsearch.common.xcontent.json.JsonXContentParser.nextToken(JsonXContentParser.java:55) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.innerParseObject(DocumentParser.java:398) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseObjectOrNested(DocumentParser.java:373) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.internalParseDocument(DocumentParser.java:93) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:66) ~[elasticsearch-5.5.2.jar:5.5.2]
+	... 30 more
+[2017-08-30T11:42:31,646][DEBUG][o.e.a.b.TransportShardBulkAction] [rnQD3QO] [papers][3] failed to execute bulk item (index) BulkShardRequest [[papers][3]] containing [index {[papers][artificial][1], source[{
+"abstract": "Evolutionary algorithms (EAs) are stochastic search methods that mimic the natural biological evolution and/or the social behavior of species. Such algorithms have been developed to arrive at near-optimum solutions to large-scale optimization problems, for which traditional mathematical techniques may fail. This paper compares the formulation and results of five recent evolutionary-based algorithms: genetic algorithms, memetic algorithms, particle swarm, ant-colony systems, and shuffled frog leaping. A brief description of each algorithm is presented along with a pseudocode to facilitate the implementation and use of such algorithms by researchers and practitioners. Benchmark comparisons among the algorithms are presented for both continuous and discrete optimization problems, in terms of processing time, convergence speed, and quality of the results. Based on this comparative analysis, the performance of EAs is discussed along with some guidelines for determining the best operators for each algorithm. The study presents sophisticated ideas in a simplified form that should be beneficial to both practitioners and researchers involved in solving optimization problems.", 
+"authors": [
+    "Emad Elbeltagi", 
+    "Tarek Hegazy", 
+    "Donald E Grierson"
+], 
+"fields": artificial, 
+"title": "Comparison among five evolutionary-based optimization algorithms", 
+"url": "http://cn.bing.com/academic/profile?id=e8c3f26473f3e260b3ca25322b7abf86&encoded=0&v=paper_preview&mkt=zh-cn"
+}]}]
+org.elasticsearch.index.mapper.MapperParsingException: failed to parse
+	at org.elasticsearch.index.mapper.DocumentParser.wrapInMapperParsingException(DocumentParser.java:176) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:69) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentMapper.parse(DocumentMapper.java:277) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndex(IndexShard.java:529) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndexOnPrimary(IndexShard.java:506) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.prepareIndexOperationOnPrimary(TransportShardBulkAction.java:450) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeIndexRequestOnPrimary(TransportShardBulkAction.java:458) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeBulkItemRequest(TransportShardBulkAction.java:143) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:939) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:908) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.ReplicationOperation.execute(ReplicationOperation.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:322) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:264) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:888) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:885) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShardOperationsLock.acquire(IndexShardOperationsLock.java:151) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.acquirePrimaryOperationLock(IndexShard.java:1657) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.acquirePrimaryShardReference(TransportReplicationAction.java:897) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.access$400(TransportReplicationAction.java:93) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.doRun(TransportReplicationAction.java:281) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:260) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:252) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.RequestHandlerRegistry.processMessageReceived(RequestHandlerRegistry.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.TransportService$7.doRun(TransportService.java:644) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:638) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_144]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_144]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_144]
+Caused by: com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'artificial': was expecting ('true', 'false' or 'null')
+ at [Source: org.elasticsearch.common.bytes.BytesReference$MarkSupportingStreamInputWrapper@4d4f5b2c; line: 8, column: 22]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:1702) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:558) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._reportInvalidToken(UTF8StreamJsonParser.java:3528) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleUnexpectedValue(UTF8StreamJsonParser.java:2686) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken(UTF8StreamJsonParser.java:832) ~[jackson-core-2.8.6.jar:2.8.6]
+	at org.elasticsearch.common.xcontent.json.JsonXContentParser.nextToken(JsonXContentParser.java:55) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.innerParseObject(DocumentParser.java:398) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseObjectOrNested(DocumentParser.java:373) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.internalParseDocument(DocumentParser.java:93) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:66) ~[elasticsearch-5.5.2.jar:5.5.2]
+	... 30 more
+[2017-08-30T11:42:55,605][INFO ][o.e.c.m.MetaDataMappingService] [rnQD3QO] [papers/2aPmS8tfRc6BTWHwOQVqAA] create_mapping [artificial]
+[2017-08-30T11:43:15,515][INFO ][o.e.c.m.MetaDataDeleteIndexService] [rnQD3QO] [papers/2aPmS8tfRc6BTWHwOQVqAA] deleting index
+[2017-08-30T11:43:25,273][INFO ][o.e.c.m.MetaDataCreateIndexService] [rnQD3QO] [papers] creating index, cause [auto(bulk api)], templates [], shards [5]/[1], mappings []
+[2017-08-30T11:43:25,442][INFO ][o.e.c.m.MetaDataMappingService] [rnQD3QO] [papers/jw5W8ixAQJ26q9ayWq5VSA] create_mapping [artificial]
+[2017-08-30T11:44:06,699][INFO ][o.e.c.m.MetaDataDeleteIndexService] [rnQD3QO] [papers/jw5W8ixAQJ26q9ayWq5VSA] deleting index
+[2017-08-30T11:44:21,112][INFO ][o.e.c.m.MetaDataCreateIndexService] [rnQD3QO] [papers] creating index, cause [auto(bulk api)], templates [], shards [5]/[1], mappings []
+[2017-08-30T11:44:21,394][INFO ][o.e.c.m.MetaDataMappingService] [rnQD3QO] [papers/rzWATT6YQ5SqGl5PioeXDA] create_mapping [artificial]
+[2017-08-30T11:47:06,574][INFO ][o.e.c.m.MetaDataUpdateSettingsService] [rnQD3QO] updating number_of_replicas to [0] for indices [papers]
+[2017-08-30T11:47:51,797][INFO ][o.e.c.m.MetaDataUpdateSettingsService] [rnQD3QO] updating number_of_replicas to [0] for indices [papers]
+[2017-08-30T11:50:07,453][DEBUG][o.e.a.b.TransportShardBulkAction] [rnQD3QO] [papers][2] failed to execute bulk item (index) BulkShardRequest [[papers][2]] containing [index {[papers][artificial][2], source[{
+"abstract": "asdajsdkjl DK is No1", 
+"fields": "artificial", 
+"title": "dkkkkkk", 
+}]}]
+org.elasticsearch.index.mapper.MapperParsingException: failed to parse
+	at org.elasticsearch.index.mapper.DocumentParser.wrapInMapperParsingException(DocumentParser.java:176) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:69) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentMapper.parse(DocumentMapper.java:277) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndex(IndexShard.java:529) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndexOnPrimary(IndexShard.java:506) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.prepareIndexOperationOnPrimary(TransportShardBulkAction.java:450) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeIndexRequestOnPrimary(TransportShardBulkAction.java:458) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeBulkItemRequest(TransportShardBulkAction.java:143) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:939) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:908) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.ReplicationOperation.execute(ReplicationOperation.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:322) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:264) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:888) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:885) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShardOperationsLock.acquire(IndexShardOperationsLock.java:151) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.acquirePrimaryOperationLock(IndexShard.java:1657) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.acquirePrimaryShardReference(TransportReplicationAction.java:897) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.access$400(TransportReplicationAction.java:93) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.doRun(TransportReplicationAction.java:281) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:260) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:252) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.RequestHandlerRegistry.processMessageReceived(RequestHandlerRegistry.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.TransportService$7.doRun(TransportService.java:644) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:638) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_144]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_144]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_144]
+Caused by: com.fasterxml.jackson.core.JsonParseException: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+ at [Source: org.elasticsearch.common.bytes.BytesReference$MarkSupportingStreamInputWrapper@eaecc5e; line: 5, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:1702) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:558) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:456) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleOddName(UTF8StreamJsonParser.java:2054) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseName(UTF8StreamJsonParser.java:1701) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken(UTF8StreamJsonParser.java:776) ~[jackson-core-2.8.6.jar:2.8.6]
+	at org.elasticsearch.common.xcontent.json.JsonXContentParser.nextToken(JsonXContentParser.java:55) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.innerParseObject(DocumentParser.java:398) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseObjectOrNested(DocumentParser.java:373) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.internalParseDocument(DocumentParser.java:93) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:66) ~[elasticsearch-5.5.2.jar:5.5.2]
+	... 30 more
+[2017-08-30T11:51:08,310][DEBUG][o.e.a.b.TransportShardBulkAction] [rnQD3QO] [papers][2] failed to execute bulk item (index) BulkShardRequest [[papers][2]] containing [index {[papers][artificial][2], source[{
+"abstract": "asdajsdkjl DK is No1", 
+"fields": "artificial", 
+"title": "dkkkkkk", 
+}]}]
+org.elasticsearch.index.mapper.MapperParsingException: failed to parse
+	at org.elasticsearch.index.mapper.DocumentParser.wrapInMapperParsingException(DocumentParser.java:176) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:69) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentMapper.parse(DocumentMapper.java:277) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndex(IndexShard.java:529) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndexOnPrimary(IndexShard.java:506) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.prepareIndexOperationOnPrimary(TransportShardBulkAction.java:450) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeIndexRequestOnPrimary(TransportShardBulkAction.java:458) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeBulkItemRequest(TransportShardBulkAction.java:143) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:939) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:908) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.ReplicationOperation.execute(ReplicationOperation.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:322) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:264) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:888) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:885) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShardOperationsLock.acquire(IndexShardOperationsLock.java:151) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.acquirePrimaryOperationLock(IndexShard.java:1657) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.acquirePrimaryShardReference(TransportReplicationAction.java:897) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.access$400(TransportReplicationAction.java:93) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.doRun(TransportReplicationAction.java:281) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:260) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:252) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.RequestHandlerRegistry.processMessageReceived(RequestHandlerRegistry.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.TransportService$7.doRun(TransportService.java:644) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:638) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_144]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_144]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_144]
+Caused by: com.fasterxml.jackson.core.JsonParseException: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+ at [Source: org.elasticsearch.common.bytes.BytesReference$MarkSupportingStreamInputWrapper@fbcbc75; line: 5, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:1702) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:558) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:456) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleOddName(UTF8StreamJsonParser.java:2054) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseName(UTF8StreamJsonParser.java:1701) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken(UTF8StreamJsonParser.java:776) ~[jackson-core-2.8.6.jar:2.8.6]
+	at org.elasticsearch.common.xcontent.json.JsonXContentParser.nextToken(JsonXContentParser.java:55) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.innerParseObject(DocumentParser.java:398) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseObjectOrNested(DocumentParser.java:373) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.internalParseDocument(DocumentParser.java:93) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:66) ~[elasticsearch-5.5.2.jar:5.5.2]
+	... 30 more
+[2017-08-30T11:53:51,909][DEBUG][o.e.a.b.TransportShardBulkAction] [rnQD3QO] [papers][1] failed to execute bulk item (index) BulkShardRequest [[papers][1]] containing [index {[papers][artificial][5], source[{
+            "abstract": "dkkkkk is No2", 
+            "title": "Dkkkkkkkk", 
+        }]}]
+org.elasticsearch.index.mapper.MapperParsingException: failed to parse
+	at org.elasticsearch.index.mapper.DocumentParser.wrapInMapperParsingException(DocumentParser.java:176) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:69) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentMapper.parse(DocumentMapper.java:277) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndex(IndexShard.java:529) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.prepareIndexOnPrimary(IndexShard.java:506) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.prepareIndexOperationOnPrimary(TransportShardBulkAction.java:450) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeIndexRequestOnPrimary(TransportShardBulkAction.java:458) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.executeBulkItemRequest(TransportShardBulkAction.java:143) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.bulk.TransportShardBulkAction.shardOperationOnPrimary(TransportShardBulkAction.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:939) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryShardReference.perform(TransportReplicationAction.java:908) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.ReplicationOperation.execute(ReplicationOperation.java:113) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:322) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.onResponse(TransportReplicationAction.java:264) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:888) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$1.onResponse(TransportReplicationAction.java:885) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShardOperationsLock.acquire(IndexShardOperationsLock.java:151) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.shard.IndexShard.acquirePrimaryOperationLock(IndexShard.java:1657) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.acquirePrimaryShardReference(TransportReplicationAction.java:897) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction.access$400(TransportReplicationAction.java:93) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncPrimaryAction.doRun(TransportReplicationAction.java:281) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:260) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.action.support.replication.TransportReplicationAction$PrimaryOperationTransportHandler.messageReceived(TransportReplicationAction.java:252) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.RequestHandlerRegistry.processMessageReceived(RequestHandlerRegistry.java:69) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.transport.TransportService$7.doRun(TransportService.java:644) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:638) [elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37) [elasticsearch-5.5.2.jar:5.5.2]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_144]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_144]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_144]
+Caused by: com.fasterxml.jackson.core.JsonParseException: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+ at [Source: org.elasticsearch.common.bytes.BytesReference$MarkSupportingStreamInputWrapper@3fbe159b; line: 4, column: 10]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:1702) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:558) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:456) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleOddName(UTF8StreamJsonParser.java:2054) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseName(UTF8StreamJsonParser.java:1701) ~[jackson-core-2.8.6.jar:2.8.6]
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken(UTF8StreamJsonParser.java:776) ~[jackson-core-2.8.6.jar:2.8.6]
+	at org.elasticsearch.common.xcontent.json.JsonXContentParser.nextToken(JsonXContentParser.java:55) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.innerParseObject(DocumentParser.java:398) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseObjectOrNested(DocumentParser.java:373) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.internalParseDocument(DocumentParser.java:93) ~[elasticsearch-5.5.2.jar:5.5.2]
+	at org.elasticsearch.index.mapper.DocumentParser.parseDocument(DocumentParser.java:66) ~[elasticsearch-5.5.2.jar:5.5.2]
+	... 30 more
+[2017-08-30T14:58:44,191][INFO ][o.e.n.Node               ] [rnQD3QO] stopping ...
+[2017-08-30T14:58:44,302][INFO ][o.e.n.Node               ] [rnQD3QO] stopped
+[2017-08-30T14:58:44,302][INFO ][o.e.n.Node               ] [rnQD3QO] closing ...
+[2017-08-30T14:58:44,473][INFO ][o.e.n.Node               ] [rnQD3QO] closed
+[2017-08-30T14:58:54,734][INFO ][o.e.n.Node               ] [] initializing ...
+[2017-08-30T14:58:54,971][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] using [1] data paths, mounts [[/ (/dev/disk0s2)]], net usable_space [71.2gb], net total_space [118.4gb], spins? [unknown], types [hfs]
+[2017-08-30T14:58:54,976][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] heap size [1.9gb], compressed ordinary object pointers [true]
+[2017-08-30T14:58:55,082][INFO ][o.e.n.Node               ] node name [rnQD3QO] derived from node ID [rnQD3QOKRgq3maAyhuE5gQ]; set [node.name] to override
+[2017-08-30T14:58:55,093][INFO ][o.e.n.Node               ] version[5.5.2], pid[56859], build[b2f0c09/2017-08-14T12:33:14.154Z], OS[Mac OS X/10.11.6/x86_64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_144/25.144-b01]
+[2017-08-30T14:58:55,096][INFO ][o.e.n.Node               ] JVM arguments [-Xms2g, -Xmx2g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -Djdk.io.permissionsUseCanonicalPath=true, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Dlog4j.skipJansi=true, -XX:+HeapDumpOnOutOfMemoryError, -Des.path.home=/Users/darkindom/Desktop/spidder/elasticsearch-5.5.2]
+[2017-08-30T14:58:58,991][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [aggs-matrix-stats]
+[2017-08-30T14:58:58,992][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [ingest-common]
+[2017-08-30T14:58:58,992][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-expression]
+[2017-08-30T14:58:58,993][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-groovy]
+[2017-08-30T14:58:58,994][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-mustache]
+[2017-08-30T14:58:58,994][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-painless]
+[2017-08-30T14:58:58,995][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [parent-join]
+[2017-08-30T14:58:59,010][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [percolator]
+[2017-08-30T14:58:59,011][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [reindex]
+[2017-08-30T14:58:59,011][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty3]
+[2017-08-30T14:58:59,012][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty4]
+[2017-08-30T14:58:59,014][INFO ][o.e.p.PluginsService     ] [rnQD3QO] no plugins loaded
+[2017-08-30T14:59:03,307][INFO ][o.e.d.DiscoveryModule    ] [rnQD3QO] using discovery type [zen]
+[2017-08-30T14:59:05,019][INFO ][o.e.n.Node               ] initialized
+[2017-08-30T14:59:05,020][INFO ][o.e.n.Node               ] [rnQD3QO] starting ...
+[2017-08-30T14:59:05,629][INFO ][o.e.t.TransportService   ] [rnQD3QO] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2017-08-30T14:59:08,829][INFO ][o.e.c.s.ClusterService   ] [rnQD3QO] new_master {rnQD3QO}{rnQD3QOKRgq3maAyhuE5gQ}{lm41u_6oSQSHiOTP1tLnZA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-elected-as-master ([0] nodes joined)
+[2017-08-30T14:59:08,914][INFO ][o.e.h.n.Netty4HttpServerTransport] [rnQD3QO] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
+[2017-08-30T14:59:08,914][INFO ][o.e.n.Node               ] [rnQD3QO] started
+[2017-08-30T14:59:09,462][INFO ][o.e.g.GatewayService     ] [rnQD3QO] recovered [1] indices into cluster_state
+[2017-08-30T14:59:10,692][INFO ][o.e.c.r.a.AllocationService] [rnQD3QO] Cluster health status changed from [RED] to [GREEN] (reason: [shards started [[papers][2]] ...]).
+[2017-08-30T15:00:44,528][INFO ][o.e.n.Node               ] [rnQD3QO] stopping ...
+[2017-08-30T15:00:44,619][INFO ][o.e.n.Node               ] [rnQD3QO] stopped
+[2017-08-30T15:00:44,619][INFO ][o.e.n.Node               ] [rnQD3QO] closing ...
+[2017-08-30T15:00:44,665][INFO ][o.e.n.Node               ] [rnQD3QO] closed
+[2017-08-30T15:00:51,756][INFO ][o.e.n.Node               ] [] initializing ...
+[2017-08-30T15:00:51,937][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] using [1] data paths, mounts [[/ (/dev/disk0s2)]], net usable_space [71.2gb], net total_space [118.4gb], spins? [unknown], types [hfs]
+[2017-08-30T15:00:51,938][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] heap size [1.9gb], compressed ordinary object pointers [true]
+[2017-08-30T15:00:51,998][INFO ][o.e.n.Node               ] node name [rnQD3QO] derived from node ID [rnQD3QOKRgq3maAyhuE5gQ]; set [node.name] to override
+[2017-08-30T15:00:51,999][INFO ][o.e.n.Node               ] version[5.5.2], pid[57129], build[b2f0c09/2017-08-14T12:33:14.154Z], OS[Mac OS X/10.11.6/x86_64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_144/25.144-b01]
+[2017-08-30T15:00:52,000][INFO ][o.e.n.Node               ] JVM arguments [-Xms2g, -Xmx2g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -Djdk.io.permissionsUseCanonicalPath=true, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Dlog4j.skipJansi=true, -XX:+HeapDumpOnOutOfMemoryError, -Des.path.home=/Users/darkindom/Desktop/spidder/elasticsearch-5.5.2]
+[2017-08-30T15:00:54,786][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [aggs-matrix-stats]
+[2017-08-30T15:00:54,786][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [ingest-common]
+[2017-08-30T15:00:54,787][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-expression]
+[2017-08-30T15:00:54,787][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-groovy]
+[2017-08-30T15:00:54,787][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-mustache]
+[2017-08-30T15:00:54,787][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-painless]
+[2017-08-30T15:00:54,788][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [parent-join]
+[2017-08-30T15:00:54,788][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [percolator]
+[2017-08-30T15:00:54,789][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [reindex]
+[2017-08-30T15:00:54,789][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty3]
+[2017-08-30T15:00:54,789][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty4]
+[2017-08-30T15:00:54,791][INFO ][o.e.p.PluginsService     ] [rnQD3QO] no plugins loaded
+[2017-08-30T15:00:58,216][INFO ][o.e.d.DiscoveryModule    ] [rnQD3QO] using discovery type [zen]
+[2017-08-30T15:00:59,655][INFO ][o.e.n.Node               ] initialized
+[2017-08-30T15:00:59,656][INFO ][o.e.n.Node               ] [rnQD3QO] starting ...
+[2017-08-30T15:01:00,745][INFO ][o.e.t.TransportService   ] [rnQD3QO] publish_address {10.0.7.18:9300}, bound_addresses {10.0.7.18:9300}
+[2017-08-30T15:01:00,762][INFO ][o.e.b.BootstrapChecks    ] [rnQD3QO] bound or publishing to a non-loopback or non-link-local address, enforcing bootstrap checks
+[2017-08-30T15:01:03,855][INFO ][o.e.c.s.ClusterService   ] [rnQD3QO] new_master {rnQD3QO}{rnQD3QOKRgq3maAyhuE5gQ}{D40lmDQEScCKQLkcr-zFIQ}{10.0.7.18}{10.0.7.18:9300}, reason: zen-disco-elected-as-master ([0] nodes joined)
+[2017-08-30T15:01:03,931][INFO ][o.e.h.n.Netty4HttpServerTransport] [rnQD3QO] publish_address {10.0.7.18:9200}, bound_addresses {10.0.7.18:9200}
+[2017-08-30T15:01:03,931][INFO ][o.e.n.Node               ] [rnQD3QO] started
+[2017-08-30T15:01:04,198][INFO ][o.e.g.GatewayService     ] [rnQD3QO] recovered [1] indices into cluster_state
+[2017-08-30T15:01:04,947][INFO ][o.e.c.r.a.AllocationService] [rnQD3QO] Cluster health status changed from [RED] to [GREEN] (reason: [shards started [[papers][1]] ...]).
+[2017-08-30T16:32:00,472][INFO ][o.e.n.Node               ] [rnQD3QO] stopping ...
+[2017-08-30T16:32:00,651][INFO ][o.e.n.Node               ] [rnQD3QO] stopped
+[2017-08-30T16:32:00,652][INFO ][o.e.n.Node               ] [rnQD3QO] closing ...
+[2017-08-30T16:32:01,470][INFO ][o.e.n.Node               ] [rnQD3QO] closed
+[2017-08-30T16:32:13,435][INFO ][o.e.n.Node               ] [] initializing ...
+[2017-08-30T16:32:13,622][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] using [1] data paths, mounts [[/ (/dev/disk0s2)]], net usable_space [71.2gb], net total_space [118.4gb], spins? [unknown], types [hfs]
+[2017-08-30T16:32:13,623][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] heap size [1.9gb], compressed ordinary object pointers [true]
+[2017-08-30T16:32:13,709][INFO ][o.e.n.Node               ] node name [rnQD3QO] derived from node ID [rnQD3QOKRgq3maAyhuE5gQ]; set [node.name] to override
+[2017-08-30T16:32:13,712][INFO ][o.e.n.Node               ] version[5.5.2], pid[64060], build[b2f0c09/2017-08-14T12:33:14.154Z], OS[Mac OS X/10.11.6/x86_64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_144/25.144-b01]
+[2017-08-30T16:32:13,714][INFO ][o.e.n.Node               ] JVM arguments [-Xms2g, -Xmx2g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -Djdk.io.permissionsUseCanonicalPath=true, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Dlog4j.skipJansi=true, -XX:+HeapDumpOnOutOfMemoryError, -Des.path.home=/Users/darkindom/Desktop/spidder/elasticsearch-5.5.2]
+[2017-08-30T16:32:16,653][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [aggs-matrix-stats]
+[2017-08-30T16:32:16,654][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [ingest-common]
+[2017-08-30T16:32:16,654][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-expression]
+[2017-08-30T16:32:16,655][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-groovy]
+[2017-08-30T16:32:16,655][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-mustache]
+[2017-08-30T16:32:16,656][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-painless]
+[2017-08-30T16:32:16,656][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [parent-join]
+[2017-08-30T16:32:16,657][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [percolator]
+[2017-08-30T16:32:16,657][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [reindex]
+[2017-08-30T16:32:16,658][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty3]
+[2017-08-30T16:32:16,659][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty4]
+[2017-08-30T16:32:16,660][INFO ][o.e.p.PluginsService     ] [rnQD3QO] no plugins loaded
+[2017-08-30T16:32:19,885][INFO ][o.e.d.DiscoveryModule    ] [rnQD3QO] using discovery type [zen]
+[2017-08-30T16:32:21,301][INFO ][o.e.n.Node               ] initialized
+[2017-08-30T16:32:21,304][INFO ][o.e.n.Node               ] [rnQD3QO] starting ...
+[2017-08-30T16:32:21,821][INFO ][o.e.t.TransportService   ] [rnQD3QO] publish_address {10.0.7.18:9300}, bound_addresses {10.0.7.18:9300}
+[2017-08-30T16:32:21,903][INFO ][o.e.b.BootstrapChecks    ] [rnQD3QO] bound or publishing to a non-loopback or non-link-local address, enforcing bootstrap checks
+[2017-08-30T16:32:25,139][INFO ][o.e.c.s.ClusterService   ] [rnQD3QO] new_master {rnQD3QO}{rnQD3QOKRgq3maAyhuE5gQ}{lbGxAOtNTk2FaUQhAa77Ww}{10.0.7.18}{10.0.7.18:9300}, reason: zen-disco-elected-as-master ([0] nodes joined)
+[2017-08-30T16:32:25,229][INFO ][o.e.h.n.Netty4HttpServerTransport] [rnQD3QO] publish_address {10.0.7.18:9200}, bound_addresses {10.0.7.18:9200}
+[2017-08-30T16:32:25,229][INFO ][o.e.n.Node               ] [rnQD3QO] started
+[2017-08-30T16:32:25,632][INFO ][o.e.g.GatewayService     ] [rnQD3QO] recovered [1] indices into cluster_state
+[2017-08-30T16:32:26,562][INFO ][o.e.c.r.a.AllocationService] [rnQD3QO] Cluster health status changed from [RED] to [GREEN] (reason: [shards started [[papers][0]] ...]).
+[2017-08-30T18:24:13,366][INFO ][o.e.n.Node               ] [rnQD3QO] stopping ...
+[2017-08-30T18:24:13,464][INFO ][o.e.n.Node               ] [rnQD3QO] stopped
+[2017-08-30T18:24:13,465][INFO ][o.e.n.Node               ] [rnQD3QO] closing ...
+[2017-08-30T18:24:13,486][INFO ][o.e.n.Node               ] [rnQD3QO] closed
