@@ -1,6 +1,6 @@
 $(function() {
-
     $('#search-btn').bind('click', function() {
+        $('.main-content').show();
         var search_word = $('#search-input').val();
 
         var type = $('.input-type').val();
@@ -10,11 +10,29 @@ $(function() {
                 type: 'GET',
                 url: '/papers/artificial/_search',
                 success: function(res) {
-                    $('.info').text(res);
+                    $('#result-list').html('');
+                    let hits = res.hits.hits;
+                    for (let i = 0; i < hits.length; i++) {
+                        console.log(hits[i]);
+
+                        let toList = `<ul class='mc-list'>`;
+
+                        toList += `<li><a href=${hits[i]['_source'].url}>${hits[i]['_source'].title}</a></li>`;
+                        let authors = '<li>';
+                        if ( hits[i]['_source'].authors && hits[i]['_source'].authors[0] ) {
+                            for (let j = 0; j < hits[i]['_source'].authors.length; j++) {
+                                authors = authors + hits[i]['_source'].authors[j] + ', ';
+                            }
+                        }
+                        authors += '</li>';
+                        toList += authors + `<li>${hits[i]['_source'].fields}</li></ul>`;
+
+                        $('#result-list').append(toList);
+                    }
                 },
                 contentType: "application/json",
             });
-        }else if (type == 'title' || type == 'abstract' || type == 'author') {
+        }else if (type == 'title' || type == 'abstract' || type == 'authors' || type == 'fields') {
             var data = {
                 "query" : {
                     "match": {}
@@ -26,15 +44,28 @@ $(function() {
                 url: '/papers/artificial/_search',
                 data: JSON.stringify(data),
                 success: function(res) {
-                    $('.info').text(res);
+                    $('#result-list').html('');
+                    let hits = res.hits.hits;
+                    for (let i = 0; i < hits.length; i++) {
+                        console.log(hits[i]);
+
+                        let toList = `<ul class='mc-list'>`;
+
+                        toList += `<li><a href=${hits[i]['_source'].url}>${hits[i]['_source'].title}</a></li>`;
+                        let authors = '<li>';
+                        if ( hits[i]['_source'].authors && hits[i]['_source'].authors[0] ) {
+                            for (let j = 0; j < hits[i]['_source'].authors.length; j++) {
+                                authors = authors + hits[i]['_source'].authors[j] + ', ';
+                            }
+                        }
+                        authors += '</li>';
+                        toList += authors + `<li>${hits[i]['_source'].fields}</li></ul>`;
+
+                        $('#result-list').append(toList);
+                    }
                 },
                 contentType: "application/json",
             });
-        }else if (type == 'field'){
-
         }
-
-
-
     })
 })

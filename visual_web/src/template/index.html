@@ -9,17 +9,31 @@
 </head>
 <body>
     <main>
-        <p class="info">search</p>
+        <p class="info">welcome to DK system</p>
         <div class="search">
             <select class="input-type" name="input-type">
                 <option value="all" selected>all</option>
                 <option value="title">title</option>
                 <option value="abstract">abstract</option>
-                <option value="author">author</option>
-                <option value="field">field</option>
+                <option value="authors">author</option>
+                <option value="fields">field</option>
             </select>
             <input type="text" id="search-input" name="search" value="">
             <p class="search-btn" id="search-btn">go</p>
+        </div>
+        <div class="main-content">
+            <ul class="mc-title">
+                <li>title</li>
+                <li>authors</li>
+                <li>field</li>
+            </ul>
+            <div id="result-list">
+                <ul class="mc-list">
+                    <!-- <li>title</li>
+                    <li>author,authors,authors</li>
+                    <li>type</li> -->
+                </ul>
+            </div>
         </div>
     </main>
 

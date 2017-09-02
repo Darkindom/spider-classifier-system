@@ -11,9 +11,9 @@ app.get('/index', function(req, res) {
 
 app.use(express.static('src'));
 
-app.get('/papers/*', proxy('172.16.103.6:9200'));
+app.get('/papers/*', proxy('localhost:9200'));
 
-app.post('/papers/*', proxy('172.16.103.6:9200'));
+app.post('/papers/*', proxy('localhost:9200'));
 
 app.listen(APP_PORT);
 
