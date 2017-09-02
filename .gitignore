@@ -1,0 +1,12 @@
+# 忽略es安装包
+elasticsearch-5.5.2.zip
+elasticsearch-5.5.2/
+
+# 忽略 .pyc 文件
+.pyc
+
+# 忽略爬虫的其他文件
+spidder/bin
+spidder/include
+spidder/lib
+spidder/.Python
