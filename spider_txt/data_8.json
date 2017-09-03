@@ -1,0 +1,1603 @@
+{
+    "data": [
+        {
+            "abstract": "This paper explores the relationship between domain scheduling in avirtual machine monitor (VMM) and I/O performance. Traditionally, VMM schedulers have focused on fairly sharing the processor resources among domains while leaving the scheduling of I/O resources as asecondary concern. However, this can resultin poor and/or unpredictable application performance, making virtualization less desirable for applications that require efficient and consistent I/O behavior.   This paper is the first to study the impact of the VMM scheduler on performance using multiple guest domains concurrently running different types of applications. In particular, different combinations of processor-intensive, bandwidth-intensive, andlatency-sensitive applications are run concurrently to quantify the impacts of different scheduler configurations on processor and I/O performance. These applications are evaluated on 11 different scheduler configurations within the Xen VMM. These configurations include a variety of scheduler extensions aimed at improving I/O performance. This cross product of scheduler configurations and application types offers insight into the key problems in VMM scheduling for I/O and motivates future innovation in this area.", 
+            "authors": [
+                "Diego Ongaro", 
+                "Alan L Cox", 
+                "Scott Rixner"
+            ], 
+            "fields": [
+                "Hypervisor"
+            ], 
+            "title": "Scheduling I/O in virtual machine monitors", 
+            "url": "http://cn.bing.com/academic/profile?id=168cfac591352d5e90b704f36f1ff5bf&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Packet-switched networks-on-chip (NoC) have been proposed as an efficient communication infrastructure for multi-core architectures. Adding virtual channels to a NoC helps to avoid deadlock and optimize the bandwidth of the physical channels in exchange for a more complex design of the routers. Another, possibly alternative, approach is to build multiple parallel physical networks (multiplanes) with smaller channels and simpler router organizations. We present a comparative analysis of these two approaches based on analytical models and on a comprehensive set of experimental results including both synthesized hardware implementations and system-level simulations.", 
+            "authors": [
+                "Young Jin Yoon", 
+                "Nicola Concer", 
+                "Michele Petracca", 
+                "Luca P Carloni"
+            ], 
+            "fields": [
+                "Computer architecture", 
+                "Integrated circuit design", 
+                "System on a chip", 
+                "Bandwidth", 
+                "Network on a chip"
+            ], 
+            "title": "Virtual channels vs. multiple physical networks: a comparative analysis", 
+            "url": "http://cn.bing.com/academic/profile?id=c04ca0cbe88eb8af5014eca90b03548d&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper focuses on extensibility, the ability of a programmer using a particular language to extend the expressiveness of that language. This paper explores how to provide an interesting notion of extensibility by virtualizing the interface between code and data. A virtual value is a special value that supports behavioral intercession. When a primitive operation is applied to a virtual value, it invokes a trap on that virtual value. A virtual value contains multiple traps, each of which is a user-defined function that describes how that operation should behave on that value. This paper formalizes the semantics of virtual values, and shows how they enable the definition of a variety of language extensions, including additional numeric types; delayed evaluation; taint tracking; contracts; revokable membranes; and units of measure. We report on our experience implementing virtual values for Javascript within an extension for the Firefox browser.", 
+            "authors": [
+                "Thomas H Austin", 
+                "Tim Disney", 
+                "Cormac Flanagan"
+            ], 
+            "fields": [], 
+            "title": "Virtual values for language extension", 
+            "url": "http://cn.bing.com/academic/profile?id=c41de106b0b5f04eadf9c854c528e6a2&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Developed more than 30 years ago to address mainframe computing problems, virtual machine monitors have resurfaced on commodity platforms, offering novel solutions to challenges in security, reliability, and administration. Stanford University researchers began to look at the potential of virtual machines to overcome difficulties that hardware and operating system limitations imposed: This time the problems stemmed from massively parallel processing (MPP) machines that were difficult to program and could not run existing operating systems. With virtual machines, researchers found they could make these unwieldy architectures look sufficiently similar to existing platforms to leverage the current operating systems. From this project came the people and ideas that underpinned VMware Inc., the original supplier of VMMs for commodity computing hardware. The implications of having a VMM for commodity platforms intrigued both researchers and entrepreneurs.", 
+            "authors": [
+                "Mendel Rosenblum", 
+                "Tal Garfinkel"
+            ], 
+            "fields": [
+                "Resource management", 
+                "Massively parallel", 
+                "Human multitasking", 
+                "Computer hardware", 
+                "Virtual machine"
+            ], 
+            "title": "Virtual machine monitors: current technology and future trends", 
+            "url": "http://cn.bing.com/academic/profile?id=bd02d8d896cdec5baf389f62ef02456b&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Attackers and defenders of computer systems both strive to gain complete control over the system. To maximize their control, both attackers and defenders have migrated to low-level, operating system code. In this paper, we assume the perspective of the attacker, who is trying to run malicious software and avoid detection. By assuming this perspective, we hope to help defenders understand and defend against the threat posed by a new class of rootkits. We evaluate a new type of malicious software that gains qualitatively more control over a system. This new type of malware, which we call a virtual-machine based rootkit (VMBR), installs a virtual-machine monitor underneath an existing operating system and hoists the original operating system into a virtual machine. Virtual-machine based rootkits are hard to detect and remove because their state cannot be accessed by software running in the target system. Further, VMBRs support general-purpose malicious services by allowing such services to run in a separate operating system that is protected from the target system. We evaluate this new threat by implementing two proof-of-concept VMBRs. We use our proof-of-concept VMBRs to subvert Windows XP and Linux target systems, and we implement four example malicious services using the VMBR platform. Last, we use what we learn from our proof-of-concept VMBRs to explore ways to defend against this new threat. We discuss possible ways to detect and prevent VMBRs, and we implement a defense strategy suitable for protecting systems against this threat.", 
+            "authors": [
+                "Samuel T King", 
+                "P M Chen"
+            ], 
+            "fields": [
+                "Detector", 
+                "Control system", 
+                "Data structure", 
+                "Virtual machine", 
+                "Kernel"
+            ], 
+            "title": "SubVirt: implementing malware with virtual machines", 
+            "url": "http://cn.bing.com/academic/profile?id=0d8e4e8014994328c86d6c69567e7045&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual Scanning incorporates novel uses of colored light into its system of health assessment and therapy. Independent investigations of its effectiveness in Russia and the UK have revealed unique abilities to correct incipient and fully developed chronic conditions. As such it forms an important new addition to the field of Chromotherapy. It differs from most others, in that its development depended on discoveries in neuroscience by its inventor, and subsequent application of new models in computational neuroscience.", 
+            "authors": [
+                "Alex Hankey", 
+                "Elena Ewing"
+            ], 
+            "fields": [
+                "Bioinformatics", 
+                "Medical research", 
+                "Computational neuroscience"
+            ], 
+            "title": "New Light on Chromotherapy: Grakov's \u2018Virtual Scanning\u2019 System of Medical Assessment and Treatment", 
+            "url": "http://cn.bing.com/academic/profile?id=9ca51a75795cdeca2e41e4821eeddb9d&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We propose a virtual node algorithm that allows material to separate along arbitrary (possibly branched) piecewise linear paths through a mesh. The material within an element is fragmented by creating several replicas of the element and assigning a portion of real material to each replica. This results in elements that contain both real material and empty regions. The missing material is contained in another copy (or copies) of this element. Our new virtual node algorithm automatically determines the number of replicas and the assignment of material to each. Moreover, it provides the degrees of freedom required to simulate the partially or fully fragmented material in a fashion consistent with the embedded geometry. This approach enables efficient simulation of complex geometry with a simple mesh, i.e. the geometry need not align itself with element boundaries. It also alleviates many shortcomings of traditional La-grangian simulation techniques for meshes with changing topology. For example, slivers do not require small CFL time step restrictions since they are embedded in well shaped larger elements. To enable robust simulation of embedded geometry, we propose new algorithms for handling rigid body and self collisions. In addition, we present several mechanisms for influencing and controlling fracture with grain boundaries, prescoring, etc. We illustrate our method for both volumetric and thin-shell simulations.", 
+            "authors": [
+                "Neil Molino", 
+                "Z Bao", 
+                "Ronald Fedkiw"
+            ], 
+            "fields": [
+                "Fracture", 
+                "Grain boundary", 
+                "Degrees of freedom", 
+                "Rigid body", 
+                "Piecewise linear function"
+            ], 
+            "title": "A virtual node algorithm for changing mesh topology during simulation", 
+            "url": "http://cn.bing.com/academic/profile?id=5b2cc86d8a09b05dc23595f38cc7af29&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Cloud computing for IoT (Internet of Things) has exhibited the greatest growth in the IT market in the recent past and this trend is expected to continue. Many companies are adopting a virtual desktop infrastructure (VDI) for private cloud computing to reduce costs and enhance the efficiency of their servers. As a VDI is widely used, threats of cyber terror and invasion are also increasing. To minimize the damage, response procedure for cyber intrusion on a VDI should be systematized. Therefore, we propose an investigation methodology for VDI solutions in this paper. Here we focus on a virtual desktop infrastructure and introduce various desktop virtualization solutions that are widely used, such as VMware, Citrix, and Microsoft. In addition, we verify the integrity of the data acquired in order that the result of our proposed methodology is acceptable as evidence in a court of law. During the experiment, we observed an error: one of the commonly used digital forensic tools failed to mount a dynamically allocated virtual disk properly.", 
+            "authors": [
+                "Doowon Jeong", 
+                "Jungheum Park", 
+                "Sangjin Lee", 
+                "Chulhoon Kang"
+            ], 
+            "fields": [], 
+            "title": "Investigation Methodology of a Virtual Desktop Infrastructure for IoT", 
+            "url": "http://cn.bing.com/academic/profile?id=c8ad20f61a7268217a066202c60d21f1&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In this paper, we introduce and analyze four gesture-controlled musical instruments. We briefly discuss the test platform designed to allow for rapid experimentation of new interfaces and control mappings. We describe our design experiences and discuss the effects of system features such as latency, resolution and lack of tactile feedback. The instruments use virtual reality hardware and computer vision for user input, and three-dimensional stereo vision as well as simple desktop displays for providing visual feedback. The instrument sounds are synthesized in real-time using physical sound modeling.", 
+            "authors": [
+                "Teemu Makipatola", 
+                "Juha Laitinen", 
+                "Aki Kanerva", 
+                "Tapio Takala"
+            ], 
+            "fields": [
+                "Computer vision", 
+                "Real-time computing", 
+                "Stereopsis", 
+                "Gesture", 
+                "Virtual reality"
+            ], 
+            "title": "Experiments with virtual reality instruments", 
+            "url": "http://cn.bing.com/academic/profile?id=11eddf3822692e99d04aacb6345e37c5&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In this paper, we introduce a novel approach to bypass modern face authentication systems. More specifically, by leveraging a handful of pictures of the target user taken from social media, we show how to create realistic, textured, 3D facial models that undermine the security of widely used face authentication solutions. Our framework makes use of virtual reality (VR) systems, incorporating along the way the ability to perform animations (e.g., raising an eyebrow or smiling) of the facial model, in order to trick liveness detectors into believing that the 3D model is a real human face. The synthetic face of the user is displayed on the screen of the VR device, and as the device rotates and translates in the real world, the 3D face moves accordingly. To an observing face authentication system, the depth and motion cues of the display match what would be expected for a human face. We argue that such VR-based spoofing attacks constitute a fundamentally new class of attacks that point to a serious weaknesses in camera-based authentication systems: Unless they incorporate other sources of verifiable data, systems relying on color image data and camera motion are prone to attacks via virtual realism. To demonstrate the practical nature of this threat, we conduct thorough experiments using an end-to-end implementation of our approach and show how it undermines the security of several face authentication solutions that include both motion-based and liveness detectors.", 
+            "authors": [
+                "Yi Xu", 
+                "True Price", 
+                "Janmichael Frahm", 
+                "Fabian Monrose"
+            ], 
+            "fields": [], 
+            "title": "Virtual U: Defeating Face Liveness Detection by Building Virtual Models From Y our Public Photos", 
+            "url": "http://cn.bing.com/academic/profile?id=e3e810fcd92e60279a0757ddc67c6820&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtualization is an important enabling technology for many large private datacenters and cloud computing environments. Virtual machines often have complex expectations of their runtime environment such as access to a particular network segment or storage system. Similarly, the runtime environment may have complex expectations of a virtual machine's behavior such as compliance with network access control criteria or limits on the type and quantity of network traffic generated by the virtual machine. Today, these diverse requirements are too often specified, communicated and managed with non-portable, site specific, loosely coupled, and out-of-band processes. We propose Virtual Machine Contracts (VMCs), a platform independent way of automating the communication and management of such requirements. We describe how VMCs can be expressed through additions to the Open Virtual Machine Format (OVF) standard and how they can be managed in a uniform way even across environments with heterogeneous elements for enforcement. We explore use cases for this approach and argue that it is an essential step towards automated control and management of virtual machines in large datacenters and cloud computing environments.", 
+            "authors": [
+                "Jeanna Neefe Matthews", 
+                "Tal Garfinkel", 
+                "Christofer Hoff", 
+                "Jeff Wheeler"
+            ], 
+            "fields": [
+                "Virtual machine", 
+                "Access control", 
+                "Automation", 
+                "Computer data storage", 
+                "Virtualization"
+            ], 
+            "title": "Virtual machine contracts for datacenter and cloud computing environments", 
+            "url": "http://cn.bing.com/academic/profile?id=3c5843013183a528db2a79bba55a70ff&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Communication and information technologies are adding new capabilities for rapid and inexpensive customer input to all stages of the product development (PD) process. In this article we review six web-based methods of customer input as examples of the improved Internet capabilities of communication, conceptualization, and computation. For each method we give examples of user-interfaces, initial applications, and validity tests. We critique the applicability of the methods for use in the various stages of PD and discuss how they complement existing methods.#R##N##R##N##R##N##R##N#For example, during the fuzzy front end of PD the information pump enables customers to interact with each other in a web-based game that provides incentives for truth-telling and thinking hard, thus providing new ways for customers to verbalize the product features that are important to them. Fast polyhedral adaptive conjoint estimation enables PD teams to screen larger numbers of product features inexpensively to identify and measure the importance of the most promising features for further development. Meanwhile, interactive web-based conjoint analysis interfaces are moving this proven set of methods to the web while exploiting new capabilities to present products, features, product use, and marketing elements in streaming multimedia representations. User design exploits the interactivity of the web to enable users to design their own virtual products thus enabling the PD team to understand complex feature interactions and enabling customers to learn their own preferences for new products. These methods can be valuable for identifying opportunities, improving the design and engineering of products, and testing ideas and concepts much earlier in the process when less time and money is at risk. As products move toward pretesting and testing, virtual concept testing on the web enables PD teams to test concepts without actually building the product. Further, by combining virtual concepts and the ability of customers to interact with one another in a stock-market-like game, securities trading of concepts provides a novel way to identify winning concepts.#R##N##R##N##R##N##R##N#Prototypes of all six methods are available and have been tested with real products and real customers. These tests demonstrate reliability for web-based conjoint analysis, polyhedral methods, virtual concept testing, and stock-market-like trading; external validity for web-based conjoint analysis and polyhedral methods; and consistency for web-based conjoint analysis versus user design. We report on these tests, commercial applications, and other evaluations. \u00a9 2002 Elsevier Science Inc. All rights reserved.", 
+            "authors": [
+                "Ely Dahan", 
+                "John R Hauser"
+            ], 
+            "fields": [
+                "Conceptualization", 
+                "Conjoint analysis", 
+                "Computation", 
+                "New product development", 
+                "Product"
+            ], 
+            "title": "The virtual customer", 
+            "url": "http://cn.bing.com/academic/profile?id=63be968bb644f1f7ac2f8477e7ac60e1&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper presents ongoing research to improve construction education through the use of virtual reality and 4D CAD modeling (3D design plus time) of construction processes and projects. We have implemented 4D CAD modeling into our undergraduate Architectural Engineering program. We are also experimenting with the use of immersive virtual reality and have developed a tool that allows construction engineering students to interactively generate a construction sequence for a project in an immersive environment. The results of these educational initiatives were assessed through two experiments. The first experiment assessed the educational value of having students develop 4D CAD models for a building project. The second experiment was a preliminary study to determine the educational value of immersing students in a virtual construction project and allowing them to develop a construction plan for the facility. The results of these experiments suggest that students can understand construction projects and plans much better when advanced visualization tools are used. The conclusions from the immersive virtual reality experiment suggest that students can very quickly gain experience by developing and critiquing construction schedules in a full-scale virtual environment. The students were also very engaged by this type of interactive learning experience. We envision important applications of this type of learning environment to improve construction education through the use of different case study projects. By using virtual reality, we can supplement actual construction site visits with virtual, interactive site experiences. These experiences will allow students to experiment with different construction sequences, temporary facility locations, trade coordination, safety issue identification, and design improvements for constructability.", 
+            "authors": [
+                "John I Messner", 
+                "Sai C Yerrapathruni", 
+                "Anthony J Baratta", 
+                "Vaughn Whisker"
+            ], 
+            "fields": [
+                "Immersion", 
+                "Virtual reality", 
+                "Virtual machine", 
+                "Engineering education", 
+                "Facility location problem"
+            ], 
+            "title": "Using Virtual Reality to Improve Construction Engineering Education", 
+            "url": "http://cn.bing.com/academic/profile?id=879b57869b57c520128808864cc6ef87&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The Virtual Environments Laboratory at the University of Southern California (USC) has initiated a research program aimed at developing virtual reality (VR) technology applications for the study, assessment, and rehabilitation of cognitive/functional processes. This technology is seen to offer many advantages for these aims and an introductory section of this article will discuss the specific rationale for VR applications in the area of clinical neuropsychology. A discussion of attention processes will follow and issues for the development of a head-mounted display (HMD) VR system for the study, assessment, and possible rehabilitation of attention disorders will then be presented. Our efforts to target this cognitive process are supported by the widespread occurrence and relative significance of attention impairments seen in a variety of clinical conditions across the human lifespan. Most notably, attention difficulties are seen in persons with Attention Deficit Hyperactivity Disorders (ADHD), Traumatic B...", 
+            "authors": [
+                "Albert Rizzo", 
+                "J G Buckwalter", 
+                "Todd Bowerly", 
+                "C Van Der Zaag", 
+                "L D Humphrey", 
+                "Ulrich Neumann", 
+                "Clint Chua", 
+                "Chris Kyriakakis", 
+                "A Van Rooyen", 
+                "David A Sisemore"
+            ], 
+            "fields": [
+                "Optical head-mounted display", 
+                "Cognition", 
+                "Virtual reality", 
+                "Virtual machine", 
+                "Ecological validity"
+            ], 
+            "title": "The Virtual Classroom: A Virtual Reality Environment for the Assessment and Rehabilitation of Attention Deficits", 
+            "url": "http://cn.bing.com/academic/profile?id=2cef9aaa27f534967f50ca0a95e84856&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The United States Supreme Court has recently ruled that virtual child pornography is protected free speech, partly on the grounds that virtual pornography does not harm actual children. I review the evidence for the contention that virtual pornography might harm children, and find that it is, at best, inconclusive. Saying that virtual child pornography does not harm actual children is not to say that it is completely harmless, however. Child pornography, actual or virtual, necessarily eroticizes inequality; in a sexist society it therefore contributes to the subordination of women.", 
+            "authors": [
+                "Neil Levy"
+            ], 
+            "fields": [
+                "Virtual reality", 
+                "The Internet", 
+                "El Ni\u00f1o"
+            ], 
+            "title": "Virtual child pornography: The eroticization of inequality", 
+            "url": "http://cn.bing.com/academic/profile?id=f22e79433e3815a174b77ecd3dd39233&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual Collaboration is becoming extremely important for business success in the market. Companies that do not explore these options are putting themselves at a disadvantage to their competitors. Collaboration is not only a new idea but also new technology that improves the way a company communicates with its customers, partners, and employees that work at home or in satellite locations around the world. This article focuses on three possible ways that virtual collaboration can benefit a company: virtual teams, which can be sales or product-develop oriented, virtual meetings - between clients or among employees, and virtual learning - via online training courses or new employee training. The purpose of virtual collaboration, its various uses, and the technology offered by software companies and providers are addressed.", 
+            "authors": [
+                "Jason C H Chen", 
+                "Binshan Lin"
+            ], 
+            "fields": [], 
+            "title": "VIRTUAL COLLABORATION IN THE WORKPLACE", 
+            "url": "http://cn.bing.com/academic/profile?id=9d98fbf3d72717c9ba9203284117a053&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Recent proliferation of available virtual reality (VR) tools has seen increased use in psychological research. This is due to a number of advantages afforded over traditional experimental apparatus such as tighter control of the environment and the possibility of creating more ecologically valid stimulus presentation and response protocols.  At the same time, higher levels of immersion and visual fidelity afforded by VR do not necessarily evoke presence or elicit a \u201crealistic\u201d psychological response. The current paper reviews some current uses for VR environments in psychological research and discusses some ongoing questions for researchers. Finally, we focus on the area of visual perception, where both the advantages and challenges of VR are particularly salient.", 
+            "authors": [
+                "Christopher J Wilson", 
+                "Alessandro Soranzo"
+            ], 
+            "fields": [
+                "Visual perception"
+            ], 
+            "title": "The Use of Virtual Reality in Psychology: A Case Study in Visual Perception", 
+            "url": "http://cn.bing.com/academic/profile?id=c01717a055384faf2029882a7be0326a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual Reality is a major asset and aspect of our future. It is the key to experiencing, feeling and touching the past, present and the future. It is the medium of creating our own world, our own customized reality. It could range from creating a video game to having a virtual stroll around the universe, from walking through our own dream house to experiencing a walk on an alien planet. With virtual reality, we can experience the most intimidating and gruelling situations by playing safe and with a learning perspective. In this review paper, we present our survey about virtual reality: the levels of virtual reality, the components used, the factors affecting the virtual environment, its origin, future and the challenges to overcome in order to obtain an impeccable virtual reality experience.", 
+            "authors": [
+                "Pallavi N Halarnkar", 
+                "Sahil Shah", 
+                "Harsh Shah", 
+                "Hardik A Shah", 
+                "Anuj Shah"
+            ], 
+            "fields": [], 
+            "title": "A Review on Virtual Reality", 
+            "url": "http://cn.bing.com/academic/profile?id=8dd5b218701100ce7cb1a39a00188624&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual laboratory experiments can be cost effective, convenient instructional resources that have appeal to a wide range of learning styles. Expensive, time-consuming laboratory tests can be experienced repeatedly and remotely using interactive simulations and original video footage or animations. A virtual experiment can incorporate meaningful exercises, procedural options, and background hyperlinks to create a comprehensive \u201chands on\u201d environment. Also, it may be used as preliminary training for the actual experiment. An interactive LabVIEW-based laboratory for a load test simulation of an existing demonstration bridge was created. This smart truss bridge is instrumented with fiber optic strain sensors situated on the trusses. The user interface incorporates a synchronized image of the loaded bridge and a graph of the associated strains. A static display mode allows the choice of load placement and of data for single or multiple sensors. A continuous display mode shows the dynamic images of the bridge and strains on truss members. Options include the display of experimental data or of theoretical calculations. Hyperlinks give access to information on the sensors, the bridge construction, and the theoretical analysis. The program interface can also be used in the actual experiment to display data. The intended application is a laboratory for an interdisciplinary class on smart materials and sensors. The LabVIEW program can be easily modified for tests on other structures such as a full-scale bridge.", 
+            "authors": [
+                "E Eckhoff", 
+                "Vicki M Eller", 
+                "Steve E Watkins", 
+                "Richard H Hall"
+            ], 
+            "fields": [
+                "Cost-effectiveness analysis", 
+                "User interface", 
+                "Smart material", 
+                "Optical fiber"
+            ], 
+            "title": "Interactive Virtual Laboratory for Experience with a Smart Bridge Test", 
+            "url": "http://cn.bing.com/academic/profile?id=2f313646ce0dfa19caf76983dde53d0c&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "A virtual-machine monitor (VMM) is a useful technique for adding functionality below existing operating system and application software. One class of VMMs (called Type II VMMs) builds on the abstractions provided by a host operating system. Type II VMMs are elegant and convenient, but their performance is currently an order of magnitude slower than that achieved when running outside a virtual machine (a standalone system). In this paper, we examine the reasons for this large overhead for Type II VMMs. We find that a few simple extensions to a host operating system can make it a much faster platform for running a VMM. Taking advantage of these extensions reduces virtualization overhead for a Type II VMM to 14-35% overhead, even for workloads that exercise the virtual machine intensively.", 
+            "authors": [
+                "Samuel T King", 
+                "George W Dunlap", 
+                "Peter M Chen"
+            ], 
+            "fields": [
+                "Hypervisor", 
+                "Operating system", 
+                "Virtual machine"
+            ], 
+            "title": "Operating system support for virtual machines", 
+            "url": "http://cn.bing.com/academic/profile?id=310eeb62653b4cecc8a6cd1df866f3fb&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual laboratory experiments can be cost effective, convenient instructional resources that have appeal to a wide range of learning styles. Expensive, time-consuming laboratory tests can be experienced repeatedly and remotely using interactive simulations and original video footage or animations. A virtual experiment can incorporate meaningful exercises, procedural options, and background hyperlinks to create a comprehensive \u201chands on\u201d environment. Also, it may be used as preliminary training for the actual experiment. An interactive LabVIEW-based laboratory for a load test simulation of an existing demonstration bridge was created. This smart truss bridge is instrumented with fiber optic strain sensors situated on the trusses. The user interface incorporates a synchronized image of the loaded bridge and a graph of the associated strains. A static display mode allows the choice of load placement and of data for single or multiple sensors. A continuous display mode shows the dynamic images of the bridge and strains on truss members. Options include the display of experimental data or of theoretical calculations. Hyperlinks give access to information on the sensors, the bridge construction, and the theoretical analysis. The program interface can also be used in the actual experiment to display data. The intended application is a laboratory for an interdisciplinary class on smart materials and sensors. The LabVIEW program can be easily modified for tests on other structures such as a full-scale bridge.", 
+            "authors": [
+                "E Eckhoff", 
+                "Vicki M Eller", 
+                "Steve E Watkins", 
+                "Richard H Hall"
+            ], 
+            "fields": [
+                "Cost-effectiveness analysis", 
+                "User interface", 
+                "Smart material", 
+                "Optical fiber"
+            ], 
+            "title": "Interactive Virtual Laboratory for Experience with a Smart Bridge Test", 
+            "url": "http://cn.bing.com/academic/profile?id=2f313646ce0dfa19caf76983dde53d0c&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The Preserving Virtual Worlds project is a collaborative research venture of the Rochester Institute of Technology, Stanford University, the University of Maryland, the University of Illinois at Urbana-Champaign and Linden Lab, conducted as part of Preserving Creative America, an initiative of the National Digital Information Infrastructure and Preservation Program at the Library of Congress. The primary goals of our project have been to investigate issues surrounding the preservation of video games and interactive fiction through a series of case studies of games and literature from various periods in computing history, and to develop basic standards for metadata and content representation of these digital artifacts for long-term archival storage.", 
+            "authors": [
+                "Jerome Mcdonough", 
+                "Robert Olendorf", 
+                "Matthew G Kirschenbaum", 
+                "Kari Kraus", 
+                "Doug Reside", 
+                "Rachel Donahue", 
+                "Andrew Phelps", 
+                "Christopher Egert", 
+                "Henry Lowood", 
+                "Susan Rojo"
+            ], 
+            "fields": [
+                "Metaverse"
+            ], 
+            "title": "Preserving Virtual Worlds Final Report", 
+            "url": "http://cn.bing.com/academic/profile?id=f1d4724858c82378191cee2b2e02e271&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In this paper we discuss the potential role of virtual environments in the analysis phase of computer forensics investigations. General concepts of virtual environments and software tools are presented and discussed. Further we identify the limitations of virtual environments leading to the conclusion that this method can not be considered to be a replacement for conventional techniques of computer evidence collection and analysis. We propose a new approach where two environments, conventional and virtual, are used independently. Further we demonstrate that this approach can considerably shorten the time of the computer forensics investigation analysis phase and it also allows for better utilisation of less qualified personnel.", 
+            "authors": [
+                "Derek Bem", 
+                "Ewa Huebner"
+            ], 
+            "fields": [
+                "Computer forensics", 
+                "Virtual machine"
+            ], 
+            "title": "Computer Forensic Analysis in a Virtual Environment", 
+            "url": "http://cn.bing.com/academic/profile?id=6f6abd6cdbfef1882df39fdddfa0b103&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Developed more than 30 years ago to address mainframe computing problems, virtual machine monitors have resurfaced on commodity platforms, offering novel solutions to challenges in security, reliability, and administration. Stanford University researchers began to look at the potential of virtual machines to overcome difficulties that hardware and operating system limitations imposed: This time the problems stemmed from massively parallel processing (MPP) machines that were difficult to program and could not run existing operating systems. With virtual machines, researchers found they could make these unwieldy architectures look sufficiently similar to existing platforms to leverage the current operating systems. From this project came the people and ideas that underpinned VMware Inc., the original supplier of VMMs for commodity computing hardware. The implications of having a VMM for commodity platforms intrigued both researchers and entrepreneurs.", 
+            "authors": [
+                "Mendel Rosenblum", 
+                "Tal Garfinkel"
+            ], 
+            "fields": [
+                "Resource management", 
+                "Massively parallel", 
+                "Human multitasking", 
+                "Computer hardware", 
+                "Virtual machine"
+            ], 
+            "title": "Virtual machine monitors: current technology and future trends", 
+            "url": "http://cn.bing.com/academic/profile?id=bd02d8d896cdec5baf389f62ef02456b&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "A method of transmitting data across an electronic data communication system comprising a plurality of terminals that can send and receive data in the form of electromagnetic waves to and from at least one of the terminals, which method comprises the steps of: (a) identifying at least one control terminal, at least one target terminal and at least two relaying terminals from the plurality of terminals; and (b) using the control terminal to instruct the at least two relaying terminals to receive and relay data intended for the at least one target terminal, so that the at least one target terminal can receive data directly from at least one terminal and from the at least two relaying terminals, thereby increasing capacity of the system.", 
+            "authors": [
+                "Mischa Dohler", 
+                "A H Aghvami", 
+                "Fatin Said", 
+                "Seyed Ali Ghorashi"
+            ], 
+            "fields": [], 
+            "title": "Virtual antenna array", 
+            "url": "http://cn.bing.com/academic/profile?id=18af1ab9bd36c728f18fd39c26a1f3ba&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "A method of transmitting data across an electronic data communication system comprising a plurality of terminals that can send and receive data in the form of electromagnetic waves to and from at least one of the terminals, which method comprises the steps of: (a) identifying at least one control terminal, at least one target terminal and at least two relaying terminals from the plurality of terminals; and (b) using the control terminal to instruct the at least two relaying terminals to receive and relay data intended for the at least one target terminal, so that the at least one target terminal can receive data directly from at least one terminal and from the at least two relaying terminals, thereby increasing capacity of the system.", 
+            "authors": [
+                "Mischa Dohler", 
+                "A H Aghvami", 
+                "Fatin Said", 
+                "Seyed Ali Ghorashi"
+            ], 
+            "fields": [], 
+            "title": "Virtual antenna array", 
+            "url": "http://cn.bing.com/academic/profile?id=18af1ab9bd36c728f18fd39c26a1f3ba&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual switches, like Open vSwitch, have emerged as an important part of cloud networking architectures. They connect interfaces of virtual machines and establish the connection to the outer network via physical network interface cards. Today, all important cloud frameworks support Open vSwitch as the default virtual switch. However, general understanding about the performance implications of Open vSwitch in different usage scenarios is missing. In this work we provide insights into the performance properties by systematically conducting measurements in virtual switching setups. We present quantitative and qualitative performance results of Open vSwitch in scenarios involving physical and virtual network interfaces.", 
+            "authors": [
+                "Paul Emmerich", 
+                "Daniel Raumer", 
+                "Florian Wohlfart", 
+                "Georg Carle"
+            ], 
+            "fields": [
+                "Throughput", 
+                "Linux kernel", 
+                "Network switch", 
+                "Kernel", 
+                "Computer hardware"
+            ], 
+            "title": "Performance characteristics of virtual switching", 
+            "url": "http://cn.bing.com/academic/profile?id=0437c67d06647d907fbc919f240c83f1&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Server consolidation is becoming an increasingly populartechnique to manage and utilize systems. This paper develops CMPmemory systems for server consolidation where most sharing occurswithin Virtual Machines (VMs). Our memory systems maximize sharedmemory accesses serviced within a VM, minimize interference amongseparate VMs, facilitate dynamic reassignment of VMs to processorsand memory, and support content-based page sharing among VMs. Webegin with a tiled architecture where each of 64 tiles contains aprocessor, private L1 caches, and an L2 bank. First, we reveal whysingle-level directory designs fail to meet workload consolidationgoals. Second, we develop the paper's central idea of imposing atwo-level virtual (or logical) coherence hierarchy on a physicallyflat CMP that harmonizes with VM assignment. Third, we show thatthe best of our two virtual hierarchy (VH) variants performs 12-58%better than the best alternative flat directory protocol whenconsolidating Apache, OLTP, and Zeus commel workloads on oursimulated 64-core CMP.", 
+            "authors": [
+                "Michael R Marty", 
+                "Mark D Hill"
+            ], 
+            "fields": [
+                "Shared memory", 
+                "Cache coherence", 
+                "Virtual machine", 
+                "Multi-core processor"
+            ], 
+            "title": "Virtual hierarchies to support server consolidation", 
+            "url": "http://cn.bing.com/academic/profile?id=82d296855ec8d24712fd08ab68492c5b&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Applications that process sensitive data can be carefully designed and validated to be difficult to attack, but they are usually run on monolithic, commodity operating systems, which may be less secure. An OS compromise gives the attacker complete access to all of an application's data, regardless of how well the application is built. We propose a new system, Virtual Ghost, that protects applications from a compromised or even hostile OS. Virtual Ghost is the first system to do so by combining compiler instrumentation and run-time checks on operating system code, which it uses to create ghost memory that the operating system cannot read or write. Virtual Ghost interposes a thin hardware abstraction layer between the kernel and the hardware that provides a set of operations that the kernel must use to manipulate hardware, and provides a few trusted services for secure applications such as ghost memory management, encryption and signing services, and key management. Unlike previous solutions, Virtual Ghost does not use a higher privilege level than the kernel.   Virtual Ghost performs well compared to previous approaches; it outperforms InkTag on five out of seven of the LMBench microbenchmarks with improvements between 1.3x and 14.3x. For network downloads, Virtual Ghost experiences a 45% reduction in bandwidth at most for small files and nearly no reduction in bandwidth for large files and web traffic. An application we modified to use ghost memory shows a maximum additional overhead of 5% due to the Virtual Ghost protections. We also demonstrate Virtual Ghost's efficacy by showing how it defeats sophisticated rootkit attacks.", 
+            "authors": [
+                "John Criswell", 
+                "Nathan Dautenhahn", 
+                "Vikram S Adve"
+            ], 
+            "fields": [
+                "Software security assurance"
+            ], 
+            "title": "Virtual ghost: protecting applications from hostile operating systems", 
+            "url": "http://cn.bing.com/academic/profile?id=27c89dde67f37940233715eca16dc1e6&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual reality has the potential to be a powerful new tool in engineering education by bringing experience-based learning to all students, addressing the needs of students with alternate learning styles, and providing enhanced impact to educational presentations. As with any new tool, we must first learn how, when, and where to apply it before it becomes useful. This article describes Vicher, the first known application of virtual reality to chemical engineering education, and some of what has been discovered about virtual reality as an educational tool during Vicher's development. Vicher currently consists of two programs-Vicher I and Vicher II-which deal with the topics of catalyst deactivation and nonisothermal effects in chemical reaction engineering, respectively. Between the two programs, Vicher currently simulates five different engineering areas plus support facilities. Future plans include extensive student testing, program expansion and refinement, and the development of additional virtual reality based educational modules. \u00a9 1996 John Wiley & Sons, Inc.", 
+            "authors": [
+                "John T Bell", 
+                "H Scott Fogler"
+            ], 
+            "fields": [
+                "Social science", 
+                "Virtual reality", 
+                "Chemical reaction", 
+                "Computer simulation", 
+                "Engineering"
+            ], 
+            "title": "Vicher: A virtual reality based educational module for chemical reaction engineering", 
+            "url": "http://cn.bing.com/academic/profile?id=fdddb18fbbf8e860aa7abafd79e48389&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Computer imaging techniques are commonly used to preserve and share readable manuscripts, but capturing writing locked away in ancient, deteriorated documents poses an entirely different challenge. This software pipeline\u2014referred to as \u201cvirtual unwrapping\u201d\u2014allows textual artifacts to be read completely and noninvasively. The systematic digital analysis of the extremely fragile En-Gedi scroll (the oldest Pentateuchal scroll in Hebrew outside of the Dead Sea Scrolls) reveals the writing hidden on its untouchable, disintegrating sheets. Our approach for recovering substantial ink-based text from a damaged object results in readable columns at such high quality that serious critical textual analysis can occur. Hence, this work creates a new pathway for subsequent textual discoveries buried within the confines of damaged materials.", 
+            "authors": [
+                "W B Seales", 
+                "Clifford Seth Parker", 
+                "Michael Segal", 
+                "Emanuel Tov", 
+                "Pnina Shor", 
+                "Y Porath"
+            ], 
+            "fields": [], 
+            "title": "From damage to discovery via virtual unwrapping: Reading the scroll from En-Gedi", 
+            "url": "http://cn.bing.com/academic/profile?id=7d30ca035c84c6bb20a3222c7e4c5979&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The demand for virtual teams is growing due to the impacts of intensified organizational globalization and enhanced computer and communication technologies.  Coupled with that demand, a new workforce is emerging with the ability to telecommute, posing unique challenges such as time, physical space, and utilization of  human capital. These challenges have underscored the importance of establishing and maintaining trust in all types of teams. Trust is a necessary prerequisite for  achieving high performance with any team, and that condition is intensified in successful virtual teams. This paper will explore the topic of trust as a crucial component of virtual teams and introduce a new model of instructional design that addresses this essential  requirement. First, a brief definition of virtual teams will be provided, followed by a discussion of the two types of trust: cognitive based and affective based. Next,  support for the model will be provided through examining existing theories on trust and virtual teams, confirming that a strong relationship exists between trust,  communication and performance and reveals some of the challenges for building trust and possible solutions. The presentation of data that built the foundation will  be followed by the introduction of a new instructional design model for establishing and maintaining trust in virtual teams and a description of the various phases of  the model. Finally, a brief explanation will be provided of the model\u2019s relevance and application to instructional design.", 
+            "authors": [
+                "Melisa Beach", 
+                "Sue Coates", 
+                "Carol Hinton", 
+                "Denise Montoya"
+            ], 
+            "fields": [], 
+            "title": "By Design: Building Trust in Virtual Teams", 
+            "url": "http://cn.bing.com/academic/profile?id=137b76f1e208608098cc460e25e7e87f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Many fault-tolerant and intrusion-tolerant systems require the ability to execute unsafe programs in a realistic environment without leaving permanent damages. Virtual machine technology meets this requirement perfectly because it provides an execution environment that is both realistic and isolated. In this paper, we introduce an OS level virtual machine architecture for Windows applications called  Feather-weight Virtual Machine  (FVM), under which virtual machines share as many resources of the host machine as possible while still isolated from one another and from the host machine. The key technique behind FVM is  namespace virtualization , which isolates virtual machines by renaming resources at the OS system call interface. Through a copy-on-write scheme, FVM allows multiple virtual machines to physically share resources but logically isolate their resources from each other. A main technical challenge in FVM is how to achieve strong isolation among different virtual machines and the host machine, due to numerous namespaces and interprocess communication mechanisms on Windows. Experimental results demonstrate that FVM is more flexible and scalable, requires less system resource, incurs lower start-up and run-time performance overhead than existing hardware-level virtual machine technologies, and thus makes a compelling building block for security and fault-tolerant applications.", 
+            "authors": [
+                "Yang Yu", 
+                "Fanglu Guo", 
+                "Susanta Nanda", 
+                "Lapchung Lam", 
+                "Tzicker Chiueh"
+            ], 
+            "fields": [
+                "Intrusion tolerance", 
+                "Copy-on-write", 
+                "Fault tolerance", 
+                "Virtual machine", 
+                "Inter-process communication"
+            ], 
+            "title": "A feather-weight virtual machine for windows applications", 
+            "url": "http://cn.bing.com/academic/profile?id=4ad858a82237c56a14ae4b4433730784&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper discusses two projects developed at the University of Southern California with funding from the U.S. military: Tactical Iraqi, a videogame that is designed to accelerate a learner's acquisition of spoken Arabic to assist in the rapid deployment of soldiers into volatile tactical situations, and Virtual Iraq, a virtual reality simulation intended to lessen the effects of Post-Traumatic Stress Disorder among combat veterans. Both programs specifically address issues of memory related to inhabiting these VR worlds and connect spatial experiences to acts of practices of recognition, recollection, and remembering: Tactical Iraqi is designed to prompt soldiers to remember specific Arabic words and phrases; Virtual Iraq is intended to trigger memories and appropriate coping mechanisms in combat veterans suffering from Post-Traumatic Stress Disorder. This paper analyzes how the traditional \"method of loci\" or \"art of memory\" from classical rhetoric, which has been updated by Wong and Storkerson as a tool for hypertext theory, can also be applied to 3D graphical worlds with immersive multi-sensory environments. As Certeau argues, however, in his work on the \"rhetoric of walking,\" the architectures of these virtual worlds should properly offer possibilities for tactical resistance in order to be fully inhabited by their users.", 
+            "authors": [
+                "Elizabeth Losh"
+            ], 
+            "fields": [
+                "3D computer graphics", 
+                "Metaverse", 
+                "Virtual reality"
+            ], 
+            "title": "The palace of memory: virtual tourism and tours of duty in Tactical Iraqi and Virtual Iraq", 
+            "url": "http://cn.bing.com/academic/profile?id=0d1274db7d4ea3617712d4446cca64d6&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Attackers and defenders of computer systems both strive to gain complete control over the system. To maximize their control, both attackers and defenders have migrated to low-level, operating system code. In this paper, we assume the perspective of the attacker, who is trying to run malicious software and avoid detection. By assuming this perspective, we hope to help defenders understand and defend against the threat posed by a new class of rootkits. We evaluate a new type of malicious software that gains qualitatively more control over a system. This new type of malware, which we call a virtual-machine based rootkit (VMBR), installs a virtual-machine monitor underneath an existing operating system and hoists the original operating system into a virtual machine. Virtual-machine based rootkits are hard to detect and remove because their state cannot be accessed by software running in the target system. Further, VMBRs support general-purpose malicious services by allowing such services to run in a separate operating system that is protected from the target system. We evaluate this new threat by implementing two proof-of-concept VMBRs. We use our proof-of-concept VMBRs to subvert Windows XP and Linux target systems, and we implement four example malicious services using the VMBR platform. Last, we use what we learn from our proof-of-concept VMBRs to explore ways to defend against this new threat. We discuss possible ways to detect and prevent VMBRs, and we implement a defense strategy suitable for protecting systems against this threat.", 
+            "authors": [
+                "Samuel T King", 
+                "P M Chen"
+            ], 
+            "fields": [
+                "Detector", 
+                "Control system", 
+                "Data structure", 
+                "Virtual machine", 
+                "Kernel"
+            ], 
+            "title": "SubVirt: implementing malware with virtual machines", 
+            "url": "http://cn.bing.com/academic/profile?id=0d8e4e8014994328c86d6c69567e7045&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "School libraries can exist in two spaces, a physical space or a virtual space. The author argues that students need a virtual library as well as a physical library because of the different learning opportunities that can be supported by virtual libraries. If a virtual library is carefully planned and designed, it can provide a rich learning environment. Although some authors nay distinguish between various termns used to describe virtual libraries: digital libraries, electronic libraries, e-libraries, and the broader term virtual library, in this article, the term virtual library is used to describe any nanaged collection of information sources in an electronicformat. Therefore, virtual libraries could include digital collections of pictures, maps, Web sites, or library records.", 
+            "authors": [
+                "Holly Gunn"
+            ], 
+            "fields": [], 
+            "title": "Virtual Libraries Supporting Student Learning", 
+            "url": "http://cn.bing.com/academic/profile?id=18342ba0f88bb94a2e8174055808d2c4&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Attackers and defenders of computer systems both strive to gain complete control over the system. To maximize their control, both attackers and defenders have migrated to low-level, operating system code. In this paper, we assume the perspective of the attacker, who is trying to run malicious software and avoid detection. By assuming this perspective, we hope to help defenders understand and defend against the threat posed by a new class of rootkits. We evaluate a new type of malicious software that gains qualitatively more control over a system. This new type of malware, which we call a virtual-machine based rootkit (VMBR), installs a virtual-machine monitor underneath an existing operating system and hoists the original operating system into a virtual machine. Virtual-machine based rootkits are hard to detect and remove because their state cannot be accessed by software running in the target system. Further, VMBRs support general-purpose malicious services by allowing such services to run in a separate operating system that is protected from the target system. We evaluate this new threat by implementing two proof-of-concept VMBRs. We use our proof-of-concept VMBRs to subvert Windows XP and Linux target systems, and we implement four example malicious services using the VMBR platform. Last, we use what we learn from our proof-of-concept VMBRs to explore ways to defend against this new threat. We discuss possible ways to detect and prevent VMBRs, and we implement a defense strategy suitable for protecting systems against this threat.", 
+            "authors": [
+                "Samuel T King", 
+                "P M Chen"
+            ], 
+            "fields": [
+                "Detector", 
+                "Control system", 
+                "Data structure", 
+                "Virtual machine", 
+                "Kernel"
+            ], 
+            "title": "SubVirt: implementing malware with virtual machines", 
+            "url": "http://cn.bing.com/academic/profile?id=0d8e4e8014994328c86d6c69567e7045&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "School libraries can exist in two spaces, a physical space or a virtual space. The author argues that students need a virtual library as well as a physical library because of the different learning opportunities that can be supported by virtual libraries. If a virtual library is carefully planned and designed, it can provide a rich learning environment. Although some authors nay distinguish between various termns used to describe virtual libraries: digital libraries, electronic libraries, e-libraries, and the broader term virtual library, in this article, the term virtual library is used to describe any nanaged collection of information sources in an electronicformat. Therefore, virtual libraries could include digital collections of pictures, maps, Web sites, or library records.", 
+            "authors": [
+                "Holly Gunn"
+            ], 
+            "fields": [], 
+            "title": "Virtual Libraries Supporting Student Learning", 
+            "url": "http://cn.bing.com/academic/profile?id=18342ba0f88bb94a2e8174055808d2c4&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "VNC is an ultra thin client system based on a simple display protocol that is platform independent. It achieves mobile computing without requiring the user to carry any hardware. VNC provides access to home computing environments from anywhere in the world, on whatever computing infrastructure happens to be available-including, for example, public Web browsing terminals in airports. In addition, VNC allows a single desktop to be accessed from several places simultaneously, thus supporting application sharing in the style of computer supported cooperative work (CSCW). The technology underlying VNC is a simple remote display protocol. It is the simplicity of this protocol that makes VNC so powerful. Unlike other remote display protocols such as the X Window System and Citrix's ICA, the VNC protocol is totally independent of operating system, windowing system, and applications. The VNC system is freely available for download from the ORL Web site at http://www.orl.co.uk/vnc/. We begin the article by summarizing the evolution of VNC from our work on thin client architectures. We then describe the structure of the VNC protocol, and conclude by discussing the ways we use VNC technology now and how it may evolve further as new clients and servers are developed.", 
+            "authors": [
+                "Tristan Richardson", 
+                "Quentin Staffordfraser", 
+                "K R Wood", 
+                "Andy Hopper"
+            ], 
+            "fields": [
+                "Virtual machine", 
+                "Collaborative software", 
+                "Communications protocol"
+            ], 
+            "title": "Virtual network computing", 
+            "url": "http://cn.bing.com/academic/profile?id=70e8b89a7102d9b9dbbfb759ec83dd17&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We present an experimental study showing that soft memory errors can lead to serious security vulnerabilities in Java and .NET virtual machines, or in any system that relies on type-checking of untrusted programs as a protection mechanism. Our attack works by sending to the JVM a Java program that is designed so that almost any memory error in its address space will allow it to take control of the JVM. All conventional Java and .NET virtual machines are vulnerable to this attack. The technique of the attack is broadly applicable against other language-based security schemes such as proof-carrying code. We measured the attack on two commercial Java virtual machines: Sun's and IBM's. We show that a single-bit error in the Java program's data space can be exploited to execute arbitrary code with a probability of about 70%, and multiple-bit errors with a lower probability. Our attack is particularly relevant against smart cards or tamper-resistant computers, where the user has physical access (to the outside of the computer) and can use various means to induce faults; we have successfully used heat. Fortunately, there are some straightforward defenses against this attack.", 
+            "authors": [
+                "Sudhakar Govindavajhala", 
+                "Andrew W Appel"
+            ], 
+            "fields": [
+                "Physical access", 
+                "The Internet", 
+                "Java", 
+                "Tamper resistance", 
+                "Virtual machine"
+            ], 
+            "title": "Using memory errors to attack a virtual machine", 
+            "url": "http://cn.bing.com/academic/profile?id=3a8be5f20ad0bb5a7e27000f744825fb&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual teams are temporally and geographically dispersed groups, which may have members from varied cultures and backgrounds. Such diversity may cause intra-group conflicts in virtual teams. We analyzed the contents of the transcripts of GSS-based virtual teams and identified the conflict episodes and the approaches followed to resolve intra-group conflicts. The conflict episodes that occurred in the early phases of decision-making were separated from those taking place in the choice phase. The results revealed that conflicts in the choice phase of decision-making were detrimental to global virtual teams. We also found that groups following an integrative conflict resolution style had better performance than those following other conflict resolution approaches, such as a distributive style. While the results contribute towards the understanding of conflict in groups, the area warrants further research.", 
+            "authors": [
+                "Souren Paul", 
+                "Priya Seetharaman", 
+                "Imad Samarah", 
+                "Peter P Mykytyn"
+            ], 
+            "fields": [
+                "Conflict resolution", 
+                "Information system", 
+                "Collaborative software", 
+                "Data analysis", 
+                "Cultural diversity"
+            ], 
+            "title": "Understanding Conflict in Virtual Teams: An Experimental Investigation using Content Analysis", 
+            "url": "http://cn.bing.com/academic/profile?id=5867333b08bc6ab2b0e6c3a18e99eb7e&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Ivan Sutherland first proposed virtual reality in 1965, and in the next few years built a working system. Twenty years later, line-drawing hardware, the Polhemus tracker, and LCD tiny-TV displays made VR feasible, if costly and inadequate, for several explorers. In 1990, journalists jumped on the idea, and hype levels went out of sight. As usual with infant technologies, the realization of the early dreams and the harnessing to real work has taken longer than the wild prognostications, but it is now happening. I survey the current state-of-the-art, addressing the perennial questions of technology and applications.", 
+            "authors": [
+                "Frederick P Brooks"
+            ], 
+            "fields": [
+                "Computer hardware", 
+                "Liquid-crystal display", 
+                "Productivity", 
+                "Vehicle dynamics", 
+                "Augmented reality"
+            ], 
+            "title": "What's Real About Virtual Reality?", 
+            "url": "http://cn.bing.com/academic/profile?id=10edb16e7e5e8fed48c5d698bc9b1cb8&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The various forms of Internet groups share many similarities to groups that exist in the offline world, but there are also critical differences. The authors examine traditional definitions of groups and how Internet groups fit into those existing definitions. They provide an analysis of relevant aspects that make virtual groups similar to and different from nonelectronic groups, and they examine the ways in which Internet groups function. Individual motivations for joining online groups and the consequences of virtual group membership are also discussed. Over the past decade the number of individuals regularly accessing the Internet has increased exponentially. According to recent research by Nie and Erbring (2000) the number of Americans online has risen to 55%. Worldwide, the number of people using the Internet has risen above 450 million, and that number is expected to double within the next year. Interpersonal communication has become the primary use of the Internet at home (Kraut, Mukopadhyay, Szczypula, Kiesler, & Scherlis, 1998), and people are increasingly turning to the Internet to fulfill important social and psychological needs. One of the most basic interpersonal needs is to \u201cbelong,\u201d to feel that one is a member of a group of others who share similar interests and goals, and to feel that one is a valued (and unique) member of that group (Baumeister & Leary, 1995; Brewer, 1991). On the Internet, there are a wealth of venues where one can connect with like-minded others who share core interests and values and thus fulfill this important need. Chat rooms, newsgroups, electronic mailing lists, message boards, interactive games, and major interactive Web sites provide individuals with the opportunity to join existing online groups or to create their own. The various forms of Internet groups share many similarities with groups that exist in the", 
+            "authors": [
+                "Katelyn Y A Mckenna", 
+                "Amie S Green"
+            ], 
+            "fields": [
+                "Group dynamics"
+            ], 
+            "title": "Virtual Group Dynamics", 
+            "url": "http://cn.bing.com/academic/profile?id=adf4a640ddf7162a876f065d51c4b030&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Our analysis shows that many \"big-memory\" server workloads, such as databases, in-memory caches, and graph analytics, pay a high cost for page-based virtual memory. They consume as much as 10% of execution cycles on TLB misses, even using large pages. On the other hand, we find that these workloads use read-write permission on most pages, are provisioned not to swap, and rarely benefit from the full flexibility of page-based virtual memory.   To remove the TLB miss overhead for big-memory workloads, we propose mapping part of a process's linear virtual address space with a  direct segment , while page mapping the rest of the virtual address space. Direct segments use minimal hardware---base, limit and offset registers per core---to map contiguous virtual memory regions directly to contiguous physical memory. They eliminate the possibility of TLB misses for key data structures such as database buffer pools and in-memory key-value stores. Memory mapped by a direct segment may be converted back to paging when needed.   We prototype direct-segment software support for x86-64 in Linux and emulate direct-segment hardware. For our workloads, direct segments eliminate almost all TLB misses and reduce the execution time wasted on TLB misses to less than 0.5%.", 
+            "authors": [
+                "Arkaprava Basu", 
+                "Jayneel Gandhi", 
+                "Jichuan Chang", 
+                "Mark D Hill", 
+                "Michael M Swift"
+            ], 
+            "fields": [
+                "Virtual memory"
+            ], 
+            "title": "Efficient virtual memory for big memory servers", 
+            "url": "http://cn.bing.com/academic/profile?id=1cdcb26db7a2c3dd2f6367397917f02d&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Gearing cities towards a path of sustainability is a daunting task. The urban models that we have come to accept during the 20th century need to be revisited, but change, even if welcomed in abstract, is usually met in reality with enormous resistance from the economic and political models that underlie our cities. Some of the most powerful tools for promoting change are those related to conceptualization and visualization. When considering urban plans that aren't just incremental improvements over what already exists, city officials, urban planners and the general public must be able to visualize not just the merits of those plans in isolation, but how they interact with all the infrastructure that already exists. This paper describes one such urban plan that has been under consideration in the city of Uppsala, Sweden, for the past 5 years: a solar-powered Personal Rapid Transit (PRT) system connecting the main train station to the Hospital and the University. The process of discussing the PRT system included the development of a virtual reality simulation of parts of the city. We report on the process and role of this virtual reality simulation.", 
+            "authors": [
+                "Cristina Videira Lopes", 
+                "Christer Lindstrom"
+            ], 
+            "fields": [
+                "Urban planning", 
+                "Virtual reality", 
+                "Personal rapid transit"
+            ], 
+            "title": "Virtual cities in urban planning: the uppsala case study", 
+            "url": "http://cn.bing.com/academic/profile?id=947bc31d13480141617160fa13dceff5&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "While some modern organisations have established \u201cvirtual work teams\u201d, which are said to be comprised of people who are geographically separated and who work across boundaries of space and time using computer driven communication technologies, it is also true that many organisations remain structured around conventional face\u2010to\u2010face teams. Increasingly, the conventional face\u2010to\u2010face team is endeavouring to increase its productivity by utilising some of the technology and characteristics of the virtual team. In fact, it may not be practical any longer to draw a distinction between conventional face\u2010to\u2010face teams and virtual teams, due to the invasive nature of technology throughout most modern organisations.", 
+            "authors": [
+                "Linda Arnison", 
+                "Peter Miller"
+            ], 
+            "fields": [
+                "Technology", 
+                "The Internet", 
+                "Teamwork", 
+                "Information and Communications Technology", 
+                "Communication"
+            ], 
+            "title": "Virtual teams: a virtue for the conventional team", 
+            "url": "http://cn.bing.com/academic/profile?id=191c7c66f3c799ff1f831df352d371f1&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "One of the main problems with virtual reality as a learning tool is that there are hardly any theories or models upon which to found and justify the application development. This paper presents a model that defends the metaphorical design of educational virtual reality systems. The goal is to build virtual worlds capable of embodying the knowledge to be taught: the metaphorical structuring of abstract concepts looks for bodily forms of expression in order to make knowledge accessible to students. The description of a case study aimed at learning scientific categorization serves to explain and implement the process of metaphorical projection. Our proposals are based on Lakoff and Johnson's theory of cognition, which defends the conception of the embodied mind, according to which most of our knowledge relies on basic metaphors derived from our bodily experience.", 
+            "authors": [
+                "Alvaro Sanchez", 
+                "Jose Maria Barreiro", 
+                "Victor Maojo"
+            ], 
+            "fields": [
+                "Virtual reality", 
+                "Rapid application development", 
+                "Metaverse"
+            ], 
+            "title": "Design of Virtual Reality Systems for Education: A Cognitive Approach", 
+            "url": "http://cn.bing.com/academic/profile?id=94d62e7c99382cfad9fe50b7b37899f7&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Most modern cores perform a highly-associative transaction look aside buffer (TLB) lookup on every memory access. These designs often hide the TLB lookup latency by overlapping it with L1 cache access, but this overlap does not hide the power dissipated by TLB lookups. It can even exacerbate the power dissipation by requiring higher associativity L1 cache. With today's concern for power dissipation, designs could instead adopt a virtual L1 cache, wherein TLB access power is dissipated only after L1 cache misses. Unfortunately, virtual caches have compatibility issues, such as supporting writeable synonyms and x86's physical page table walker.   This work proposes an Opportunistic Virtual Cache (OVC) that exposes virtual caching as a dynamic optimization by allowing some memory blocks to be cached with virtual addresses and others with physical addresses. OVC relies on small OS changes to signal which pages can use virtual caching (e.g., no writeable synonyms), but defaults to physical caching for compatibility. We show OVC's promise with analysis that finds virtual cache problems exist, but are dynamically rare. We change 240 lines in Linux 2.6.28 to enable OVC. On experiments with Parsec and commercial workloads, the resulting system saves 94-99% of TLB lookup energy and nearly 23% of L1 cache dynamic lookup energy.", 
+            "authors": [
+                "Arkaprava Basu", 
+                "Mark D Hill", 
+                "Michael M Swift"
+            ], 
+            "fields": [
+                "Translation lookaside buffer", 
+                "Linux kernel", 
+                "Kernel", 
+                "Search engine indexing", 
+                "Dynamic programming"
+            ], 
+            "title": "Reducing memory reference energy with opportunistic virtual caching", 
+            "url": "http://cn.bing.com/academic/profile?id=2144f8211a75f2379c812ed11abb3c8a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We propose a virtual node algorithm that allows material to separate along arbitrary (possibly branched) piecewise linear paths through a mesh. The material within an element is fragmented by creating several replicas of the element and assigning a portion of real material to each replica. This results in elements that contain both real material and empty regions. The missing material is contained in another copy (or copies) of this element. Our new virtual node algorithm automatically determines the number of replicas and the assignment of material to each. Moreover, it provides the degrees of freedom required to simulate the partially or fully fragmented material in a fashion consistent with the embedded geometry. This approach enables efficient simulation of complex geometry with a simple mesh, i.e. the geometry need not align itself with element boundaries. It also alleviates many shortcomings of traditional La-grangian simulation techniques for meshes with changing topology. For example, slivers do not require small CFL time step restrictions since they are embedded in well shaped larger elements. To enable robust simulation of embedded geometry, we propose new algorithms for handling rigid body and self collisions. In addition, we present several mechanisms for influencing and controlling fracture with grain boundaries, prescoring, etc. We illustrate our method for both volumetric and thin-shell simulations.", 
+            "authors": [
+                "Neil Molino", 
+                "Z Bao", 
+                "Ronald Fedkiw"
+            ], 
+            "fields": [
+                "Fracture", 
+                "Grain boundary", 
+                "Degrees of freedom", 
+                "Rigid body", 
+                "Piecewise linear function"
+            ], 
+            "title": "A virtual node algorithm for changing mesh topology during simulation", 
+            "url": "http://cn.bing.com/academic/profile?id=5b2cc86d8a09b05dc23595f38cc7af29&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We are witnessing the convergence of game technology (both software and hardware) with rehabilitation science to form a second-generation virtual rehabilitation framework. This is fortunate in view of the need to reduce system costs and thus facilitate adoption in clinical practice. This paper presents an Xbox-based physical rehabilitation system currently under development at Rutgers University. Unlike its high-end precursor aimed at hand training for patients post-stroke, the experimental system described here uses an inexpensive P5 game glove and Java 3D simulations. This results in significant cost savings, albeit with some tradeoff in functionality.", 
+            "authors": [
+                "Kira Morrow", 
+                "Ciprian Docan", 
+                "Grigore C Burdea", 
+                "Alma S Merians"
+            ], 
+            "fields": [
+                "Biomechanics", 
+                "Java"
+            ], 
+            "title": "Low-cost Virtual Rehabilitation of the Hand for Patients Post-Stroke", 
+            "url": "http://cn.bing.com/academic/profile?id=ebeec28128a855297e9310ce90158c1b&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In this article we would like to present a physical basis of virtual antenna array method which is based on electrodynamic principle of field source equivalence. Also, here are formulae and numerical relations for field description errors for the field at the edges of physical and virtual antenna arrays It is also demonstrated that the virtual antenna array method helps increase radio emitters angular coordinates accuracy even without data about antenna array carrier body geometry and material properties. Potential use of this method is also provided.", 
+            "authors": [
+                "Alexander Ashikhmin", 
+                "Yu G Pasternak", 
+                "Yu A Rembovskiy", 
+                "S M Fedorov"
+            ], 
+            "fields": [
+                "Antenna array", 
+                "Electromagnetic field", 
+                "Diffraction"
+            ], 
+            "title": "Virtual Antenna Array Theory and Applications", 
+            "url": "http://cn.bing.com/academic/profile?id=e40595b910ecc878fbe46bd27ab8ed81&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Surgical training systems based on virtual-reality (VR) simulation techniques offer a cost-effective and efficient alternative to traditional training methods. This paper describes a VR system for training arthroscopic knee surgery. Virtual models used in this system are constructed from the Visual Human Project dataset. Our system simulates soft tissue deformation with topological change in real-time using finite-element analysis. To offer realistic tactile feedback, we build a tailor-made force feedback hardware.", 
+            "authors": [
+                "Pheng Ann Heng", 
+                "Chunyiu Cheng", 
+                "Tientsin Wong", 
+                "Yangsheng Xu", 
+                "Yimpan Chui", 
+                "Kaiming Chan", 
+                "Shiukit Tso"
+            ], 
+            "fields": [
+                "Haptic technology", 
+                "Cost-effectiveness analysis", 
+                "Biomechanics", 
+                "Feedback", 
+                "Orthopedic surgery"
+            ], 
+            "title": "A virtual-reality training system for knee arthroscopic surgery", 
+            "url": "http://cn.bing.com/academic/profile?id=82d77785d5d431ca3ae4eea05e800512&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "A challenging issue facing Grid communities is that while Grids can provide access to many heterogeneous resources, the resources to which access is provided often do not match the needs of a specific application or service. In an environment in which both resource availability and software requirements evolve rapidly, this disconnect can lead to resource underutilization, user frustration, and much wasted effort spent on bridging the gap between applications and resources. We show here how these issues can be overcome by allowing authorized Grid clients to negotiate the creation of virtual clusters made up of virtual machines configured to suit client requirements for software environment and hardware allocation. We introduce descriptions and methods that allow us to deploy flexibly configured virtual cluster workspaces. We describe their configuration, implementation, and evaluate them in the context of a virtual cluster representing the environment in production use by the Open Science Grid. Our performance evaluation results show that virtual clusters representing current Grid production environments can be deployed and managed efficiently, and thus can provide an acceptable platform for Grid applications.", 
+            "authors": [
+                "Ian Foster", 
+                "Tim Freeman", 
+                "K Keahy", 
+                "Doug Scheftner", 
+                "Bill Sotomayer", 
+                "Xuehai Zhang"
+            ], 
+            "fields": [
+                "Computer hardware", 
+                "Environmental resource management", 
+                "Virtual machine", 
+                "Productivity", 
+                "Availability"
+            ], 
+            "title": "Virtual Clusters for Grid Communities", 
+            "url": "http://cn.bing.com/academic/profile?id=d81a4673589b7e95474bae8478e6d76e&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Many face makeover software provide the facility of doing makeup either by using free hand drawing or using templates in which, points can be adjusted according to face and then application of make-up is performed, which often does not provide high-quality output. Automatic detection of facial features, such as eyes, lips and face line etc, seems to be easier and convenient way of applying make-up but there is no software that provides automated facial features detection technique. This application provides this facility by using image processing techniques which can automatically detects hair line, eyes and lips to apply make-up.", 
+            "authors": [
+                "Asma Sajjad", 
+                "Sadia Arshad", 
+                "Afsheen Tariq", 
+                "Ayesha Shoaib"
+            ], 
+            "fields": [], 
+            "title": "Virtual Makeover Software", 
+            "url": "http://cn.bing.com/academic/profile?id=4a801e96c15de90967edd05348d61139&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "A virtual biology lab is an alternative of actual biology lab. Many experiments are performed in a biology lab. Dissection is one of the experiments performed in a biology lab. As we know that Dissection is the procedure by which internal organs of an organism are studied. In our work, 3D Virtual dissection software of frog has been developed for the biology students with the use of action script language. Action script has a java like syntax & is easier for creating visually engaging animations and interactive projects. Our main objectives are to make the software more realistic and more interactive. With the use of 3D frog dissection images, dissection has been made more realistic and with the help of virtual dissection tools it has been made more interactive. Dif ferent type of animation techniques have been embedded in the virtual learning environment. We have taken feedback of students and result has been evaluated. Evaluation data indicates an overall positive response by students and teachers towards \"Virtual Frog Dissection\" software.", 
+            "authors": [
+                "Vatsala Bani", 
+                "Abha Chaubey", 
+                "Shrikumar Gupta"
+            ], 
+            "fields": [], 
+            "title": "Virtual Frog Dissection: As a Computer Application", 
+            "url": "http://cn.bing.com/academic/profile?id=76fe2cf49ea3b5f85c71446789e9dd81&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This chapter examines the similarities and differences between physical, psychological and virtual realities, and challenges some conventional, implicitly dualist assumptions about how these relate to each other. Virtual realities are not easily understood in either dualist or materialist reductive terms, as they exemplify the reflexive nature of perception. The chapter summarises some of the evidence for this \u201creflexive model\u201d\u2014and examines some of its consequences for the \u201chard\u201d problem of consciousness.  The chapter then goes on to consider how these realities might relate to some grounding reality or thing-itself, and considers some of the personal and social consequences of becoming increasingly immersed in virtual realities. Although this chapter was published in 1998 and develops work published in 1990, it presents a form of \u201cradical externalism\u201d that anticipates many themes in current (2006) internalism versus externalism debates about the nature of mind. It is also relevant to an understanding of virtual reality \u201cpresence.\u201d", 
+            "authors": [
+                "Max Velmans"
+            ], 
+            "fields": [
+                "Human\u2013computer interaction", 
+                "Philosophy of mind"
+            ], 
+            "title": "PHYSICAL, PSYCHOLOGICAL AND VIRTUAL REALITIES 1", 
+            "url": "http://cn.bing.com/academic/profile?id=bb23d59a206df2668019a26592d3e652&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Finally, a comprehensive guide to the Linux VM!VM's behavior affects every Linux kernel subsystem and dramatically impacts overall performance. But until now, there was only one way to understand VM: study the poorly documented source one line at a time. Now there's an easier, faster alternative. This book describes VM in unprecedented detail, presenting both theoretical foundations and a line-by-line source code commentary. It systematically covers everything from physical memory description to out-of-memory management. Coverage includes: Linux VM 2.4 architecture in depth-with diagrams and call graphs Physical memory description, page tables, address spaces, and memory allocation High memory, swapping, shared memory, and much more Expert guidance for analyzing the code of any open source project New Linux 2.6 kernel features in every chapterWell organized and superbly written, Understanding the Linux Virtual Memory Manager will be indispensable to every kernel programmer and researcher.", 
+            "authors": [
+                "Mel Gorman"
+            ], 
+            "fields": [
+                "Virtual memory"
+            ], 
+            "title": "Understanding the Linux Virtual Memory Manager", 
+            "url": "http://cn.bing.com/academic/profile?id=23abad0d8432a41556e7c76114f9d4ab&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual reality (VR) has finally come of age for serious applications in the behavioral neurosciences. After capturing the public imagination a decade ago, enthusiasm for VR flagged due to hardware limitations, an absent commercial market and manufacturers who dropped the mass-market products that normally drive technological development. Recently, however, improvements in computer speed, quality of head-mounted displays and wide-area tracking systems have made VR attractive for both research and real-world applications in neuroscience, cognitive science and psychology. New and exciting applications for VR have emerged in research, training, rehabilitation,", 
+            "authors": [
+                "Michael J Tarr", 
+                "William H Warren"
+            ], 
+            "fields": [
+                "Perception", 
+                "Tracking system", 
+                "Optical head-mounted display", 
+                "Virtual reality", 
+                "Behavioural sciences"
+            ], 
+            "title": "Virtual reality in behavioral neuroscience and beyond.", 
+            "url": "http://cn.bing.com/academic/profile?id=847d5c89a589eda7ac2cc6d3579ab7f6&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We study the direct cost of virtual function calls in C++ programs, assuming the standard implementation using virtual function tables. We measure this overhead experimentally for a number of large benchmark programs, using a combination of executable inspection and processor simulation. Our results show that the C++ programs measured spend a median of 5.2% of their time and 3.7% of their instructions in dispatch code. For \"all virtuals\" versions of the programs, the median overhead rises to 13.7% (13% of the instructions). The \"thunk\" variant of the virtual function table implementation reduces the overhead by a median of 21% relative to the standard implementation. On future processors, these overheads are likely to increase moderately.", 
+            "authors": [
+                "Karel Driesen", 
+                "Urs Holzle"
+            ], 
+            "fields": [], 
+            "title": "The direct cost of virtual function calls in C", 
+            "url": "http://cn.bing.com/academic/profile?id=8b05a52ee6b42936d0d60902f023b9a8&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The present study explored whether immersive virtual reality can serve as an effective nonpharmacologic analgesic for dental pain. Two patients (aged 51 and 56 years old) with adult periodontitis, a chronic, progressive inflammatory disease that affects gums, ligaments, and bones around the teeth, were studied in the treatment room of a periodontist. Each patient received periodontal scaling and root planing (scraping off/removing plaque deposits below the gum line, hereafter referred to as scaling) under three treatment conditions: (1) virtual reality distraction, (2) movie distraction, and (3) a no-distraction control condition. Condition order was randomized and counterbalanced. For each of the three treatment conditions, five visual analog pain scores for each treatment condition served as the dependent variables. On 0-10 labeled scales, both patients provided sensory and affective pain ratings, and subjective estimates of time spent thinking about his pain during the procedure. For patient 1, mean pa...", 
+            "authors": [
+                "Hunter G Hoffman", 
+                "Azucena Garciapalacios", 
+                "David R Patterson", 
+                "Mark P Jensen", 
+                "Thomas A Furness", 
+                "W F Ammons"
+            ], 
+            "fields": [
+                "Virtual reality"
+            ], 
+            "title": "The effectiveness of virtual reality for dental pain control: a case study.", 
+            "url": "http://cn.bing.com/academic/profile?id=4c0a1eebe73220527b5168823ab7c784&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract#R##N##R##N#Despite the growing popularity of virtual communities, there is no consensus among researchers regarding the appropriate definition or types of virtual communities. In this paper, a virtual community is defined as an aggregation of individuals or business partners who interact around a shared interest, where the interaction is at least partially supported and/or mediated by technology and guided by some protocols or norms. The central objective of developing this typology was to develop a classification system that would be useful to researchers from various disciplinary perspectives such that the classification system might be used as a foundation for theory construction. The proposed typology serves its intended purposes and is evaluated against criteria put forth by Hunt (1991). The proposed typology uses establishment type and relationship orientation as the key categorization variables, reconciling problems posed by other researchers who attempt to use attributes as categorization variables. It is simple, pragmatic for practitioners and useful for researchers seeking to develop an understanding of the virtual community phenomenon.", 
+            "authors": [
+                "Constance Elise Porter"
+            ], 
+            "fields": [], 
+            "title": "A Typology of Virtual Communities: A Multi-Disciplinary Foundation for Future Research", 
+            "url": "http://cn.bing.com/academic/profile?id=266d7a119d811e78674df9068b398d3b&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Aquest article planteja que les reconstruccions virtuals arqueologiques presentades als museus no es poden considerar realitat virtual (RV), perque parteixen d'una concepcio artistica de la disciplina. La causa es troba en els origens de l'arqueologia, que va neixer al segle XVIII, estretament relacionada amb la historia de l'art. En l'era de les noves tecnologies, aquesta concepcio ha esdevingut alhora causa i consequencia: determina les caracteristiques de l'RV des de la disciplina, pero a la vegada es reforcada per les reconstruccions virtuals. Per a constatar la relacio actual entre l'RV i l'arqueologia, comencarem establint una definicio de realitat virtual. Despres farem un breu recorregut historic per a comprendre l'evolucio de l'arqueologia i dels museus. Aixo ens portara a l'analisi d'alguns exemples d'RV als museus, dels quals extraurem conclusions sobre l'us actual de l'RV. Finalment, veurem les possibilitats de l'RV per a la divulgacio de l'arqueologia.   Text complet (PDF)", 
+            "authors": [
+                "Laia Pujol"
+            ], 
+            "fields": [
+                "Virtual reality", 
+                "Archaeology"
+            ], 
+            "title": "Archaeology, museums and virtual reality", 
+            "url": "http://cn.bing.com/academic/profile?id=1c83cea288fde912822255642458e292&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Computational screening of databases has become increasingly popular in the pharmaceutical research. Virtual screening uses computer based methods to discover new ligands on the basis of biological structures. Virtual screening is divided into structural based screening (docking) and screening using active compounds as templates (ligand based virtual screening). Ligand based screening techniques mainly focus on comparing molecular similarity analyses of compounds with known and unknown moiety, regardless of the methods of the used algorithm. Docking is a computational tool of structure based drug design to predict protein ligand interaction geometries and binding affinities. In this review we provide an overview of the already used ligand based virtual screening and the docking with various databases, filters, scores and applications in the rece nt research in the pharmaceutical field.", 
+            "authors": [
+                "Vivek K Vyas", 
+                "Anurekha Jain", 
+                "Avijeet Jain", 
+                "Arun Kumar Gupta", 
+                "Babu Nahata"
+            ], 
+            "fields": [
+                "Docking", 
+                "Drug design", 
+                "Virtual screening", 
+                "Pharmacophore"
+            ], 
+            "title": "Virtual Screening : A Fast Tool for Drug Design", 
+            "url": "http://cn.bing.com/academic/profile?id=5bb565bf20f8478fc8c51f2532b9264c&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "How, where, when, and what we teach has been significantly influenced by technological innovation. Radio, television, and computers have all alt ered how information is presented and how students interact with that information. This paper de scribes how virtual worlds provide a mechanism to incorporate constructivist, experiential, a nd student-centered learning practices into the classroom. The authors also discuss the challenges and the benefits of using virtual worlds in education as well as some implications for the futu re of education. Ke ywords : virtual worlds, Second life, constructivist learn ing, authentic learning, metaverse, Sloodle", 
+            "authors": [
+                "Stacy Kluge", 
+                "Liz Riley"
+            ], 
+            "fields": [
+                "Metaverse", 
+                "Constructivist teaching methods"
+            ], 
+            "title": "Teaching in Virtual Worlds: Opportunities and Challenges", 
+            "url": "http://cn.bing.com/academic/profile?id=bb0f5082f9d9f55ada612fd413eaf0c5&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Communication and information technologies are adding new capabilities for rapid and inexpensive customer input to all stages of the product development (PD) process. In this article we review six web-based methods of customer input as examples of the improved Internet capabilities of communication, conceptualization, and computation. For each method we give examples of user-interfaces, initial applications, and validity tests. We critique the applicability of the methods for use in the various stages of PD and discuss how they complement existing methods.#R##N##R##N##R##N##R##N#For example, during the fuzzy front end of PD the information pump enables customers to interact with each other in a web-based game that provides incentives for truth-telling and thinking hard, thus providing new ways for customers to verbalize the product features that are important to them. Fast polyhedral adaptive conjoint estimation enables PD teams to screen larger numbers of product features inexpensively to identify and measure the importance of the most promising features for further development. Meanwhile, interactive web-based conjoint analysis interfaces are moving this proven set of methods to the web while exploiting new capabilities to present products, features, product use, and marketing elements in streaming multimedia representations. User design exploits the interactivity of the web to enable users to design their own virtual products thus enabling the PD team to understand complex feature interactions and enabling customers to learn their own preferences for new products. These methods can be valuable for identifying opportunities, improving the design and engineering of products, and testing ideas and concepts much earlier in the process when less time and money is at risk. As products move toward pretesting and testing, virtual concept testing on the web enables PD teams to test concepts without actually building the product. Further, by combining virtual concepts and the ability of customers to interact with one another in a stock-market-like game, securities trading of concepts provides a novel way to identify winning concepts.#R##N##R##N##R##N##R##N#Prototypes of all six methods are available and have been tested with real products and real customers. These tests demonstrate reliability for web-based conjoint analysis, polyhedral methods, virtual concept testing, and stock-market-like trading; external validity for web-based conjoint analysis and polyhedral methods; and consistency for web-based conjoint analysis versus user design. We report on these tests, commercial applications, and other evaluations. \u00a9 2002 Elsevier Science Inc. All rights reserved.", 
+            "authors": [
+                "Ely Dahan", 
+                "John R Hauser"
+            ], 
+            "fields": [
+                "Conceptualization", 
+                "Conjoint analysis", 
+                "Computation", 
+                "New product development", 
+                "Product"
+            ], 
+            "title": "The virtual customer", 
+            "url": "http://cn.bing.com/academic/profile?id=63be968bb644f1f7ac2f8477e7ac60e1&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The 2 studies reported here use observational data from message boards to investigate how adolescents solicit and share information related to self-injurious behavior. Study 1 examines the prevalence and nature of these message boards, their users, and most commonly discussed topics. Study 2 was intended to explore the correlations between content areas raised for discussion. Both studies were intended to shed light on the role of message boards in spreading information about self-injurious practices and influencing help-seeking behavior. More than 400 self-injury message boards were identified. Most are populated by females who describe themselves as between 12 and 20 years of age. Findings show that online interactions clearly provide essential social support for otherwise isolated adolescents, but they may also normalize and encourage self-injurious behavior and add potentially lethal behaviors to the repertoire of established adolescent self-injurers and those exploring identity options.", 
+            "authors": [
+                "Janis Whitlock", 
+                "Jane Powers", 
+                "John Eckenrode"
+            ], 
+            "fields": [
+                "The Internet", 
+                "Interpersonal communication", 
+                "SEX", 
+                "Human factors and ergonomics", 
+                "Mental health"
+            ], 
+            "title": "The virtual cutting edge: the internet and adolescent self-injury", 
+            "url": "http://cn.bing.com/academic/profile?id=82924e9208d6e1369d7a7f9e56e0e318&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Emotional intelligence (EI) has received increasing attention in recent years as a driver of team effectiveness. However, research has yet to address EI in virtual teams (VT). The purpose of our study was to examine EI as a predictor of VT effectiveness. Further, we investigated quality of communication as a mediator of the EI-team viability relationship. We employed a work simulation using 228 undergraduate students (57 teams). Multilevel modeling was used to test our hypotheses. Our results support that EI is a driver of team viability, and that quality of communication serves as one mechanism through which this influence exists.", 
+            "authors": [
+                "Virginia E Pitts", 
+                "Natalie A Wright", 
+                "Lindsey C Harkabus"
+            ], 
+            "fields": [], 
+            "title": "Communication in Virtual Teams: The Role of Emotional Intelligence", 
+            "url": "http://cn.bing.com/academic/profile?id=5498e270e72403586cda22657485826a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Distributed teams are increasingly common in today's workplace. For these teams, face-to-face meetings where members can most easily build trust are rare and often costprohibitive. 3D virtual worlds and games may provide an alternate means for encouraging team development due to their affordances for facile communication, emotional engagement, and social interaction among participants. Using principles derived from social psychological theory, we have designed and built a collection of team-building games within the popular virtual world Second Life. We detail here the design decisions made in the creation of these games and discuss how they evolved based on early participant observations.", 
+            "authors": [
+                "Jason B Ellis", 
+                "Kurt Luther", 
+                "Katherine Bessiere", 
+                "Wendy A Kellogg"
+            ], 
+            "fields": [
+                "Metaverse", 
+                "Social relation", 
+                "Participant observation", 
+                "Games"
+            ], 
+            "title": "Games for virtual team building", 
+            "url": "http://cn.bing.com/academic/profile?id=91ba4427a1666f45d840fa7e8e847928&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Input to small devices is becoming an increasingly crucial factor in development for the ever-more powerful embedded market. Speech input promises to become a feasible alternative to tiny keypads, yet its limited reliability, robustness, and flexibility render it unsuitable for certain tasks and/or environments. Various attempts have been made to provide the common keyboard metaphor without the physical keyboard, to build \u201cvirtual keyboards\u201d. This promises to leverage our familiarity with the device without incurring the constraints of the bulky physics. This paper surveys technologies for alphanumeric input devices and methods with a strong focus on touch-typing. We analyze the characteristics of the keyboard modality and show how they contribute to making it a necessary complement to speech recognition rather than a competitor.", 
+            "authors": [
+                "Mathias Kolsch", 
+                "Matthew Turk"
+            ], 
+            "fields": [
+                "Computer vision", 
+                "User interface", 
+                "Gesture recognition", 
+                "Speech recognition"
+            ], 
+            "title": "Keyboards without Keyboards: A Survey of Virtual Keyboards", 
+            "url": "http://cn.bing.com/academic/profile?id=84191f7330c108d1f451df9ab1e87518&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Numerous reports indicate that the incidence of posttraumatic stress disorder (PTSD) in returning OEF/OIF military personnel is creating a significant healthcare challenge. These findings have served to motivate research on how to better develop and disseminate evidence-based treatments for PTSD. Virtual Reality delivered exposure therapy for PTSD has been previously used with reports of positive outcomes. This article details how virtual reality applications are being designed and implemented across various points in the military deployment cycle to prevent, identify and treat combat-related PTSD in OIF/OEF Service Members and Veterans. The summarized projects in these areas have been developed at the University of Southern California Institute for Creative Technologies, a U.S. Army University Affiliated Research Center, and this paper will detail efforts to use virtual reality to deliver exposure therapy, assess PTSD and cognitive function and provide stress resilience training prior to deployment.", 
+            "authors": [
+                "Albert Rizzo", 
+                "Thomas D Parsons", 
+                "Belinda Lange", 
+                "Patrick Kenny", 
+                "J G Buckwalter", 
+                "Barbara O Rothbaum", 
+                "Joann Difede", 
+                "John Frazier", 
+                "Brad Newman", 
+                "Josh Williams", 
+                "Greg M Reger"
+            ], 
+            "fields": [
+                "Military branch", 
+                "Therapy", 
+                "Software deployment", 
+                "Cognition", 
+                "Virtual reality"
+            ], 
+            "title": "Virtual Reality Goes to War: A Brief Review of the Future of Military Behavioral Healthcare", 
+            "url": "http://cn.bing.com/academic/profile?id=641dd84327b13f0479c6a475ee3e8e1a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Emotional intelligence (EI) has received increasing attention in recent years as a driver of team effectiveness. However, research has yet to address EI in virtual teams (VT). The purpose of our study was to examine EI as a predictor of VT effectiveness. Further, we investigated quality of communication as a mediator of the EI-team viability relationship. We employed a work simulation using 228 undergraduate students (57 teams). Multilevel modeling was used to test our hypotheses. Our results support that EI is a driver of team viability, and that quality of communication serves as one mechanism through which this influence exists.", 
+            "authors": [
+                "Virginia E Pitts", 
+                "Natalie A Wright", 
+                "Lindsey C Harkabus"
+            ], 
+            "fields": [], 
+            "title": "Communication in Virtual Teams: The Role of Emotional Intelligence", 
+            "url": "http://cn.bing.com/academic/profile?id=5498e270e72403586cda22657485826a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Distributed teams are increasingly common in today's workplace. For these teams, face-to-face meetings where members can most easily build trust are rare and often costprohibitive. 3D virtual worlds and games may provide an alternate means for encouraging team development due to their affordances for facile communication, emotional engagement, and social interaction among participants. Using principles derived from social psychological theory, we have designed and built a collection of team-building games within the popular virtual world Second Life. We detail here the design decisions made in the creation of these games and discuss how they evolved based on early participant observations.", 
+            "authors": [
+                "Jason B Ellis", 
+                "Kurt Luther", 
+                "Katherine Bessiere", 
+                "Wendy A Kellogg"
+            ], 
+            "fields": [
+                "Metaverse", 
+                "Social relation", 
+                "Participant observation", 
+                "Games"
+            ], 
+            "title": "Games for virtual team building", 
+            "url": "http://cn.bing.com/academic/profile?id=91ba4427a1666f45d840fa7e8e847928&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Input to small devices is becoming an increasingly crucial factor in development for the ever-more powerful embedded market. Speech input promises to become a feasible alternative to tiny keypads, yet its limited reliability, robustness, and flexibility render it unsuitable for certain tasks and/or environments. Various attempts have been made to provide the common keyboard metaphor without the physical keyboard, to build \u201cvirtual keyboards\u201d. This promises to leverage our familiarity with the device without incurring the constraints of the bulky physics. This paper surveys technologies for alphanumeric input devices and methods with a strong focus on touch-typing. We analyze the characteristics of the keyboard modality and show how they contribute to making it a necessary complement to speech recognition rather than a competitor.", 
+            "authors": [
+                "Mathias Kolsch", 
+                "Matthew Turk"
+            ], 
+            "fields": [
+                "Computer vision", 
+                "User interface", 
+                "Gesture recognition", 
+                "Speech recognition"
+            ], 
+            "title": "Keyboards without Keyboards: A Survey of Virtual Keyboards", 
+            "url": "http://cn.bing.com/academic/profile?id=84191f7330c108d1f451df9ab1e87518&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Numerous reports indicate that the incidence of posttraumatic stress disorder (PTSD) in returning OEF/OIF military personnel is creating a significant healthcare challenge. These findings have served to motivate research on how to better develop and disseminate evidence-based treatments for PTSD. Virtual Reality delivered exposure therapy for PTSD has been previously used with reports of positive outcomes. This article details how virtual reality applications are being designed and implemented across various points in the military deployment cycle to prevent, identify and treat combat-related PTSD in OIF/OEF Service Members and Veterans. The summarized projects in these areas have been developed at the University of Southern California Institute for Creative Technologies, a U.S. Army University Affiliated Research Center, and this paper will detail efforts to use virtual reality to deliver exposure therapy, assess PTSD and cognitive function and provide stress resilience training prior to deployment.", 
+            "authors": [
+                "Albert Rizzo", 
+                "Thomas D Parsons", 
+                "Belinda Lange", 
+                "Patrick Kenny", 
+                "J G Buckwalter", 
+                "Barbara O Rothbaum", 
+                "Joann Difede", 
+                "John Frazier", 
+                "Brad Newman", 
+                "Josh Williams", 
+                "Greg M Reger"
+            ], 
+            "fields": [
+                "Military branch", 
+                "Therapy", 
+                "Software deployment", 
+                "Cognition", 
+                "Virtual reality"
+            ], 
+            "title": "Virtual Reality Goes to War: A Brief Review of the Future of Military Behavioral Healthcare", 
+            "url": "http://cn.bing.com/academic/profile?id=641dd84327b13f0479c6a475ee3e8e1a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We describe applications of a  virtually synchronous  environment for distributed programming, which underlies a collection of distributed programming tools in the  ISIS  2  system. A virtually synchronous environment allows processes to be structured into  process groups , and makes events like broadcasts to the group as an entity, group membership changes, and even migration of an activity from one place to another appear to occur instantaneously \u2014 in other words, synchronously. A major advantage to this approach is that many aspects of a distributed application can be treated independently without compromising correctness. Moreover, user code that is designed as if the system were synchronous can often be executed concurrently. We argue that this approach to building distributed and fault-tolerant software is more straightforward, more flexible, and more likely to yield correct solutions than alternative approaches.", 
+            "authors": [
+                "Kenneth P Birman", 
+                "Thomas A Joseph"
+            ], 
+            "fields": [
+                "Distribution", 
+                "Radio Broadcasting", 
+                "Fault tolerance", 
+                "Computer Science", 
+                "Computer programming"
+            ], 
+            "title": "Exploiting virtual synchrony in distributed systems", 
+            "url": "http://cn.bing.com/academic/profile?id=9c8db9c96ef6bfa96b4ce6c9311e64c7&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Summary#R##N#Virtual worlds have the potential to offer nursing students social networking and, learning, opportunities through the use of collaborative and immersive learning. If nursing educators, are to stay, abreast of contemporary learning opportunities an exploration of the potential benefits of, virtual, worlds and their possibilities is needed. Literature was sourced that explored virtual worlds, and their, use in education, but nursing education specifically. It is clear that immersive learning has, positive, benefits for nursing, however the best way to approach virtual reality in nursing education, has yet to, be ascertained.", 
+            "authors": [
+                "Janet Green", 
+                "Aileen Wyllie", 
+                "Debra Jackson"
+            ], 
+            "fields": [
+                "Metaverse", 
+                "Experiential learning", 
+                "Nurse education", 
+                "Collaboration", 
+                "Social network"
+            ], 
+            "title": "Virtual worlds: A new frontier for nurse education?", 
+            "url": "http://cn.bing.com/academic/profile?id=5c7c4e7fa2879112baa43565ce380cf5&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract#R##N#Virtual reality exposure therapy (VRET) is an increasingly common treatment for anxiety and specific phobias. Lacking is a quantitative meta-analysis that enhances understanding of the variability and clinical significance of anxiety reduction outcomes after VRET. Searches of electronic databases yielded 52 studies, and of these, 21 studies (300 subjects) met inclusion criteria. Although meta-analysis revealed large declines in anxiety symptoms following VRET, moderator analyses were limited due to inconsistent reporting in the VRET literature. This highlights the need for future research studies that report uniform and detailed information regarding presence, immersion, anxiety and/or phobia duration, and demographics.", 
+            "authors": [
+                "Thomas D Parsons", 
+                "Albert Rizzo"
+            ], 
+            "fields": [
+                "Exposure", 
+                "Affective neuroscience", 
+                "Virtual reality", 
+                "Therapy", 
+                "Anxiety"
+            ], 
+            "title": "Affective outcomes of virtual reality exposure therapy for anxiety and specific phobias: a meta-analysis.", 
+            "url": "http://cn.bing.com/academic/profile?id=e2696d762ec60fde3ebd73b7ca8cde2a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Summary#R##N#Virtual worlds have the potential to offer nursing students social networking and, learning, opportunities through the use of collaborative and immersive learning. If nursing educators, are to stay, abreast of contemporary learning opportunities an exploration of the potential benefits of, virtual, worlds and their possibilities is needed. Literature was sourced that explored virtual worlds, and their, use in education, but nursing education specifically. It is clear that immersive learning has, positive, benefits for nursing, however the best way to approach virtual reality in nursing education, has yet to, be ascertained.", 
+            "authors": [
+                "Janet Green", 
+                "Aileen Wyllie", 
+                "Debra Jackson"
+            ], 
+            "fields": [
+                "Metaverse", 
+                "Experiential learning", 
+                "Nurse education", 
+                "Collaboration", 
+                "Social network"
+            ], 
+            "title": "Virtual worlds: A new frontier for nurse education?", 
+            "url": "http://cn.bing.com/academic/profile?id=5c7c4e7fa2879112baa43565ce380cf5&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Virtual Reality technology is currently part of advanced physical rehabilitation therapy. However, several questions remain unanswered: Can this technology improve or even substitute the traditional methodologies? Can it really influence the nervous system or does moving within a virtual environment just motivate the individual to perform? In this paper we present the state of the art, the new advanced technology available and the most promising applications in this field. Finally we will introduce our research as a case study in the area.", 
+            "authors": [
+                "Alessandro De Mauro"
+            ], 
+            "fields": [], 
+            "title": "Virtual Reality Based Rehabilitation and Game Technology", 
+            "url": "http://cn.bing.com/academic/profile?id=52192ca77f042b34a3d93832afb4e5a8&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This experiment exposed a sample of U.S. un- dergraduates (43 men, 40 women) to suggestively or conservatively clad virtual females who exhibited either responsive, high eye gaze or nonresponsive, low gaze in an immersive virtual environment. Outside the virtual world, men and women who encountered a highly stereotypical character\u2014a suggestively clad, high gaze agent (\"vamp\") or conservatively clad, low gaze character (\"virgin\")\u2014 demonstrated more sexism and greater rape myth accep- tance than participants who saw a suggestively clad nonresponsive or conservatively clad, responsive character. Results suggest that gender-stereotypical virtual females enhance negative attitudes toward women, whereas those that violate expectations and break stereotypes do not.", 
+            "authors": [
+                "Jesse Fox", 
+                "Jeremy N Bailenson"
+            ], 
+            "fields": [
+                "Virtual reality", 
+                "Stereotype", 
+                "Eye tracking", 
+                "Attitude", 
+                "Gender schema theory"
+            ], 
+            "title": "Virtual Virgins and Vamps: The Effects of Exposure to Female Characters\u2019 Sexualized Appearance and Gaze in an Immersive Virtual Environment", 
+            "url": "http://cn.bing.com/academic/profile?id=e17ab58063cb891da3a4ab054e91a587&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Library operations today are entirely different from what we have experienced in the past and we can expect a tremendous change in the future. These changes may affect almost all the fields of library organization and library management. The librarian and the library users must be ready to accept and adopt the new technologies; otherwise they will be pushed aside. Electronic library or digital library is the product of the technological development which enriched the field of library and information science and the accessories we use in these libraries are CD-ROM, DVD, floppy disks, multimedia computers etc. and now the Internet. #N#The information explosion can be faced only by the application of IT and networks in libraries.", 
+            "authors": [
+                "Chinmayee Bhange"
+            ], 
+            "fields": [], 
+            "title": "Virtual and Digital Libraries", 
+            "url": "http://cn.bing.com/academic/profile?id=5213cb57810a53752ae83d6bacca7181&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The paper introduces the concept of Virtual Reference Service (VRS) in academic libraries. The survey investigates into the state of VRS in the libraries of premier educational institutions, the IIMs and IITs in India. The study reveals that although a remarkable advancement in the automation and electronic access to information has been achieved in these libraries, there is a long way ahead to march towards the establishment of standard VRS at par with similar institutions in developed countries.", 
+            "authors": [
+                "Bulu Maharana", 
+                "Krushna Chandra Panda"
+            ], 
+            "fields": [], 
+            "title": "Virtual Reference Service in Academic Libraries: a Case Study of the Libraries of IIMs and IITs in India", 
+            "url": "http://cn.bing.com/academic/profile?id=7dee05c537c1167c6ee9a0506345c9ce&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The concept of teams and teamwork is increasingly becoming an important key to productivity and employee satisfaction in the contemporary workplace. This paper looks at the concept of teams and teamwork and several innovative ways of using teams. Among the innovative ways of using teams are globally networked teams, team\u2010based strategic planning, flexible\u2010jobbing, the horizontal corporation, and the virtual corporation. The use of computer\u2010mediated communication technologies and other groupware technologies provide a workable, reliable, and flexible base of systems for creating the platforms for virtual teams and virtual organizations. An overview of current information technology available for supporting teams and which types of information technology are most valuable in enhancing the new team applications is briefly addressed. Supporting technologies include groupware for facilitating communication, supporting information storage and retrieval, and supporting decision making. Lastly, the many competiti...", 
+            "authors": [
+                "Stanley Stough", 
+                "Sean B Eom", 
+                "James Buckenmyer"
+            ], 
+            "fields": [
+                "Computer-mediated communication", 
+                "Information technology", 
+                "Performance", 
+                "Competitive advantage", 
+                "Innovation"
+            ], 
+            "title": "Virtual teaming: a strategy for moving your organization into the new millennium", 
+            "url": "http://cn.bing.com/academic/profile?id=77e3a227672320aa814ea7a5a484d51f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Smartphones are increasingly ubiquitous, and many users carry multiple phones to accommodate work, personal, and geographic mobility needs. We present  Cells , a virtualization architecture for enabling multiple virtual smartphones to run simultaneously on the same physical cellphone in an isolated, secure manner.  Cells  introduces a usage model of having one foreground virtual phone and multiple background virtual phones. This model enables a new device namespace mechanism and novel device proxies that integrate with lightweight operating system virtualization to multiplex phone hardware across multiple virtual phones while providing native hardware device performance.  Cells  virtual phone features include fully accelerated 3D graphics, complete power, management features, and full telephony functionality with separately assignable telephone numbers and caller ID support. We have implemented a prototype of Cells that supports multiple Android virtual phones on the same phone. Our performance results demonstrate that Cells imposes only modest runtime and memory overhead, works seamlessly across multiple hardware devices including Google Nexus 1 and Nexus S phones, and transparently runs Android applications at native speed without any modifications.", 
+            "authors": [
+                "Jeremy Andrus", 
+                "Christoffer Dall", 
+                "Alexander Vant Hof", 
+                "Oren Laadan", 
+                "Jason Nieh"
+            ], 
+            "fields": [
+                "Operating system", 
+                "Android", 
+                "3D computer graphics", 
+                "Computer Science", 
+                "Virtualization"
+            ], 
+            "title": "Cells: a virtual mobile smartphone architecture", 
+            "url": "http://cn.bing.com/academic/profile?id=da7931cf6cf5cc3e8b2306aee7d9d4c8&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Business and government organizations today need to compete and interoperate globally to survive. Effective virtual team management through technology is a key factor. Virtual teams present advantages for cost control and access to global expertise. Previous research suggests a variety of factors for effective functioning of virtual teams. This study explored technology and relationships between team leader personalities, team trust, and team perceived effectiveness by surveying 873 engineers. The findings suggest that a virtual team leader\u2019s personality has a significant impact on the team\u2019s perceived effectiveness but this effect is mediated through cognitive and personality based trust. Implications for managers and further research are discussed.", 
+            "authors": [
+                "Eugene A Pierce", 
+                "Sean Hansen"
+            ], 
+            "fields": [], 
+            "title": "Technology, Trust and Effectiveness in Virtual Teams", 
+            "url": "http://cn.bing.com/academic/profile?id=895ca54f73c09e253eaf04ad781bf1be&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper examines virtual team learning in new product development situations. New product development activities manifest novelty, uncertainty and complexity, presenting an extreme need for learning in the course of the work. We present data from an exploratory study of learning processes in globally dispersed new product development teams. These qualitative data are used to investigate components of team learning previously highlighted in the team learning literature\u2014namely reflection-oriented and action-oriented behaviors\u2014and to examine the boundaries of these learning behaviors. We find that effective virtual teams, like co-located teams, engage in both reflective and action-oriented learning behaviors. However, the virtual context highlights distinct participation strategies in teams\u2019 learning patterns, which aim to leverage deep, specialist knowledge, on one hand, or seek to integrate diverse knowledge, on the other hand. Moreover, our findings suggest that, in the virtual setting, the boundary of team membership is not centrally associated with different learning behaviors and outcomes, as argued in other team learning research. Instead, virtual team learning behaviors are likely to be shaped by boundaries that delimit timely access to relevant knowledge and skill. In conclusion, we discuss implications for future virtual team learning research.", 
+            "authors": [
+                "Deborah Soule", 
+                "Lynda M Applegate"
+            ], 
+            "fields": [
+                "New product development", 
+                "Reflection", 
+                "Team learning", 
+                "Boundary value problem", 
+                "Dual control theory"
+            ], 
+            "title": "Virtual Team Learning: Reflecting and Acting, Alone or With Others", 
+            "url": "http://cn.bing.com/academic/profile?id=639c4dc694e1f2dcd89478180c2a1add&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Data centers are increasingly employing virtualization and consolidation as a means to support a large number of disparate applications running simultaneously on server platforms. However, server platforms are still being designed and evaluated based on performance modeling of a single highly parallel application or a set of homogenous work-loads running simultaneously. Since most future datacenters are expected to employ server virtualization, this paper takes a look at the challenges of modeling virtual machine (VM) performance on a datacenter server. Based on vConsolidate (a server virtualization benchmark) and latest multi-core servers, we show that the VM modeling challenge requires addressing three key problems: (a) modeling the contention of visible resources (cores, memory capacity, I/O devices, etc), (b) modeling the contention of invisible resources (shared microarchitecture resources, shared cache, shared memory bandwidth, etc) and (c) modeling overheads of virtual machine monitor (or hypervisor) implementation. We take a first step to addressing this problem by describing a VM performance modeling approach and performing a detailed case study based on the vConsolidate benchmark. We conclude by outlining outstanding problems for future work.", 
+            "authors": [
+                "Omesh Tickoo", 
+                "Ravi Iyer", 
+                "Ramesh Illikkal", 
+                "Don Newell"
+            ], 
+            "fields": [
+                "Server", 
+                "Virtual machine", 
+                "Hypervisor", 
+                "Data center", 
+                "Shared memory"
+            ], 
+            "title": "Modeling virtual machine performance: challenges and approaches", 
+            "url": "http://cn.bing.com/academic/profile?id=83e6060baf53e36c9e000447a38bbec6&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In the competitive market , virtual teams represent a growing response to the need for fasting time-to- market, low-cost and rapid solutions to complex organizational problems. Virtual teams enable organizations to pool the talents and expertise of employees and non-employees by eliminating time and space barriers . Nowadays, companies are heavily investing in virtual team to enhance their performance and competitiveness. Despite virtual teams growing prevalence, relatively little is known about this new form of team. Hence the study offers an extensive literature review with definitions o f virtual teams and a structured analysis of the present body of knowledge of virtual teams. First, we distinguish virtual teams from conventional teams , different types of virtual teams to identify where current knowledge applies. Second, we distinguish what is needed for effective virtual team considering the people, process and technology point of view and underlying characteristics of virtual teams and challenges they entail. Finally, we have identified an d extended 12 key factors that need to be considered, and describes a methodology focused on supporting virtual team working, with a new approach that has not been specifically addressed in the existing literature and some guide line for future research extracted.", 
+            "authors": [
+                "Nader Ale Ebrahim", 
+                "Shamsuddin Ahmed", 
+                "Zahari Taha"
+            ], 
+            "fields": [
+                "Structural analysis", 
+                "Executive compensation", 
+                "Technology", 
+                "Artificial intelligence", 
+                "Management"
+            ], 
+            "title": "Virtual Teams: A Literature Review", 
+            "url": "http://cn.bing.com/academic/profile?id=0a2273ecd68fbfaa769e1cf2fcfe2148&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Information Technology (IT) provides the infrastructure for communication and collaboration tools for virtual teams, but Henttonen and Blomqvist (2005) suggest that it is the relational communication and factors of trust, commitment and communication that attention. This case study presents a team building strategy for such interaction. Off-campus students in an undergraduate course apply technological design concepts for social mechanisms in communication and collaboration to virtual teamwork. Students utilise the themes of conversation, awareness and coordination and document their reflection on their use over the team lifecycle. All functioning teams indicated that these social mechanisms helped to build team trust and commitment. Seventy-two percent of students indicated positive team experience, despite constraints of workload, time pressure, technology tools, distance and uncooperative team members. This study argues that use of guided and iterative reflections on social mechanisms support virtual team functioning and strengthen relationships.", 
+            "authors": [
+                "Kathy Egea"
+            ], 
+            "fields": [
+                "Information technology"
+            ], 
+            "title": "Relationship Building in Virtual Teams: An Academic Case Study", 
+            "url": "http://cn.bing.com/academic/profile?id=26314d4d1e673fabe56a4e473534fb5a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This study defines, examines, and measures the effectiveness of a corporate virtual learning program. Initially, distinctions between traditional and virtual learning and university and corporate programs are defined. Then, based on the literature, an integrative model of the perceived effectiveness of a virtual learning environment is developed and examined. The demographics, perceptions, and success of participants in a practitioner certification instruction program sponsored by a Fortune 50 firm are found to be related to persistence and success in the program, as well as to the effectiveness of knowledge transfer. Conclusions and recommendations for further study are offered.", 
+            "authors": [
+                "Peter W Stonebraker", 
+                "James E Hazeltine"
+            ], 
+            "fields": [
+                "Learning organization", 
+                "Lifelong learning", 
+                "Distance education"
+            ], 
+            "title": "Virtual learning effectiveness", 
+            "url": "http://cn.bing.com/academic/profile?id=a331b9ea4f994769acc8a35d0972a2d4&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The convergence of the exponential advances in virtual reality (VR)-enabling technologies with a growing body of clinical research and experience has fueled the evolution of the discipline of clinical VR. This article begins with a brief overview of methods for producing and delivering VR environments that can be accessed by users for a range of clinical health conditions. Interactive digital games and new forms of natural movementbased interface devices are also discussed in the context of the emerging area of exergaming, along with some of the early results from studies of energy expenditure during the use of these systems. While these results suggest that playing currently available active exergames uses significantly more energy than sedentary activities and is equivalent to a brisk walk, these activities do not reach the level of intensity that would match playing the actual sport, nor do they deliver the recommended daily amount of exercise for children. However, these results provide some support for the use of digital exergames using the current state of technology as a complement to, rather than a replacement, for regular exercise. This may change in the future as new advances in novel full-body interaction systems for providing vigorous interaction with digital games are expected to drive the creation of engaging, low-cost interactive game-based applications designed to increase exercise participation in persons at risk for obesity.", 
+            "authors": [
+                "Albert Skip Rizzo", 
+                "Belinda Lange", 
+                "Evan A Suma", 
+                "Mark T Bolas"
+            ], 
+            "fields": [
+                "Obesity", 
+                "Computer simulation", 
+                "Health education", 
+                "Diabetes mellitus", 
+                "Health promotion"
+            ], 
+            "title": "Virtual Reality and Interactive Digital Game Technology: New Tools to Address Obesity and Diabetes", 
+            "url": "http://cn.bing.com/academic/profile?id=965ad6507200b058ca651f5d8d3bcfda&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Online support communities and grass roots organizations have met since the 1990s via a milieu often advantageous to both. While the numbers of such virtual organizations appear to be growing, there is little published research on the historical encounter of a population in need with the internet driven development of a non-profit which addresses those needs. This article examines the organizational development of the International Paruresis Association as parallel to key advances in the technology of the internet.", 
+            "authors": [
+                "Tina Abrefagyan", 
+                "Judith Barrett", 
+                "Program", 
+                "Steven Soifer"
+            ], 
+            "fields": [], 
+            "title": "Virtual Organizational Development and the History of the Internet: A Case Study of Parallel Evolution", 
+            "url": "http://cn.bing.com/academic/profile?id=2d4c875c90713358385dad4d75572559&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "VNC is an ultra thin client system based on a simple display protocol that is platform independent. It achieves mobile computing without requiring the user to carry any hardware. VNC provides access to home computing environments from anywhere in the world, on whatever computing infrastructure happens to be available-including, for example, public Web browsing terminals in airports. In addition, VNC allows a single desktop to be accessed from several places simultaneously, thus supporting application sharing in the style of computer supported cooperative work (CSCW). The technology underlying VNC is a simple remote display protocol. It is the simplicity of this protocol that makes VNC so powerful. Unlike other remote display protocols such as the X Window System and Citrix's ICA, the VNC protocol is totally independent of operating system, windowing system, and applications. The VNC system is freely available for download from the ORL Web site at http://www.orl.co.uk/vnc/. We begin the article by summarizing the evolution of VNC from our work on thin client architectures. We then describe the structure of the VNC protocol, and conclude by discussing the ways we use VNC technology now and how it may evolve further as new clients and servers are developed.", 
+            "authors": [
+                "Tristan Richardson", 
+                "Quentin Staffordfraser", 
+                "K R Wood", 
+                "Andy Hopper"
+            ], 
+            "fields": [
+                "Virtual machine", 
+                "Collaborative software", 
+                "Communications protocol"
+            ], 
+            "title": "Virtual network computing", 
+            "url": "http://cn.bing.com/academic/profile?id=70e8b89a7102d9b9dbbfb759ec83dd17&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "A revolution in computer interface design is changing the way we think about computers. Rather than typing on a keyboard and watching a television monitor, Augmented Reality lets people use familiar, everyday objects in ordinary ways. The difference is that these objects  also  provide a link into a computer network. Doctors can examine patients while viewing superimposed medical images; children can program their own LEGO constructions; construction engineers can use ordinary paper engineering drawings to communicate with distant colleagues. Rather than immersing people in an artificially-created virtual world, the goal is to augment objects in the physical world by enhancing them with a wealth of digital information and communication capabilities.", 
+            "authors": [
+                "Wendy E Mackay"
+            ], 
+            "fields": [
+                "Augmented reality", 
+                "Metaverse", 
+                "Interface design", 
+                "Computer network"
+            ], 
+            "title": "Augmented reality: linking real and virtual worlds: a new paradigm for interacting with computers", 
+            "url": "http://cn.bing.com/academic/profile?id=a70cfbf795daf2f6276433f26ad296dd&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract#R##N#Abstract. Contemporary competitive demands have forced many organizations to increase levels of flexibility and adaptability in their operations. A growing number of such organizations have explored the virtual environment as one means of achieving increased responsiveness. In particular, the use of virtual teams appears to be on the increase. However, the increased use of virtual teams has not been accompanied by concomitant research efforts to understand better the social-psychological contributors to effective virtual teams. In this paper, we use a model of group effectiveness to propose a possible research agenda examining sources of virtual team effectiveness. Although much of this model offers insights relevant to the virtual environment, differences between groups and teams and between co-located and virtual environments suggest that modifications and additions to this model may be necessary. We offer a set of research propositions to advance future research on effective virtual teams beyond anecdote and description. Implications of this research agenda for managers of virtual teams and human resource professionals are also discussed.", 
+            "authors": [
+                "Stacie Furst", 
+                "Richard Blackburn", 
+                "Benson Rosen"
+            ], 
+            "fields": [
+                "Team effectiveness", 
+                "Virtual machine", 
+                "Human Resources"
+            ], 
+            "title": "Virtual team effectiveness: a proposed research agenda", 
+            "url": "http://cn.bing.com/academic/profile?id=3254e48e2e60bce6c4a7d00dd0626f24&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This work presents a new virtual environment (VE) which employs a dynamic 3-D model of the solar system. It is based on powerful scientific visualization techniques and can be used as an effective aide in astronomy teaching. The learner \u201centers\u201d a virtual model of the physical world, journeys through it, zooms in or out as he or she wishes, changes his or her view point and perspective, as the virtual world continues to \u201cbehave\u201d and operate in its usual manner. The continual motion of the planets generates day and night, seasons, eclipses, and phases\u2014topics that are customarily hard to grasp, especially at young age. The model allows for a powerful learning experience, and facilitates the mental construction of three-dimensional space, where objects are varied and different, but share common features and obey the same physical principles. The new platform helps to overcome the inherent geocentric view and ensures the transition to a scientific, heliocentric view of the solar system.", 
+            "authors": [
+                "Rachel Mintz", 
+                "Shai Litvak", 
+                "Yoav Yair"
+            ], 
+            "fields": [
+                "Seasonality", 
+                "Scientific visualization", 
+                "Solar System", 
+                "Metaverse", 
+                "Virtual machine"
+            ], 
+            "title": "3D-Virtual Reality in Science Education: An Implication for Astronomy Teaching", 
+            "url": "http://cn.bing.com/academic/profile?id=06580bef64450374563ab1384fe62aa8&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In the competitive market , virtual teams represent a growing response to the need for fasting time-to- market, low-cost and rapid solutions to complex organizational problems. Virtual teams enable organizations to pool the talents and expertise of employees and non-employees by eliminating time and space barriers . Nowadays, companies are heavily investing in virtual team to enhance their performance and competitiveness. Despite virtual teams growing prevalence, relatively little is known about this new form of team. Hence the study offers an extensive literature review with definitions o f virtual teams and a structured analysis of the present body of knowledge of virtual teams. First, we distinguish virtual teams from conventional teams , different types of virtual teams to identify where current knowledge applies. Second, we distinguish what is needed for effective virtual team considering the people, process and technology point of view and underlying characteristics of virtual teams and challenges they entail. Finally, we have identified an d extended 12 key factors that need to be considered, and describes a methodology focused on supporting virtual team working, with a new approach that has not been specifically addressed in the existing literature and some guide line for future research extracted.", 
+            "authors": [
+                "Nader Ale Ebrahim", 
+                "Shamsuddin Ahmed", 
+                "Zahari Taha"
+            ], 
+            "fields": [
+                "Structural analysis", 
+                "Executive compensation", 
+                "Technology", 
+                "Artificial intelligence", 
+                "Management"
+            ], 
+            "title": "Virtual Teams: A Literature Review", 
+            "url": "http://cn.bing.com/academic/profile?id=0a2273ecd68fbfaa769e1cf2fcfe2148&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Third party JavaScripts not only offer much richer features to the web and its applications but also introduce new threats. These scripts cannot be completely trusted and executed with the privileges given to host web sites. Due to incomplete virtualization and lack of tracking all the data flows, all existing approaches without native sandbox support can secure only a subset of third party JavaScripts, and they are vulnerable to attacks encoded in non-standard HTML/-JavaScript (browser quirks) as these approaches will parse third party JavaScripts independently at server side without considering client-side non-standard parsing quirks. At the same time, native sandboxes are vulnerable to attacks based on unknown native JavaScript engine bugs.   In this paper, we propose Virtual Browser, a full browser-level virtualized environment within existing browsers for executing untrusted third party code. Our approach supports more complete JavaScript language features including those hard-to-secure functions, such as  with  and  eval . Since Virtual Browser does not rely on native browser parsing behavior, there is no possibility of attacks being executed through browser quirks. Moreover, given the third-party Javascripts are running in Virtual Browser instead of native browsers, it is harder for the attackers to exploit unknown vulnerabilities in the native JavaScript engine. In our design, we first completely isolate Virtual Browser from the native browser components and then introduce communication by adding data flows carefully examined for security. The evaluation of the Virtual Browser prototype shows that our execution speed is the same as Microsoft Web Sandbox[5], a state of the art runtime web-level sandbox. In addition, Virtual Browser is more secure and supports more complete JavaScript for third party JavaScript development.", 
+            "authors": [
+                "Yinzhi Cao", 
+                "Zhichun Li", 
+                "Vaibhav Rastogi", 
+                "Yan Chen", 
+                "Xitao Wen"
+            ], 
+            "fields": [
+                "Virtualization", 
+                "Internet security"
+            ], 
+            "title": "Virtual browser: a virtualized browser to sandbox third-party JavaScripts with enhanced security", 
+            "url": "http://cn.bing.com/academic/profile?id=c0ae1e02db9000911f86f4a28022df0f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In this paper, we introduce and analyze four gesture-controlled musical instruments. We briefly discuss the test platform designed to allow for rapid experimentation of new interfaces and control mappings. We describe our design experiences and discuss the effects of system features such as latency, resolution and lack of tactile feedback. The instruments use virtual reality hardware and computer vision for user input, and three-dimensional stereo vision as well as simple desktop displays for providing visual feedback. The instrument sounds are synthesized in real-time using physical sound modeling.", 
+            "authors": [
+                "Teemu Makipatola", 
+                "Juha Laitinen", 
+                "Aki Kanerva", 
+                "Tapio Takala"
+            ], 
+            "fields": [
+                "Computer vision", 
+                "Real-time computing", 
+                "Stereopsis", 
+                "Gesture", 
+                "Virtual reality"
+            ], 
+            "title": "Experiments with virtual reality instruments", 
+            "url": "http://cn.bing.com/academic/profile?id=11eddf3822692e99d04aacb6345e37c5&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The use of Information and Communication Technologies, such as virtual reality, has been employed in the treatment of anxiety disorders with the goal of augmenting exposure treatment, which is already considered to be the first-line treatment for Post-traumatic Stress Disorder (PTSD). To evaluate the efficacy of virtual reality exposure therapy (VRET) in the treatment of PTSD, we performed a systematic review of published articles using the following electronic databases: Web of Science, PubMed, PsycINFO, and PILOTS. Eligibility criteria included the use of patients diagnosed with PTSD according to DSM-IV, the use of cognitive behavioral therapy (CBT) and the use of virtual reality for performing exposure. 10 articles were selected, seven of which showed that VRET produced statistically significant results in comparison to the waiting list. However, no difference was found between VRET and exposure treatment. Of these 10, four were randomized, two were controlled but not randomized and four were non-controlled. The majority of the articles used head-mounted display virtual reality (VR) equipment and VR systems specific for the population that was being treated. Dropout rates do not seem to be lower than in traditional exposure treatment. However, there are a few limitations. Because this is a new field of research, there are few studies in the literature. There is also a need to standardize the number of sessions used. The randomized studies were analyzed to assess the quality of the methodology, and important deficiencies were noted, such as the non-use of intent-to- treat-analysis and the absence of description of possible concomitant treatments and comorbidities. Preliminary data suggest that VRET is as efficacious as traditional exposure treatment and can be especially useful in the treatment of patients who are resistant to traditional exposure.", 
+            "authors": [
+                "Raquel Goncalves", 
+                "Ana Lucia Pedrozo", 
+                "Evandro Silva Freire Coutinho", 
+                "Ivan Figueira", 
+                "Paula Ventura"
+            ], 
+            "fields": [
+                "Physics", 
+                "Engineering", 
+                "Chemistry", 
+                "Medicine", 
+                "Virtual reality"
+            ], 
+            "title": "Efficacy of Virtual Reality Exposure Therapy in the Treatment of PTSD: A Systematic Review", 
+            "url": "http://cn.bing.com/academic/profile?id=2a1c339f46ef7867a337c63355a1cc31&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Background: Virtual reality (VR) is an evolving technology that has been applied in various aspects of medicine, including the treatment of phobia disorders, pain distraction interventions, surgical training, and medical education. These applications have served to demonstrate the various assets offered through the use of VR. Objective: To provide a background and rationale for the application of VR to neuropsychological assessment. Methods: A brief introduction to VR technology and a review of current ongoing neuropsychological research that integrates the use of this technology. Conclusions: VR offers numerous assets that may enhance current neuropsychological assessment protocols and address many of the", 
+            "authors": [
+                "Maria T Schultheis", 
+                "J Himelstein", 
+                "Albert Rizzo"
+            ], 
+            "fields": [
+                "Virtual reality"
+            ], 
+            "title": "Virtual reality and neuropsychology: upgrading the current tools.", 
+            "url": "http://cn.bing.com/academic/profile?id=17caed49f61379aa2912d0916577fb50&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In this paper we discuss the potential role of virtual environments in the analysis phase of computer forensics investigations. General concepts of virtual environments and software tools are presented and discussed. Further we identify the limitations of virtual environments leading to the conclusion that this method can not be considered to be a replacement for conventional techniques of computer evidence collection and analysis. We propose a new approach where two environments, conventional and virtual, are used independently. Further we demonstrate that this approach can considerably shorten the time of the computer forensics investigation analysis phase and it also allows for better utilisation of less qualified personnel.", 
+            "authors": [
+                "Derek Bem", 
+                "Ewa Huebner"
+            ], 
+            "fields": [
+                "Computer forensics", 
+                "Virtual machine"
+            ], 
+            "title": "Computer Forensic Analysis in a Virtual Environment", 
+            "url": "http://cn.bing.com/academic/profile?id=6f6abd6cdbfef1882df39fdddfa0b103&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "A virtual machine can support individual processes or a complete system depending on the abstraction level where virtualization occurs. Some VMs support flexible hardware usage and software isolation, while others translate from one instruction set to another. Virtualizing a system or component -such as a processor, memory, or an I/O device - at a given abstraction level maps its interface and visible resources onto the interface and resources of an underlying, possibly different, real system. Consequently, the real system appears as a different virtual system or even as multiple virtual systems. Interjecting virtualizing software between abstraction layers near the HW/SW interface forms a virtual machine that allows otherwise incompatible subsystems to work together. Further, replication by virtualization enables more flexible and efficient and efficient use of hardware resources.", 
+            "authors": [
+                "James E Smith", 
+                "Ravi Nair"
+            ], 
+            "fields": [
+                "Abstraction layer", 
+                "Computer hardware", 
+                "Design process", 
+                "Instruction set", 
+                "Operating system"
+            ], 
+            "title": "The architecture of virtual machines", 
+            "url": "http://cn.bing.com/academic/profile?id=56fd18eb302e1c6605de4a37dc98c374&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Educating current and future generations of American children to live in an information society is a critical issue. It is compounded by the recognized need to provide life-long education for all citizens and to support a flexible workforce. Virtual reality (VR) technology has been widely proposed as a major technological advance that can offer significant support for such education. There are several ways in which VR technology is expected to facilitate learning. One of its unique capabilities is the ability to allow students to visualize abstract concepts, to observe events at atomic or planetary scales, and to visit environments and interact with events that distance, time, or safety factors make unavailable. The types of activities supported by this capability facilitate current educational thinking that students are better able to master, retain, and generalize new knowledge when they are actively involved in constructing that knowledge in a learning-by-doing situation. The potential of VR technology for supporting education is widely recognized. Several programs designed to introduce large numbers of students and teachers to the technology have been established, a number of academic institutions have developed research programs to investigate key issues, and some public schools are evaluating the technology.", 
+            "authors": [
+                "Christine Youngblut"
+            ], 
+            "fields": [
+                "Sampling", 
+                "Public administration", 
+                "Software Engineering", 
+                "Information system", 
+                "Virtual reality"
+            ], 
+            "title": "Educational Uses of Virtual Reality Technology", 
+            "url": "http://cn.bing.com/academic/profile?id=d3c588215f39ee959e0eefb61389ecb0&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The use of Information and Communication Technologies, such as virtual reality, has been employed in the treatment of anxiety disorders with the goal of augmenting exposure treatment, which is already considered to be the first-line treatment for Post-traumatic Stress Disorder (PTSD). To evaluate the efficacy of virtual reality exposure therapy (VRET) in the treatment of PTSD, we performed a systematic review of published articles using the following electronic databases: Web of Science, PubMed, PsycINFO, and PILOTS. Eligibility criteria included the use of patients diagnosed with PTSD according to DSM-IV, the use of cognitive behavioral therapy (CBT) and the use of virtual reality for performing exposure. 10 articles were selected, seven of which showed that VRET produced statistically significant results in comparison to the waiting list. However, no difference was found between VRET and exposure treatment. Of these 10, four were randomized, two were controlled but not randomized and four were non-controlled. The majority of the articles used head-mounted display virtual reality (VR) equipment and VR systems specific for the population that was being treated. Dropout rates do not seem to be lower than in traditional exposure treatment. However, there are a few limitations. Because this is a new field of research, there are few studies in the literature. There is also a need to standardize the number of sessions used. The randomized studies were analyzed to assess the quality of the methodology, and important deficiencies were noted, such as the non-use of intent-to- treat-analysis and the absence of description of possible concomitant treatments and comorbidities. Preliminary data suggest that VRET is as efficacious as traditional exposure treatment and can be especially useful in the treatment of patients who are resistant to traditional exposure.", 
+            "authors": [
+                "Raquel Goncalves", 
+                "Ana Lucia Pedrozo", 
+                "Evandro Silva Freire Coutinho", 
+                "Ivan Figueira", 
+                "Paula Ventura"
+            ], 
+            "fields": [
+                "Physics", 
+                "Engineering", 
+                "Chemistry", 
+                "Medicine", 
+                "Virtual reality"
+            ], 
+            "title": "Efficacy of Virtual Reality Exposure Therapy in the Treatment of PTSD: A Systematic Review", 
+            "url": "http://cn.bing.com/academic/profile?id=2a1c339f46ef7867a337c63355a1cc31&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Background: Virtual reality (VR) is an evolving technology that has been applied in various aspects of medicine, including the treatment of phobia disorders, pain distraction interventions, surgical training, and medical education. These applications have served to demonstrate the various assets offered through the use of VR. Objective: To provide a background and rationale for the application of VR to neuropsychological assessment. Methods: A brief introduction to VR technology and a review of current ongoing neuropsychological research that integrates the use of this technology. Conclusions: VR offers numerous assets that may enhance current neuropsychological assessment protocols and address many of the", 
+            "authors": [
+                "Maria T Schultheis", 
+                "J Himelstein", 
+                "Albert Rizzo"
+            ], 
+            "fields": [
+                "Virtual reality"
+            ], 
+            "title": "Virtual reality and neuropsychology: upgrading the current tools.", 
+            "url": "http://cn.bing.com/academic/profile?id=17caed49f61379aa2912d0916577fb50&encoded=0&v=paper_preview&mkt=zh-cn"
+        }
+    ], 
+    "num": 106
+}

@@ -1,5 +1,4 @@
 # coding=utf-8
-import re
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -8,7 +7,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'}
-page = 20
+page = 2
 
 path_file = os.path.abspath(sys.argv[0])
 path_parent = os.path.abspath(os.path.join(path_file, os.pardir))
@@ -72,7 +71,8 @@ def searchItem(keyword, urls, index):
                     'url': '',
                     'authors': [],
                     'abstract': '',
-                    'fields': [],
+                    'types': [],
+                    'fields': ''
                 }
                 data['title'] = title.get_text()
                 data['url'] = url
@@ -90,10 +90,13 @@ def searchItem(keyword, urls, index):
                         data['abstract'] = str(abstract)
                     if i == 2:
                         fields = result.find_all(class_ = 'aca_badge')
-                        print '---- fields ----'
+                        # print '---- fields ----'
                         for field in fields:
-                            print field.a.get_text()
-                            data['fields'].append(field.a.get_text())
+                            # print field.a.get_text()
+                            data['types'].append(field.a.get_text())
+                        print '---- fields ----'
+                        print keyword
+                        data['fields'] = str(keyword);
                         print '\n------------------------------------------------------------------------------------------\n'
                 item['data'].append(data)
                 item['num'] += 1

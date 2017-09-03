@@ -92,7 +92,17 @@ X = {![公式名](http://latex.codecogs.com/png.latex?{X_{1},X_{2},...,X_{m}})}
 
 
 ## 操作
+#### 批量导入
+要批量导入的数据以下面这种格式保存  
+```
+{'index': {'_index': 'papers', '_type': u'artificial', '_id': 1}}
+{'title': 'Dk', 'authors': ['darkindom'], 'abstract': "this is Dk's paper.", 'fields': 'darkindom'}
+```
+然后执行下面这个命令  
+`curl -s -XPOST localhost:9200/_bulk --data-binary @data.json`  
+可以看到data.json里的内容已经导入到es里了
 
+#### 数据处理
 数据存放于es中，包括分类完的数据  
 通过发送请求进行操作：  
 > 新增 put  `localhost:9200/index/type/id`  

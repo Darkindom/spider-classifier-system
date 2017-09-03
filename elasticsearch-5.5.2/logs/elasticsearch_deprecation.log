@@ -154,3 +154,16 @@
 [2017-08-30T11:54:06,853][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
 [2017-08-30T16:33:04,494][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
 [2017-09-02T14:07:23,303][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:03:19,343][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:29:28,698][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:29:53,946][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:30:45,573][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:31:15,595][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:32:19,587][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:32:29,025][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:34:52,120][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:35:08,463][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:35:10,612][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:37:27,359][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:44:50,640][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.
+[2017-09-03T16:45:24,393][WARN ][o.e.d.r.RestController   ] Content type detection for rest requests is deprecated. Specify the content type using the [Content-Type] header.

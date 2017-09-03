@@ -1,0 +1,1476 @@
+{
+    "data": [
+        {
+            "abstract": "In the last years UAV (Unmanned Aerial Vehicle)-systems became relevant for applications in precision farming and in infrastructure maintenance, like road maintenance and dam surveillance. This paper gives an overview about UAV (Unmanned Aerial Vehicle) systems and their application for photogrammetric recording and documentation of cultural heritage. First the historical development of UAV systems and the definition of UAV-helicopte rs will be given. The advantages of a photogrammetric system on-board a model helicopter will be briefly discussed and compared to standard aerial and terrestrial photogrammetry. UAVs are mostly low cost systems and flexible and therefore a suitable alternative solution compared to other mobile mapping systems. A mini UAV-system was used for photogrammetric image data acquisition near Palpa in Peru. A settlement from the 13 th century AD, which was presumably used as a mine, was flown with a model helicopter. Based on the image data, an accurate 3D-model will be generated in the future. With an orthophoto and a DEM derived from aerial images in a scale of 1:7 000, a flight planning was build up. The determined flying positions were implemented in the flight control system. Thus, the helicopter is able to fly to predefined pathpoints automatically. Tests in Switzerland and the flights in Pinchango Alto showed that using the built-in GPS/INS- and stabilization units of the flight control system, predefined positions could be reached exactly to acquire the images. The predicted strip crossings and flying height were kept accurately in the autonomous flying mode.", 
+            "authors": [
+                "Henri Eisenbeiss"
+            ], 
+            "fields": [
+                "Precision agriculture", 
+                "Cultural heritage", 
+                "Data acquisition"
+            ], 
+            "title": "A MINI UNMANNED AERIAL VEHICLE (UAV): SYSTEM OVERVIEW AND IMAGE ACQUISITION", 
+            "url": "http://cn.bing.com/academic/profile?id=769e4cbd9fcf4d82f63ba672779e11f7&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "An autonomous UGV is essentially an autonomous UGV that operates without the need for a human controller. The vehicle uses its sensors to develop some limited understanding of the environment, which is then used by control algorithms to determine the next action to take in the context of a human provided mission goal. This fully eliminates the need for any human to watch over the menial tasks that the UGV is completing. Existing systems do not include the environmental information assessment, object identification, self protection against high temperature and the implementation with most advanced hardware and related software algorithm. This project presents the development of an unmanned ground vehicle with the facility of measurement of humidity, temperature and illumination, video and audio clips to get the information of the environment through which UGV navigates. The project also discusses the real time embedded implementation of this obstacle mapping system on a small Unmanned Ground Vehicle (UGV) to support real time obstacle avoidance, object identification by image processing and proposes self protection against high temperature. These activities are a part of a larger effort to establish a theoretical foundation for autonomous and cooperative multi-UxV guidance solutions in adversarial environments.", 
+            "authors": [
+                "A H Ansari"
+            ], 
+            "fields": [], 
+            "title": "Unmanned Ground Vehicle", 
+            "url": "http://cn.bing.com/academic/profile?id=c823061d79815d2a8105a5e158ffc6e2&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "With the availability and development of multisensor, multitemporal, multiresolution, and multifrequency image data from operational Earth observation satellites, more limitations have also appeared in remote sensing image applications, and the most important one is the cost limit. To overcome the limitations, unmanned aerial vehicle (UAV) technology is developped for remote sensing application. It forms a rapidly developing area of research in remote sensing. This review paper describes and explains data acquisition and processing technologies for imageries from UAV, as well as summarizes the current application research with UAV. Then, it presents some problems and prospective for UAV development. It is our hope that this survey will provide guidelines for future applications of UAV and possible areas.", 
+            "authors": [
+                "Lei Ma", 
+                "Manchun Li", 
+                "Lihua Tong", 
+                "Yafei Wang", 
+                "Liang Cheng"
+            ], 
+            "fields": [
+                "Remote sensing application", 
+                "Data acquisition", 
+                "Remote sensing", 
+                "Processing"
+            ], 
+            "title": "Using unmanned aerial vehicle for remote sensing application", 
+            "url": "http://cn.bing.com/academic/profile?id=a12f2bb72805b50790969b8fec8ed823&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The present disclosure relates to an unmanned aerial vehicle (UAV) able to harvest energy from updrafts and a method of enhancing operation of an unmanned aerial vehicle. The unmanned aerial vehicle with a gliding capability comprises a generator arranged to be driven by a rotor, and a battery, wherein the unmanned aerial vehicle can operate in an energy harvesting mode in which the motion of the unmanned aerial vehicle drives the rotor to rotate, the rotor drives the generator, and the generator charges the battery. In the energy harvesting mode regenerative braking of the generator reduces the forward speed of the unmanned aerial vehicle to generate electricity and prevent the unmanned aerial vehicle from flying above a predetermined altitude.", 
+            "authors": [
+                "Alfredo Criado"
+            ], 
+            "fields": [], 
+            "title": "UNMANNED AERIAL VEHICLE", 
+            "url": "http://cn.bing.com/academic/profile?id=33f337253d8a9f57207319c8551ca43f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Unmanned aircraft systems (UAS) could be of benefit for surveying wetlands, which often have spatially complex habitats that are challenging to navigate and assess at ground level. We used a small UAS to acquire aerial imagery and characterize land cover in a 128 ha wetland impoundment as part of a conservation study of the least bittern (Ixobrychus exilis). The method was successful in gathering sub-decimetre georeferenced imagery that clearly revealed the fine-scale water\u2013vegetation interface and in which several types of vegetation could be distinguished and classified using spectral image analysis software. Simplified three-category land cover classifications obtained in this manner showed strong agreement with manual classification of random points in the imagery, as evidenced by a kappa coefficient of 87.19% (n = 600). Compared to cover estimates made during concurrent ground-based surveys in 30 sampling plots, UAS data yielded overall similar water\u2013vegetation ratios, but proved more effectual for d...", 
+            "authors": [
+                "Chabotdominique", 
+                "M Birddavid"
+            ], 
+            "fields": [
+                "Contextual image classification", 
+                "Wetland", 
+                "Aerial survey", 
+                "Remote sensing"
+            ], 
+            "title": "Small unmanned aircraft: precise and convenient new tools for surveying wetlands", 
+            "url": "http://cn.bing.com/academic/profile?id=15731dcc061b20edf55d92a29ffc013f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "International law continues to be preoccupied with questions surrounding unmanned aerial vehicles (UAVs) or, as UAVs are colloquially referred to, drones. This entry in the Encyclopedia of Public International Law explores the history and the international legal issues of UAVs in their varied uses, both civilian and military. #R##N##R##N#With regard to the latter it analyzes, inter alia, the legal requirements under international human rights law and international humanitarian law. The article also references debates concerning accountability, transparency and the use of UAVs in connection with targeted killing policies. The entry concludes that the legal questions raised by the use of combat UAVs form part of a wider political debate about the use of modern technology in armed conflict.", 
+            "authors": [
+                "Markus Wagner"
+            ], 
+            "fields": [
+                "International human rights law", 
+                "Human rights", 
+                "Drone"
+            ], 
+            "title": "Unmanned aerial vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=30bdc37b932c2392797eb777485d301b&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This article presents an environmental remote sensing application using a UAV that is specifically aimed at reducing the data gap between field scale and satellite scale in soil erosion monitoring in Morocco. A fixed-wing aircraft type Sirius I (MAVinci, Germany) equipped with a digital system camera (Panasonic) is employed. UAV surveys are conducted over different study sites with varying extents and flying heights in order to provide both very high resolution site-specific data and lower-resolution overviews, thus fully exploiting the large potential of the chosen UAV for multi-scale mapping purposes. Depending on the scale and area coverage, two different approaches for georeferencing are used, based on high-precision GCPs or the UAV\u2019s log file with exterior orientation values respectively. The photogrammetric image processing enables the creation of Digital Terrain Models (DTMs) and ortho-image mosaics with very high resolution on a sub-decimetre level. The created data products were used for quantifying gully and badland erosion in 2D and 3D as well as for the analysis of the surrounding areas and landscape development for larger extents.", 
+            "authors": [
+                "Sebastian Doleireoltmanns", 
+                "Irene Marzolff", 
+                "Klaus Peter", 
+                "Johannes B Ries"
+            ], 
+            "fields": [
+                "Photogrammetry", 
+                "Erosion"
+            ], 
+            "title": "Unmanned Aerial Vehicle (UAV) for Monitoring Soil Erosion in Morocco", 
+            "url": "http://cn.bing.com/academic/profile?id=9ac1322b60bf943ffe0594cb8485d740&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract#R##N##R##N#A new type of aerial vehicle was introduced in the twentieth century, alongside manned aviation \u2013 the Unmanned Aerial Vehicle (UAV). A UAV is either remotely controlled by a human operator or operates autonomously. A system that includes a UAV platform, a Command and Control station and, in some cases, take-off and landing devices is called UAS.#R##N##R##N##R##N##R##N#The history of the UAV begins in parallel to the history of manned aviation. However, only recently its development and progress, hindered in the past by lack of technology, made the UAV category a major area of interest for many civilian and military applications. Dimensions, propulsion and applications of UAVs differ from manned aircraft. Nowadays, sizes of UAVs vary from several centimeters to a wingspan of over 40\u2009m. Propulsion types are diverse as well; from tiny electrical motors to large Turbofan engines. UAVs are used today to substitute manned aircraft in missions of reconnaissance, attack or scientific survey \u2013 in many cases with better performance, lower costs and without endangering a pilot. As the widened introduction of UAVs continues, their capabilities and versatility grow, and thus present the most promising technological solution for many current and future airborne applications.#R##N##R##N##R##N##R##N#This chapter presents a short review of Unmanned Aerial Vehicle and systems. UAV characteristics, technologies, development history and future trends are discussed.#R##N##R##N##R##N#Keywords:#R##N##R##N#UAV;#R##N#unmanned;#R##N#Drone;#R##N#MALE;#R##N#HALE;#R##N#UCAV", 
+            "authors": [
+                "Shlomo Tsach", 
+                "Alex Tatievsky", 
+                "L T London"
+            ], 
+            "fields": [
+                "Drone"
+            ], 
+            "title": "Unmanned Aerial Vehicles (UAVs)", 
+            "url": "http://cn.bing.com/academic/profile?id=3806b8ffde0a9dd74a332a10662c2aff&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We present the design and implementation of a real-time, vision-based landing algorithm for an autonomous helicopter. The landing algorithm is integrated with algorithms for visual acquisition of the target (a helipad) and navigation to the target, from an arbitrary initial position and orientation. We use vision for precise target detection and recognition, and a combination of vision and Global Positioning System for navigation. The helicopter updates its landing target parameters based on vision and uses an onboard behavior-based controller to follow a path to the landing site. We present significant results from flight trials in the field which demonstrate that our detection, recognition, and control algorithms are accurate, robust, and repeatable.", 
+            "authors": [
+                "Srikanth Saripalli", 
+                "James F Montgomery", 
+                "Gaurav S Sukhatme"
+            ], 
+            "fields": [
+                "Embedded system", 
+                "Robust control", 
+                "Global Positioning System", 
+                "Mobile robot", 
+                "Remotely operated underwater vehicle"
+            ], 
+            "title": "Visually guided landing of an unmanned aerial vehicle", 
+            "url": "http://cn.bing.com/academic/profile?id=1d74d57233cb07097110e574ca8b803a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Unmanned Aircraft Systems (UAS) have evolved rapidly over the past decade driven primarily by military uses, and have begun finding application among civilian users for earth sensing reconnaissance and scientific data collection purposes. Among UAS, promising characteristics are long flight duration, improved mission safety, flight repeatability due to improving autopilots, and reduced operational costs when compared to manned aircraft. The potential advantages of an unmanned platform, however, depend on many factors, such as aircraft, sensor types, mission objectives, and the current UAS regulatory requirements for operations of the particular platform. The regulations concerning UAS operation are still in the early development stages and currently present significant barriers to entry for scientific users. In this article we describe a variety of platforms, as well as sensor capabilities, and identify advantages of each as relevant to the demands of users in the scientific research sector. We also briefly discuss the current state of regulations affecting UAS operations, with the purpose of informing the scientific community about this developing technology whose potential for revolutionizing natural science observations is similar to those transformations that GIS and GPS brought to the community two decades ago.", 
+            "authors": [
+                "Adam C Watts", 
+                "Vincent G Ambrosia", 
+                "Everett Hinkley"
+            ], 
+            "fields": [
+                "Drone", 
+                "Aerial survey"
+            ], 
+            "title": "Unmanned Aircraft Systems in Remote Sensing and Scientific Research: Classification and Considerations of Use", 
+            "url": "http://cn.bing.com/academic/profile?id=9ee2dd7a34420a4eb2c617529bf23fc9&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract#R##N#This paper examines how the use of unmanned aircraft systems (UASs) for surveillance in civil applications impacts upon privacy and other civil liberties. It argues that, despite the heterogeneity of these systems, the same \u201cusual suspects\u201d \u2013 the poor, people of colour and anti-government protesters \u2013 are targeted by UAS deployments. It discusses how current privacy-related legislation in the US, UK and European Union might apply to UASs. We find that current regulatory mechanisms do not adequately address privacy and civil liberties concerns because UASs are complex, multimodal surveillance systems that integrate a range of technologies and capabilities. The paper argues for a combination of top-down, legislated requirements and bottom-up impact assessments to adequately address privacy and civil liberties.", 
+            "authors": [
+                "Rachel Finn", 
+                "David Wright"
+            ], 
+            "fields": [
+                "Privacy"
+            ], 
+            "title": "Unmanned aircraft systems: Surveillance, ethics and privacy in civil applications", 
+            "url": "http://cn.bing.com/academic/profile?id=8949abcfe74add6079c3aec28d6aeea9&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "An autonomous UGV is essentially an autonomous UGV that operates without the need for a human controller. The vehicle uses its sensors to develop some limited understanding of the environment, which is then used by control algorithms to determine the next action to take in the context of a human provided mission goal. This fully eliminates the need for any human to watch over the menial tasks that the UGV is completing. Existing systems do not include the environmental information assessment, object identification, self protection against high temperature and the implementation with most advanced hardware and related software algorithm. This project presents the development of an unmanned ground vehicle with the facility of measurement of humidity, temperature and illumination, video and audio clips to get the information of the environment through which UGV navigates. The project also discusses the real time embedded implementation of this obstacle mapping system on a small Unmanned Ground Vehicle (UGV) to support real time obstacle avoidance, object identification by image processing and proposes self protection against high temperature. These activities are a part of a larger effort to establish a theoretical foundation for autonomous and cooperative multi-UxV guidance solutions in adversarial environments.", 
+            "authors": [
+                "A H Ansari"
+            ], 
+            "fields": [], 
+            "title": "Unmanned Ground Vehicle", 
+            "url": "http://cn.bing.com/academic/profile?id=c823061d79815d2a8105a5e158ffc6e2&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract: Collision avoidance is a key factor in enabling the integration of unmanned aerial vehicle into real life use, whether it is in military or civil application. For a long time there have been a large number of works to address this problem; therefore a comparative summary of them would be desirable. This paper presents a survey on the major collision avoidance systems developed in up to date publications. Each collision avoidance system contains two main parts: sensing and detection, and collision avoidance. Based on their characteristics each part is divided into different categories; and those categories are explained, compared and discussed about advantages and disadvantages in this paper.", 
+            "authors": [
+                "Hung Pham", 
+                "Scott A Smolka", 
+                "Scott D Stoller", 
+                "Dung Phan", 
+                "Junxing Yang"
+            ], 
+            "fields": [], 
+            "title": "A survey on unmanned aerial vehicle collision avoidance systems", 
+            "url": "http://cn.bing.com/academic/profile?id=c1d4adcb990b2757c39a07e0f49ccb7c&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The possibility of implementing fuel cell technology in Unmanned Aerial Vehicle (UAV) propulsion systems is considered. Potential advantages of the Proton Exchange Membrane or Polymer Electrolyte Membrane (PEMFC) and Direct Methanol Fuel Cells (DMFC), their fuels (hydrogen and methanol), and their storage systems are revised from technical and environmental standpoints. Some operating commercial applications are described. Main constraints for these kinds of fuel cells are analyzed in order to elucidate the viability of future developments. Since the low power density is the main problem of fuel cells, hybridization with electric batteries, necessary in most cases, is also explored.", 
+            "authors": [
+                "Oscar Gonzalezespasandin", 
+                "Teresa J Leo", 
+                "Emilio Navarroarevalo"
+            ], 
+            "fields": [
+                "Aviation"
+            ], 
+            "title": "Fuel cells: a real option for Unmanned Aerial Vehicles propulsion.", 
+            "url": "http://cn.bing.com/academic/profile?id=1bec845a5e03e9c7feeb8843bb0e69c0&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The possibility of implementing fuel cell technology in Unmanned Aerial Vehicle (UAV) propulsion systems is considered. Potential advantages of the Proton Exchange Membrane or Polymer Electrolyte Membrane (PEMFC) and Direct Methanol Fuel Cells (DMFC), their fuels (hydrogen and methanol), and their storage systems are revised from technical and environmental standpoints. Some operating commercial applications are described. Main constraints for these kinds of fuel cells are analyzed in order to elucidate the viability of future developments. Since the low power density is the main problem of fuel cells, hybridization with electric batteries, necessary in most cases, is also explored.", 
+            "authors": [
+                "Oscar Gonzalezespasandin", 
+                "Teresa J Leo", 
+                "Emilio Navarroarevalo"
+            ], 
+            "fields": [
+                "Aviation"
+            ], 
+            "title": "Fuel cells: a real option for Unmanned Aerial Vehicles propulsion.", 
+            "url": "http://cn.bing.com/academic/profile?id=1bec845a5e03e9c7feeb8843bb0e69c0&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Unmanned Aircraft Systems (UAS) have evolved rapidly over the past decade driven primarily by military uses, and have begun finding application among civilian users for earth sensing reconnaissance and scientific data collection purposes. Among UAS, promising characteristics are long flight duration, improved mission safety, flight repeatability due to improving autopilots, and reduced operational costs when compared to manned aircraft. The potential advantages of an unmanned platform, however, depend on many factors, such as aircraft, sensor types, mission objectives, and the current UAS regulatory requirements for operations of the particular platform. The regulations concerning UAS operation are still in the early development stages and currently present significant barriers to entry for scientific users. In this article we describe a variety of platforms, as well as sensor capabilities, and identify advantages of each as relevant to the demands of users in the scientific research sector. We also briefly discuss the current state of regulations affecting UAS operations, with the purpose of informing the scientific community about this developing technology whose potential for revolutionizing natural science observations is similar to those transformations that GIS and GPS brought to the community two decades ago.", 
+            "authors": [
+                "Adam C Watts", 
+                "Vincent G Ambrosia", 
+                "Everett Hinkley"
+            ], 
+            "fields": [
+                "Drone", 
+                "Aerial survey"
+            ], 
+            "title": "Unmanned Aircraft Systems in Remote Sensing and Scientific Research: Classification and Considerations of Use", 
+            "url": "http://cn.bing.com/academic/profile?id=9ee2dd7a34420a4eb2c617529bf23fc9&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract: Collision avoidance is a key factor in enabling the integration of unmanned aerial vehicle into real life use, whether it is in military or civil application. For a long time there have been a large number of works to address this problem; therefore a comparative summary of them would be desirable. This paper presents a survey on the major collision avoidance systems developed in up to date publications. Each collision avoidance system contains two main parts: sensing and detection, and collision avoidance. Based on their characteristics each part is divided into different categories; and those categories are explained, compared and discussed about advantages and disadvantages in this paper.", 
+            "authors": [
+                "Hung Pham", 
+                "Scott A Smolka", 
+                "Scott D Stoller", 
+                "Dung Phan", 
+                "Junxing Yang"
+            ], 
+            "fields": [], 
+            "title": "A survey on unmanned aerial vehicle collision avoidance systems", 
+            "url": "http://cn.bing.com/academic/profile?id=c1d4adcb990b2757c39a07e0f49ccb7c&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "An autonomous UGV is essentially an autonomous UGV that operates without the need for a human controller. The vehicle uses its sensors to develop some limited understanding of the environment, which is then used by control algorithms to determine the next action to take in the context of a human provided mission goal. This fully eliminates the need for any human to watch over the menial tasks that the UGV is completing. Existing systems do not include the environmental information assessment, object identification, self protection against high temperature and the implementation with most advanced hardware and related software algorithm. This project presents the development of an unmanned ground vehicle with the facility of measurement of humidity, temperature and illumination, video and audio clips to get the information of the environment through which UGV navigates. The project also discusses the real time embedded implementation of this obstacle mapping system on a small Unmanned Ground Vehicle (UGV) to support real time obstacle avoidance, object identification by image processing and proposes self protection against high temperature. These activities are a part of a larger effort to establish a theoretical foundation for autonomous and cooperative multi-UxV guidance solutions in adversarial environments.", 
+            "authors": [
+                "A H Ansari"
+            ], 
+            "fields": [], 
+            "title": "Unmanned Ground Vehicle", 
+            "url": "http://cn.bing.com/academic/profile?id=c823061d79815d2a8105a5e158ffc6e2&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Kite aerial photography (KAP) involves large kites for lifting cameras 50-150 m above the ground. Either soft (airfoil) or rigid (delta, rokkaku) kites may be utilized in wind ranging from 10 to 40 km/h. Various film, digital, or video imaging devices are employed in single- or dual-camera rigs for acquiring individual images, multiband photos, or stereopairs. Camera pan, tilt, and shutter are operated by radio control from the ground. Photographs may be obtained in visible and near-infrared portions of the spectrum using different film/filter combinations. Photographs can be taken in any position--vertical, low- and high-oblique, and in any orientation relative to the sun and ground object. Vertical digital KAP typically has pixel resolution of 5-10 cm, and about \u00bd to 1 hectare ground area is depicted in a single scene. Kite aerial photography is highly portable and can be operated in almost any situation with an open flying field. A crew of two is sufficient normally, one to fly the kite, the other to operate radio controls and take pictures. Low cost makes this method feasible for routine operation by small organizations, and the method is convenient for frequent photography to document environmental changes. We have utilized kite aerial photography for diverse research and commercial applications including assessment of forests and wetlands, investigations of fluvial and glacial landforms, depiction of multiview -angle reflectance phenomena, and surveys of property and construction sites. KAP has proven valuable for bridging the scale and resolution gap between ground observations and conventional airphotos and satellite images.", 
+            "authors": [
+                "James S Aber", 
+                "Susan W Aber", 
+                "Firooza Pavri"
+            ], 
+            "fields": [], 
+            "title": "UNMANNED SMALL-FORMAT AERIAL PHOTOGRAPHY FROM KITES FOR ACQUIRING LARGE-SCALE, HIGH-RESOLUTION, MULTIVIEW-ANGLE IMAGERY", 
+            "url": "http://cn.bing.com/academic/profile?id=935dc763bbf65ac9de263a92a6ccecd8&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The routine integration of unmanned aircraft into non-segregated civil airspace is important to enable a number of current and proposed applications ranging from military and homeland security to a wide variety of research and eventually commercial purposes. The Federal Aviation Administration (FAA) is currently undertaking a comprehensive overhaul of the National Airspace System (NAS) known as Next Generation Air Transportation System (NextGen). NextGen will include increased automation systems for both terminal and en-route Air Traffic Control (ATC). Improvements in two-way data communication links between aircraft and ATC will facilitate the use of such automation systems. The robust integration of unmanned aircraft systems (UAS) into NextGen automation systems is an integral component to meeting the far-term (2018+) NextGen vision. By determining how UAS flight operations and protocols may be different than those of traditional manned aircraft, informed decisions can be made concerning the data and interfaces required to accommodate routine UAS operations by NextGen automation systems, ultimately leading to safer and more efficient integration of UAS into non-segregated civil airspace. This paper describes many of the challenges associated with such accommodation as well as proposed solutions to address these challenges based upon construction of prototype interfaces using established UAS communication standards and envisioned ATC automation interfaces. Enhanced data formats, communication protocols and algorithms are also researched and discussed.", 
+            "authors": [
+                "Nathan M Paczan", 
+                "Jeremy Cooper", 
+                "Eric Zakrzewski"
+            ], 
+            "fields": [
+                "Next-generation network", 
+                "Air traffic control", 
+                "Communications protocol", 
+                "Automation"
+            ], 
+            "title": "Integrating unmanned aircraft into NextGen automation systems", 
+            "url": "http://cn.bing.com/academic/profile?id=16bd6ad350343e8d7f6ab3ffb97d6d6c&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The potential applications of unmanned aerial vehicles (UAVs), or drones, have generated intense interest across many fields. UAVs offer the potential to collect detailed spatial information in real time at relatively low cost and are being used increasingly in conservation and ecological research. Within infectious disease epidemiology and public health research, UAVs can provide spatially and temporally accurate data critical to understanding the linkages between disease transmission and environmental factors. Using UAVs avoids many of the limitations associated with satellite data (e.g., long repeat times, cloud contamination, low spatial resolution). However, the practicalities of using UAVs for field research limit their use to specific applications and settings. UAVs fill a niche but do not replace existing remote-sensing methods.", 
+            "authors": [
+                "Kimberly M Fornace", 
+                "Chris Drakeley", 
+                "Timothy William", 
+                "Fe Espino", 
+                "Jonathan Cox"
+            ], 
+            "fields": [
+                "Spatial epidemiology", 
+                "Drone", 
+                "Geographic information system"
+            ], 
+            "title": "Mapping infectious disease landscapes: unmanned aerial vehicles and epidemiology", 
+            "url": "http://cn.bing.com/academic/profile?id=11f0da65eecc5b11dddcc2780cca4236&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "To celebrate the 40 th  Anniversary of the Oceanic Engineering Society (OES) at the MTS/IEEE OCEANS 2008 Conference in Quebec City a series of review papers were requested from OES technical committee chairs. In response to that request this paper provides a review of the field of unmanned surface vehicles (USVs) and autonomous surface craft (ASCs). The paper discusses the enabling technologies that have allowed USVs to emerge as a viable platform for marine operations as well as the application areas where they offer value. The paper tracks developments in technology from early systems developed by the author in 1993 through the latest developments and demonstration programs. The future outlook for USV technology is also described.", 
+            "authors": [
+                "Justin Manley"
+            ], 
+            "fields": [
+                "Data mining", 
+                "Remotely operated underwater vehicle", 
+                "Mobile robot", 
+                "Prototype", 
+                "Robot"
+            ], 
+            "title": "Unmanned surface vehicles, 15 years of development", 
+            "url": "http://cn.bing.com/academic/profile?id=428310aefcf18c9d4efa2cb17f9caab2&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "An autonomous UGV is essentially an autonomous UGV that operates without the need for a human controller. The vehicle uses its sensors to develop some limited understanding of the environment, which is then used by control algorithms to determine the next action to take in the context of a human provided mission goal. This fully eliminates the need for any human to watch over the menial tasks that the UGV is completing. Existing systems do not include the environmental information assessment, object identification, self protection against high temperature and the implementation with most advanced hardware and related software algorithm. This project presents the development of an unmanned ground vehicle with the facility of measurement of humidity, temperature and illumination, video and audio clips to get the information of the environment through which UGV navigates. The project also discusses the real time embedded implementation of this obstacle mapping system on a small Unmanned Ground Vehicle (UGV) to support real time obstacle avoidance, object identification by image processing and proposes self protection against high temperature. These activities are a part of a larger effort to establish a theoretical foundation for autonomous and cooperative multi-UxV guidance solutions in adversarial environments.", 
+            "authors": [
+                "A H Ansari"
+            ], 
+            "fields": [], 
+            "title": "Unmanned Ground Vehicle", 
+            "url": "http://cn.bing.com/academic/profile?id=c823061d79815d2a8105a5e158ffc6e2&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The potential applications of unmanned aerial vehicles (UAVs), or drones, have generated intense interest across many fields. UAVs offer the potential to collect detailed spatial information in real time at relatively low cost and are being used increasingly in conservation and ecological research. Within infectious disease epidemiology and public health research, UAVs can provide spatially and temporally accurate data critical to understanding the linkages between disease transmission and environmental factors. Using UAVs avoids many of the limitations associated with satellite data (e.g., long repeat times, cloud contamination, low spatial resolution). However, the practicalities of using UAVs for field research limit their use to specific applications and settings. UAVs fill a niche but do not replace existing remote-sensing methods.", 
+            "authors": [
+                "Kimberly M Fornace", 
+                "Chris Drakeley", 
+                "Timothy William", 
+                "Fe Espino", 
+                "Jonathan Cox"
+            ], 
+            "fields": [
+                "Spatial epidemiology", 
+                "Drone", 
+                "Geographic information system"
+            ], 
+            "title": "Mapping infectious disease landscapes: unmanned aerial vehicles and epidemiology", 
+            "url": "http://cn.bing.com/academic/profile?id=11f0da65eecc5b11dddcc2780cca4236&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "we investigate the automatic generation of collision avoidance algorithms given models of aircraft dynamics, sensor performance, and intruder behavior. By formulating the problem of collision avoidance as a Markov Decision Process (MDP) for sensors that provide precise localization of the intruder aircraft, or a Partially Observable Markov Decision Process (POMDP) for sensors that have positional uncertainty or limited eld-of-view constraints, generic MDP/POMDP solvers can be used to generate avoidance strategies that optimize a cost function that balances ight-plan deviation with collision. Experimental results demonstrate the suitability of such an approach using four dierent sensor modalities and a parametric aircraft performance model.", 
+            "authors": [
+                "Selim Temizer", 
+                "Mykel J Kochenderfer", 
+                "Leslie Pack Kaelbling", 
+                "Tomas Lozanoperez", 
+                "James K Kuchar"
+            ], 
+            "fields": [], 
+            "title": "Collision Avoidance for Unmanned Aircraft using Markov Decision Processes", 
+            "url": "http://cn.bing.com/academic/profile?id=5f36cb9184f1bbbe83e5903169ad489f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "To celebrate the 40 th  Anniversary of the Oceanic Engineering Society (OES) at the MTS/IEEE OCEANS 2008 Conference in Quebec City a series of review papers were requested from OES technical committee chairs. In response to that request this paper provides a review of the field of unmanned surface vehicles (USVs) and autonomous surface craft (ASCs). The paper discusses the enabling technologies that have allowed USVs to emerge as a viable platform for marine operations as well as the application areas where they offer value. The paper tracks developments in technology from early systems developed by the author in 1993 through the latest developments and demonstration programs. The future outlook for USV technology is also described.", 
+            "authors": [
+                "Justin Manley"
+            ], 
+            "fields": [
+                "Data mining", 
+                "Remotely operated underwater vehicle", 
+                "Mobile robot", 
+                "Prototype", 
+                "Robot"
+            ], 
+            "title": "Unmanned surface vehicles, 15 years of development", 
+            "url": "http://cn.bing.com/academic/profile?id=428310aefcf18c9d4efa2cb17f9caab2&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Aerial photography from unmanned aerial vehicles (UAVs) bridges the gap between ground-based observations and remotely sensed imagery from aerial and satellite platforms. UAVs can be deployed quickly and repeatedly, are less costly and safer than piloted aircraft, and can obtain very high-resolution imagery. At the Jornada Experimental Range in New Mexico, ongoing research is aimed at determining the utility of UAVs for rangeland mapping, assessment and monitoring. Digital images of arid rangelands were acquired with two UAVs that differed in size/weight, payload capacity, flight duration, GPS guidance capability and cost. The first system was a modified model airplane equipped with GPS and able to fly along preloaded waypoints and acquire images with a digital camera. The second UAV was a BAT 3 (MLB Systems) with fully autonomous flight capability and equipped with color video and digital cameras. Both units provide a data file containing GPS and elevation for each image, but the BAT also records roll, pitch and heading data. Both systems acquired high quality, high-resolution images of approximately 5 cm ground resolution (at 150 m flying height). Because the images have a small footprint (152 m x 114 m), mosaicking is required for further image analysis. Inclusion of camera calibration parameters (lens distortion, focal length, principal point) greatly increased the accuracy of the aero triangulation process and the resulting orthophotos. Due to the greater stability of the BAT and its longer flight range, the BAT imagery is better suited for analysis of larger areas than the imagery from the model airplane. However, the model airplane offers comparable image resolution and a cost effective alternative to the larger and more expensive UAV systems. Details of both systems, image acquisition and image processing results are discussed and compared.", 
+            "authors": [
+                "Andrea S Laliberte", 
+                "A Rango"
+            ], 
+            "fields": [], 
+            "title": "UNMANNED AERIAL VEHICLES FOR RANGELAND MAPPING AND MONITORING: A COMPARISON OF TWO SYSTEMS", 
+            "url": "http://cn.bing.com/academic/profile?id=0f7ff9f2ea936ee4f1bfc21d0d437c85&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "There are a variety of scenarios in which the mission objectives rely on an unmanned aerial vehicle (UAV) being capable of maneuvering in an environment containing obstacles in which there is little prior knowledge of the surroundings. With an appropriate dynamic motion planning algorithm, UAVs would be able tomaneuver in any unknown environment towards a target in real time. This paper presents a methodology for two-dimensional motion planning of a UAV using fuzzy logic. The fuzzy inference system takes information in real time about obstacles (if within the agent's sensing range) and target location and outputs a change in heading angle and speed. The FL controller was validated, and Monte Carlo testing was completed to evaluate the performance. Not only was the path traversed by the UAV often the exact path computed using an optimal method, the low failure rate makes the fuzzy logic controller (FLC) feasible for exploration. The FLC showed only a total of 3% failure rate, whereas an artificial potential field (APF) solution, a commonly used intelligent control method, had an average of 18% failure rate. These results highlighted one of the advantages of the FLC method: its adaptability to complex scenarios while maintaining low control effort.", 
+            "authors": [
+                "Chelsea Sabo", 
+                "Kelly Cohen"
+            ], 
+            "fields": [], 
+            "title": "Fuzzy logic unmanned air vehicle motion planning", 
+            "url": "http://cn.bing.com/academic/profile?id=ddcfed041f3547263d2db8a6ce001e16&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The manpower shortage likely in the future is unlikely to be overcome by a further slimming of existing crews because it is recognised that the strain placed on the remaining crew will compromise effectiveness and safety. A new concept in ship design and operation is therefore required if the predicted manpower shortages are to be overcome and further cost reductions achieved. Unmanned ships have been proposed as a possible solution overcoming the manpower problem, and in this paper the results of a technical and economic appraisal of a fully automated unmanned cargo ship are presented within the context of expected world developments in the next decades", 
+            "authors": [
+                "Rwg Bucknall", 
+                "P Freire"
+            ], 
+            "fields": [], 
+            "title": "Unmanned cargo ships", 
+            "url": "http://cn.bing.com/academic/profile?id=4928c226f127c4098ab552da7b9aaedc&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The manpower shortage likely in the future is unlikely to be overcome by a further slimming of existing crews because it is recognised that the strain placed on the remaining crew will compromise effectiveness and safety. A new concept in ship design and operation is therefore required if the predicted manpower shortages are to be overcome and further cost reductions achieved. Unmanned ships have been proposed as a possible solution overcoming the manpower problem, and in this paper the results of a technical and economic appraisal of a fully automated unmanned cargo ship are presented within the context of expected world developments in the next decades", 
+            "authors": [
+                "Rwg Bucknall", 
+                "P Freire"
+            ], 
+            "fields": [], 
+            "title": "Unmanned cargo ships", 
+            "url": "http://cn.bing.com/academic/profile?id=4928c226f127c4098ab552da7b9aaedc&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Drones or Unmanned Aerial Vehicles (UAVs) receive a growing interest in media and literature, not only for military and surveillance applications, but also as toys and for agricultural purposes. In this research, we reviewed the current state of art of UAV technology, and found that most current applications are based on remotely piloted observation. Next, we define potential agricultural applications where autonomous UAVs can be used, like monitoring of crops and animals, but also controlling field robots and performing management actions. Before this becomes reality in the complex agricultural domain, significant work has to be done both by research and technology providers, especially in the field of autonomous decision making, so as to allow safe and reliable autonomous operation.", 
+            "authors": [
+                "Bastiaan A Vroegindeweij", 
+                "Sjoerd W Van Wijk", 
+                "Eldert J Van Henten"
+            ], 
+            "fields": [], 
+            "title": "Autonomous Unmanned Aerial Vehicles for Agricultural Applications", 
+            "url": "http://cn.bing.com/academic/profile?id=7f57d9646afc613e272dbcd3bba27bc9&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper presents a method to control height and speed of fixed wing unmanned aerial vehicles (UAVs) using MATLAB platform. The mathematical dynamic model of Six Degrees of Freedom (6-DOF) aircraft is nonlinear and it is linearized about a flight condition. System is divided into two Multi Input Multi Output (MIMO) sub models. First model controls the longitudinal dynamics and second model is used to control the lateral dynamics. Each MIMO model is converted into ten Single Input Single Output (SISO) systems and then the systems needed for the primary requirement of plant control is selected. Same technique can be also be used to make Manned Aerial Vehicles (MAV) autopilots and to control flight of other aerial vehicles. Multiple loop feedback control technique is used to control a plant which helps to control many outputs of system with one set point value and controller.", 
+            "authors": [
+                "Nilesh Kumar", 
+                "Sheilza Jain"
+            ], 
+            "fields": [], 
+            "title": "Identification, Modeling and Control of Unmanned Aerial Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=1605b24726136235b5cd08301765602d&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract#R##N#Ecologists require spatially explicit data to relate structure to function. To date, heavy reliance has been placed on obtaining such data from remote-sensing instruments mounted on spacecraft or manned aircraft, although the spatial and temporal resolutions of the data are often not suited to local-scale ecological investigations. Recent technological innovations have led to an upsurge in the availability of unmanned aerial vehicles (UAVs) \u2013 aircraft remotely operated from the ground \u2013 and there are now many lightweight UAVs on offer at reasonable costs. Flying low and slow, UAVs offer ecologists new opportunities for scale-appropriate measurements of ecological phenomena. Equipped with capable sensors, UAVs can deliver fine spatial resolution data at temporal resolutions defined by the end user. Recent innovations in UAV platform design have been accompanied by improvements in navigation and the miniaturization of measurement technologies, allowing the study of individual organisms and their spatiotemporal dynamics at close range.", 
+            "authors": [
+                "K Anderson", 
+                "Kevin J Gaston"
+            ], 
+            "fields": [], 
+            "title": "Lightweight unmanned aerial vehicles will revolutionize spatial ecology", 
+            "url": "http://cn.bing.com/academic/profile?id=63b03765d7863f9275b3a207e7295e38&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract Aerial surveys are valuable tools for wildlife research and management. However, problems with safety, cost, statistical integrity, and logistics continue to impede aerial surveys from manned aircraft. The use of small, unmanned aerial vehicles (UAVs) may offer promise for addressing these problems and become a useful tool for many wildlife applications, such as for collecting low-altitude aerial imagery. During 2002 and 2003, we used a 1.5-m wingspan UAV equipped with autonomous control and sophisticated video equipment to test the potential usefulness of such an aircraft for wildlife research applications in Florida, USA. The UAV we used completed >30 missions (missions averaging 13 km linear distance covered) over 2 years before finally crashing due to engine failure. The UAV captured high-quality, progressive-scan video of a number of landscapes and wildlife species (white ibis [Eudocimus albus], other white wading birds, American alligator [Alligator mississippiensis], and Florida manatee [T...", 
+            "authors": [
+                "George P Jones", 
+                "Leonard G Pearlstine", 
+                "H Franklin Percival"
+            ], 
+            "fields": [
+                "Suicide prevention", 
+                "Image processing", 
+                "Occupational safety and health", 
+                "Human factors and ergonomics", 
+                "Injury prevention"
+            ], 
+            "title": "An Assessment of Small Unmanned Aerial Vehicles for Wildlife Research", 
+            "url": "http://cn.bing.com/academic/profile?id=f2c37caca3736fc653da4a954b9f2167&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Aerial photography from unmanned aerial vehicles (UAVs) bridges the gap between ground-based observations and remotely sensed imagery from aerial and satellite platforms. UAVs can be deployed quickly and repeatedly, are less costly and safer than piloted aircraft, and can obtain very high-resolution imagery. At the Jornada Experimental Range in New Mexico, ongoing research is aimed at determining the utility of UAVs for rangeland mapping, assessment and monitoring. Digital images of arid rangelands were acquired with two UAVs that differed in size/weight, payload capacity, flight duration, GPS guidance capability and cost. The first system was a modified model airplane equipped with GPS and able to fly along preloaded waypoints and acquire images with a digital camera. The second UAV was a BAT 3 (MLB Systems) with fully autonomous flight capability and equipped with color video and digital cameras. Both units provide a data file containing GPS and elevation for each image, but the BAT also records roll, pitch and heading data. Both systems acquired high quality, high-resolution images of approximately 5 cm ground resolution (at 150 m flying height). Because the images have a small footprint (152 m x 114 m), mosaicking is required for further image analysis. Inclusion of camera calibration parameters (lens distortion, focal length, principal point) greatly increased the accuracy of the aero triangulation process and the resulting orthophotos. Due to the greater stability of the BAT and its longer flight range, the BAT imagery is better suited for analysis of larger areas than the imagery from the model airplane. However, the model airplane offers comparable image resolution and a cost effective alternative to the larger and more expensive UAV systems. Details of both systems, image acquisition and image processing results are discussed and compared.", 
+            "authors": [
+                "Andrea S Laliberte", 
+                "A Rango"
+            ], 
+            "fields": [], 
+            "title": "UNMANNED AERIAL VEHICLES FOR RANGELAND MAPPING AND MONITORING: A COMPARISON OF TWO SYSTEMS", 
+            "url": "http://cn.bing.com/academic/profile?id=0f7ff9f2ea936ee4f1bfc21d0d437c85&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We tried more precise mapping of#R##N#vegetation using UAV\u00a0(unmanned aerial vehicle), as a new method of#R##N#creating vegetation maps, and we\u00a0objected to be clearly the efficient#R##N#mapping of vegetation using the UAV method by comparing vegetation maps created#R##N#by analysing aerial photographs taken by a UAV and an aircraft (manned flight).#R##N#The aerial photography using UAV was conducted in the Niida River estuary (the#R##N#secondary river flowing into Minamisoma City in Fukushima Prefecture, Japan).#R##N#The photography period was in August 2013. We analysed the aerial photographs#R##N#using ArcGis 9 (Esri Japan Corporation, Tokyo, Japan). The aerial photographs#R##N#of the main plant communities (Phragmites australis,\u00a0Typha#R##N#domingensis, and\u00a0Miscanthus sacchariflorus) taken by the UAV#R##N#could clearly discriminate each plant community at the 1/50 scale. Moreover, it#R##N#could clearly discriminate the shape of a plant at the 1/10 scale. We compared#R##N#the vegetation maps by analysing the aerial photos taken by a UAV (2013#R##N#shooting) and an aircraft (2011 shooting). As a result, the vegetation map#R##N#created by the UAV method could clearly discriminate community distributions.#R##N#We conclude that vegetation surveys using UAV are possible and are capable of a#R##N#highly precise community division in places where field reconnaissance is#R##N#difficult. The UAV method is effective and will contribute to the improvement#R##N#of research methods in the future; this method may reduce research costs#R##N#associated with a reduction in field survey days and man-power.", 
+            "authors": [
+                "Korehisa Kaneko", 
+                "Seiich Nohara"
+            ], 
+            "fields": [
+                "Plant community"
+            ], 
+            "title": "Review of Effective Vegetation Mapping Using the UAV (Unmanned Aerial Vehicle) Method", 
+            "url": "http://cn.bing.com/academic/profile?id=89d1a0beff360744bb0910434a6e3f11&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper presents a cooperative control strategy for a team of aerial robotic vehicles to establish wireless airborne communication networks between distributed heterogeneous vehicles. Each aerial robot serves as a flying mobile sensor performing a reconfigurable communication relay node which enabls communication networks with static or slow-moving nodes on gorund or ocean. For distributed optimal deployment of the aerial vehicles for communication networks, an adaptive hill-climbing type decentralized control algorithm is developed to seek out local extremum for optimal localization of the vehicles. The sensor networks estabilished by the decentralized cooperative control approach can adopt its configuraiton in response to signal strength as the function of the relative distance between the autonomous aerial robots and distributed sensor nodes in the sensed environment. Simulation studies are conducted to evaluate the effectiveness of the proposed decentralized cooperative control technique for robust communication networks.", 
+            "authors": [
+                "Deokjin Lee", 
+                "Richard Mark"
+            ], 
+            "fields": [], 
+            "title": "Decentralized Control of Unmanned Aerial Robots for Wireless Airborne Communication Networks", 
+            "url": "http://cn.bing.com/academic/profile?id=63d10ad3a11212341372f38f04f8f02b&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "UAV technology has begun to integrate into the National Airspace (NAS), at an accelerated rate. Coupled with a high demand for civilian UAS applications and decreasing component prices, more UAS researchers, commercial operators, and manufacturers begin to fly. Despite a lack of government mandated insurance requirements and mission profiles deemed dull, dirty, and dangerous, the UAS industry is gaining momentum. However, as the UAV industry matures, unmanned aircraft will inevitably crash. In anticipation of these growing pains, insurance carriers must be ready. Unmanned aircraft present a unique matrix of risk endemic to the challenges of flight in the NAS. Underwriters and actuaries will be able to provide peace of mind to pilots and bystanders alike. Insurers must design policies to properly allocate liability and provide a safety net. UAS-tailored coverage will identify and quantify the unique characteristics of unmanned aircraft. Underwriters have just begun to adapt insurance products to suit the needs of the nascent sector. This analysis will outline the process of insuring UAS. Further, it will highlight how insurance companies should cope with the dynamic forces within the UAV market.", 
+            "authors": [
+                "Jason Knight", 
+                "Brendan Smith", 
+                "Yangquan Chen"
+            ], 
+            "fields": [], 
+            "title": "An essay on unmanned aerial systems insurance and risk assessment", 
+            "url": "http://cn.bing.com/academic/profile?id=8618d913dd15a06b22c8d6f33b8df3fe&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We tried more precise mapping of#R##N#vegetation using UAV\u00a0(unmanned aerial vehicle), as a new method of#R##N#creating vegetation maps, and we\u00a0objected to be clearly the efficient#R##N#mapping of vegetation using the UAV method by comparing vegetation maps created#R##N#by analysing aerial photographs taken by a UAV and an aircraft (manned flight).#R##N#The aerial photography using UAV was conducted in the Niida River estuary (the#R##N#secondary river flowing into Minamisoma City in Fukushima Prefecture, Japan).#R##N#The photography period was in August 2013. We analysed the aerial photographs#R##N#using ArcGis 9 (Esri Japan Corporation, Tokyo, Japan). The aerial photographs#R##N#of the main plant communities (Phragmites australis,\u00a0Typha#R##N#domingensis, and\u00a0Miscanthus sacchariflorus) taken by the UAV#R##N#could clearly discriminate each plant community at the 1/50 scale. Moreover, it#R##N#could clearly discriminate the shape of a plant at the 1/10 scale. We compared#R##N#the vegetation maps by analysing the aerial photos taken by a UAV (2013#R##N#shooting) and an aircraft (2011 shooting). As a result, the vegetation map#R##N#created by the UAV method could clearly discriminate community distributions.#R##N#We conclude that vegetation surveys using UAV are possible and are capable of a#R##N#highly precise community division in places where field reconnaissance is#R##N#difficult. The UAV method is effective and will contribute to the improvement#R##N#of research methods in the future; this method may reduce research costs#R##N#associated with a reduction in field survey days and man-power.", 
+            "authors": [
+                "Korehisa Kaneko", 
+                "Seiich Nohara"
+            ], 
+            "fields": [
+                "Plant community"
+            ], 
+            "title": "Review of Effective Vegetation Mapping Using the UAV (Unmanned Aerial Vehicle) Method", 
+            "url": "http://cn.bing.com/academic/profile?id=89d1a0beff360744bb0910434a6e3f11&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Radiation surveillance equipment was mounted in a small unmanned aerial vehicle. The equipment consists of a commercial CsI detector for count rate measurement and a specially designed sampling unit for airborne radioactive particles. Field and flight tests were performed for the CsI detector in the area where  137 Cs fallout from the Chernobyl accident is 23\u201345\u00a0kBq\u00a0m \u22122 . A 3-GBq  137 Cs point source could be detected at the altitude of 50\u00a0m using a flight speed of 70\u00a0km\u00a0h \u22121  and data acquisition interval of 1\u00a0s. Respective response for  192 Ir point source is 1\u00a0GBq. During the flight, the detector reacts fast to ambient external dose rate rise of 0.1\u00a0\u03bcSv\u00a0h \u22121 , which gives for the activity concentration of  131 I less than 1\u00a0kBq\u00a0m \u22123 . Operation of the sampler equipped with different type of filters was investigated using wind-tunnel experiments and field tests with the aid of radon progeny. Air flow rate through the sampler is 0.2\u20130.7\u00a0m 3 \u00a0h \u22121  at a flight speed of 70\u00a0km\u00a0h \u22121  depending on the filter type in question. The tests showed that the sampler is able to collect airborne radioactive particles. Minimum detectable concentration for transuranium nuclides, such as  239 Pu, is of the order of 0.2\u00a0Bq\u00a0m \u22123  or less when alpha spectrometry with no radiochemical sample processing is used for activity determination immediately after the flight. When a gamma-ray spectrometer is used, minimum detectable concentrations for several fission products such as  137 Cs and  131 I are of the order of 1\u00a0Bq\u00a0m \u22123 .", 
+            "authors": [
+                "R Pollanen", 
+                "Harri Toivonen", 
+                "K Perajarvi", 
+                "T Karhunen", 
+                "Tarja Ilander", 
+                "Jukka Lehtinen", 
+                "Kimmo Rintala", 
+                "Tuure Katajainen", 
+                "Jarkko Niemela", 
+                "Marko Juusela"
+            ], 
+            "fields": [
+                "Gamma ray spectrometer", 
+                "Gamma ray", 
+                "Airflow", 
+                "Point source", 
+                "Human factors and ergonomics"
+            ], 
+            "title": "Radiation surveillance using an unmanned aerial vehicle.", 
+            "url": "http://cn.bing.com/academic/profile?id=dbda9a2081e31b34ace6c6ea99d3806f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Search and exploration using multiple autonomous sensing platforms has been extensively studied in the fields of controls and artificial intelligence. The task of persistent surveillance is different from a coverage or exploration problem, in that the target area needs to be continuously searched, minimizing the time between visitations to the same region. This difference does not allow a straightforward application of most exploration techniques to the problem, although ideas from these methods can still be used. In this research we investigate techniques that are scalable, reliable, efficient, and robust to problem dynamics. These are tested in a multiple unmanned air vehicle (UAV) simulation environment, developed for this program. A semi-heuristic control policy for a single UAV is extended to the case of multiple UAVs using two methods. One is an extension of a reactive policy for a single UAV and the other involves allocation of sub-regions to individual UAVs for parallel exploration. An optimal assignment procedure (based on auction algorithms) has also been developed for this purpose. A comparison is made between the two approaches and a simplified optimal result. The reactive policy is found to exhibit an interesting emergent behavior as the number of UAVs becomes large. The control policy derived for a single UAV is modified to account for actual aircraft dynamics (a 3 degree-of-freedom nonlinear dynamics simulation is used for this purpose) and improvements in performance are observed. Finally, we draw conclusions about the utility and efficiency of these techniques.", 
+            "authors": [
+                "Nikhil Nigam", 
+                "Ilan Kroo"
+            ], 
+            "fields": [
+                "Nonlinear system", 
+                "Artificial intelligence", 
+                "Aerodynamics", 
+                "Emergence", 
+                "Vehicle dynamics"
+            ], 
+            "title": "Persistent Surveillance Using Multiple Unmanned Air Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=bd503eb290209d3acb4de5077a625e5a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Conservation of natural ecosystems requires regular monitoring of biodiversity, including the estimation of wildlife density. Recently, unmanned aerial systems (UAS) have become more available for numerous civilian applications. The use of small drones for wildlife surveys as a surrogate for manned aerial surveys is becoming increasingly attractive and has already been implemented with some success. This raises the question of how to process UAS imagery in order to determine the surface area of sampling strips within an acceptable confidence level. For the purpose of wildlife surveys, the estimation of sampling strip surface area needs to be both accurate and quick, and easy to implement. As GPS and an inertial measurement units are commonly integrated within unmanned aircraft platforms, two methods of direct georeferencing were compared here. On the one hand, we used the image footprint projection (IFP) method, which utilizes collinearity equations on each image individually. On the other hand, the Structure from Motion (SfM) technique was used for block orientation and georeferencing. These two methods were compared on eight sampling strips. An absolute orientation of the strip was determined by indirect georeferencing using ground control points. This absolute orientation was considered as the reference and was used for validating the other two methods. The IFP method was demonstrated to be the most accurate and the easiest to implement. It was also found to be less demanding in terms of image quality and overlap. However, even though a flat landscape is the type most widely encountered in wildlife surveys in Africa, we recommend estimating IFP sensitivity at an accentuation of the relief.", 
+            "authors": [
+                "Jonathan Lisein", 
+                "Julie Linchant", 
+                "Philippe Lejeune", 
+                "Philippe Bouche", 
+                "Cedric Vermeulen"
+            ], 
+            "fields": [], 
+            "title": "Aerial Surveys Using an Unmanned Aerial System (UAS): Comparison of Different Methods for Estimating the Surface Area of Sampling Strips", 
+            "url": "http://cn.bing.com/academic/profile?id=62dacc5254b53139c7672d9d1e7c4b7e&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Unmanned Aircraft Systems require an ability to sense and avoid other air traffic to gain access to civil airspace and meet requirements in civil aviation regulations. One sense and avoid function is self separation, which requires that aircraft remain \u201cwell clear.\u201d An approach is proposed in this paper to treat well clear as a separation standard, thus posing it as a relative state between aircraft where the risk of collision first reaches an unacceptable level. By this approach, an analytically-derived boundary for well clear can be derived that supports rigorous safety assessment. A preliminary boundary is proposed in both time and distance for the well clear separation standard, and recommendations for future work are made. I. Introduction NE key challenge to achieving airspace access for Unmanned Aircraft Systems (UAS) is the ability to provide an acceptably safe means of compliance with federal aviation regulations that require pilots to see and avoid other aircraft. Without a pilot onboard the aircraft, UAS must utilize operational or technical means to detect and resolve potential conflicts. Several efforts are ongoing with the goal of defining required performance of sense and avoid functions. There have been recent recommendations in the U.S. 1 and internationally 2 to define the sense and avoid function as being composed of two separate functions: self separation and collision avoidance. Self separation is execution of maneuvers to remain \u201cwell clear\u201d of other aircraft. These maneuvers would typically be gentle, right-of-way compliant maneuvers well in advance of a serious conflict. Collision avoidance would be a function executed to prevent an imminent collision, typically through more aggressive maneuvers. The requirement to maintain well clear derives from regulatory language in U.S. Federal Aviation Regulations governing general flight rules. The language is insufficient to derive a quantitative performance requirement to serve as guidance for algorithm design and system evaluation. An analytical approach to defining a well clear threshold to evaluate self-separation performance is proposed in this paper. This analytical definition can be used as one component of guidance for an acceptable means for UAS to comply with the intent of FAR Part 91 governing sense", 
+            "authors": [
+                "Roland E Weibel", 
+                "Matthew W M Edwards", 
+                "Caroline S Fernandes"
+            ], 
+            "fields": [], 
+            "title": "Establishing a Risk-Based Separation Standard for Unmanned Aircraft Self Separation", 
+            "url": "http://cn.bing.com/academic/profile?id=1c752c18541bb220fa44fb6d6d62f440&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper describes secure control architecture for UAV control system for multiple operator environments. Multiple access of UAV is necessary because UAV must capture and process various data and UAV's functions become more complex and diverse. From this perspective, UAV control system needs to be secure because new control system will be exposed to multiple operators. To discuss this issue, the paper proposes new control architecture for UAV using RBAC (Roll Based Access Control). Generally, RBAC is applied and contributes to the security of computer systems, thus, we modified RBAC to apply to UAV control system. In this paper, we present how the modified RBAC model can be applied to UAV control systems and implement a prototype UAV control system based on the modified RBAC model.", 
+            "authors": [
+                "Hyeokjune Jeong", 
+                "Youngguk Ha"
+            ], 
+            "fields": [], 
+            "title": "Design and Implementation of Secure Control Architecture for Unmanned Aerial Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=748bafeeb8918b45fdc9898fd8f9def4&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The UAV guidance in combating airspace need to make UAV close to the target and complete air strikes, which need to receive all necessary data and information and use these parameters to achieve the UAV guidance. For processing the problems that are irregular and complex, this paper presents a new guidance law based on fuzzy logic, and use the classic navigation laws such as proportional navigation, that can be successfully used for modeling offensive maneuver in an special case of air-to-air combat encounters. Then the simulation be conducted combined with the actual data. Index Terms - Fuzzy Control, Combat Maneuver, Proportional navigation. I. Introduction To modem fighters, being fast and correct in making decisions is the most important appraisal of decision-making system. Due to the airspace's complexity, data and information which decision-making system depended on are time-varying and uncertainty. So artificial intelligence algorithms will be used to solve this problem. There is a simple situation as shown in Fig1.", 
+            "authors": [
+                "Hui Wang", 
+                "Zuo Yu Guan", 
+                "Li Jun Yu", 
+                "Bo Bo Zhang"
+            ], 
+            "fields": [
+                "Fuzzy control system"
+            ], 
+            "title": "Research on Fuzzy Guidance Law for Unmanned Aerial Vehicle", 
+            "url": "http://cn.bing.com/academic/profile?id=4a8125cbfe6fb43a4997fefc6ebfe459&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Due to the accident of Fukushima Daiichi Nuclear Power Plant, some areas were contaminated by released radioisotopes (mainly 137Cs and 134Cs). Effective decontamination is demanded to encourage evacuated people to return. This paper proposes a new survey system using an unmanned helicopter equipped with a Compton camera for localizing radionuclides. As a prototype, 32 Ce:Gd3(Al,Ga)5O12 (GAGG) crystals were coupled to 16 silicon photomultipliers and 16 avalanched photodiodes as the scatterer and absorber, respectively. A new Dynamic Time-over-Threshold (dToT) method was applied to convert CR-RC shaping signals to digital signals for multi-channel spectra and coincidence acquisition. The system was designed to work in two modes: one is Compton-camera mode (CCM) which obtains the radiation distribution maps through Compton imaging using hovering flights, while the other one is Gamma-camera mode\u00a0(GCM) which maps the radiation distribution via measured coincidence events using programmed flights. For point sou...", 
+            "authors": [
+                "Jianyong Jiang", 
+                "K Shimazoe", 
+                "Y Nakamura", 
+                "Hiroyuki Takahashi", 
+                "Y Shikaze", 
+                "Yukiyasu Nishizawa", 
+                "Mami Yoshida", 
+                "Yukihisa Sanada", 
+                "Tatsuo Torii", 
+                "Masao Yoshino", 
+                "Shigeki Ito", 
+                "Takanori Endo", 
+                "Kosuke Tsutsumi", 
+                "Sho Kato", 
+                "Hiroki Sato", 
+                "Yoshiyuki Usuki", 
+                "Shunsuke Kurosawa", 
+                "Kei Kamada", 
+                "Akira Yoshikawa"
+            ], 
+            "fields": [
+                "Human decontamination"
+            ], 
+            "title": "A prototype of aerial radiation monitoring system using an unmanned helicopter mounting a GAGG scintillator Compton camera", 
+            "url": "http://cn.bing.com/academic/profile?id=7f680f00540605758339f726c5a83e33&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Search and exploration using multiple autonomous sensing platforms has been extensively studied in the fields of controls and artificial intelligence. The task of persistent surveillance is different from a coverage or exploration problem, in that the target area needs to be continuously searched, minimizing the time between visitations to the same region. This difference does not allow a straightforward application of most exploration techniques to the problem, although ideas from these methods can still be used. In this research we investigate techniques that are scalable, reliable, efficient, and robust to problem dynamics. These are tested in a multiple unmanned air vehicle (UAV) simulation environment, developed for this program. A semi-heuristic control policy for a single UAV is extended to the case of multiple UAVs using two methods. One is an extension of a reactive policy for a single UAV and the other involves allocation of sub-regions to individual UAVs for parallel exploration. An optimal assignment procedure (based on auction algorithms) has also been developed for this purpose. A comparison is made between the two approaches and a simplified optimal result. The reactive policy is found to exhibit an interesting emergent behavior as the number of UAVs becomes large. The control policy derived for a single UAV is modified to account for actual aircraft dynamics (a 3 degree-of-freedom nonlinear dynamics simulation is used for this purpose) and improvements in performance are observed. Finally, we draw conclusions about the utility and efficiency of these techniques.", 
+            "authors": [
+                "Nikhil Nigam", 
+                "Ilan Kroo"
+            ], 
+            "fields": [
+                "Nonlinear system", 
+                "Artificial intelligence", 
+                "Aerodynamics", 
+                "Emergence", 
+                "Vehicle dynamics"
+            ], 
+            "title": "Persistent Surveillance Using Multiple Unmanned Air Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=bd503eb290209d3acb4de5077a625e5a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Drones or Unmanned Aerial Vehicles (UAVs) receive a growing interest in media and literature, not only for military and surveillance applications, but also as toys and for agricultural purposes. In this research, we reviewed the current state of art of UAV technology, and found that most current applications are based on remotely piloted observation. Next, we define potential agricultural applications where autonomous UAVs can be used, like monitoring of crops and animals, but also controlling field robots and performing management actions. Before this becomes reality in the complex agricultural domain, significant work has to be done both by research and technology providers, especially in the field of autonomous decision making, so as to allow safe and reliable autonomous operation.", 
+            "authors": [
+                "Bastiaan A Vroegindeweij", 
+                "Sjoerd W Van Wijk", 
+                "Eldert J Van Henten"
+            ], 
+            "fields": [], 
+            "title": "Autonomous Unmanned Aerial Vehicles for Agricultural Applications", 
+            "url": "http://cn.bing.com/academic/profile?id=7f57d9646afc613e272dbcd3bba27bc9&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "With the availability and development of multisensor, multitemporal, multiresolution, and multifrequency image data from operational Earth observation satellites, more limitations have also appeared in remote sensing image applications, and the most important one is the cost limit. To overcome the limitations, unmanned aerial vehicle (UAV) technology is developped for remote sensing application. It forms a rapidly developing area of research in remote sensing. This review paper describes and explains data acquisition and processing technologies for imageries from UAV, as well as summarizes the current application research with UAV. Then, it presents some problems and prospective for UAV development. It is our hope that this survey will provide guidelines for future applications of UAV and possible areas.", 
+            "authors": [
+                "Lei Ma", 
+                "Manchun Li", 
+                "Lihua Tong", 
+                "Yafei Wang", 
+                "Liang Cheng"
+            ], 
+            "fields": [
+                "Remote sensing application", 
+                "Data acquisition", 
+                "Remote sensing", 
+                "Processing"
+            ], 
+            "title": "Using unmanned aerial vehicle for remote sensing application", 
+            "url": "http://cn.bing.com/academic/profile?id=a12f2bb72805b50790969b8fec8ed823&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The manpower shortage likely in the future is unlikely to be overcome by a further slimming of existing crews because it is recognised that the strain placed on the remaining crew will compromise effectiveness and safety. A new concept in ship design and operation is therefore required if the predicted manpower shortages are to be overcome and further cost reductions achieved. Unmanned ships have been proposed as a possible solution overcoming the manpower problem, and in this paper the results of a technical and economic appraisal of a fully automated unmanned cargo ship are presented within the context of expected world developments in the next decades", 
+            "authors": [
+                "Rwg Bucknall", 
+                "P Freire"
+            ], 
+            "fields": [], 
+            "title": "Unmanned cargo ships", 
+            "url": "http://cn.bing.com/academic/profile?id=4928c226f127c4098ab552da7b9aaedc&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The usage of Unmanned Aerial Vehicles (UAVs) has grown drastically because of their ability to operate in dangerous locations while keeping their human operators at a safe distance. UAVs are widely used in military operations nowadays because of their reliability, cost effectiveness and multi-functionality. The problem we posed in this paper is the weight lifting capacity of UAVs. Improvement in weight lifting capacity may leads to adding a more function in account of UAVs. To validate this proposal, we considered many different structures of UAVs and choose Quadrotor. The payload of our Quadrotor is around 4 kg which adds function of weight lifting in military operations as well as industrial applications. Calculation of aerodynamic drag-lift forces has been done. The stresses generated in the body of quadrotor is not more than 22.5 MPa in \"Box\" sectional chassis and 22.2 MPa in \"C\" Sectional chassis as per the practical testing. To validate these results, the stress analysis of two types of body of quadrotor (\"Box\" and \"C\" section) is carried out in ANSYS static structural solver. As per the Static Structural solver the stress generated are 15.4 MPa and 16.97 MPa in \"Box\" and \"C\" sectional chassis respectively. Further analysis and fabrication of model is under process. Quadrotor can be used in safety, inspection of tool in construction industry, toxic material handling, transmitting important and emergency orders.", 
+            "authors": [
+                "Kalpesh N Shah", 
+                "Bala J Dutt", 
+                "Hardik Modh"
+            ], 
+            "fields": [], 
+            "title": "\"Quadrotor - An Unmanned Aerial Vehicle\"", 
+            "url": "http://cn.bing.com/academic/profile?id=572a7f30f021a3f9a54f99d73e84d363&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The United States is preparing to integrate Unmanned Aircraft Systems (UAS) into the national airspace.  It is expected that UAS will be able to serve the needs of both public and private sector interests. The use of UAS by law enforcement agencies has caused many Americans to express concern about how this new technology may affect privacy rights.  Several states have enacted laws limiting or prohibiting the use of UAS by state or local governmental agencies. #R##N#Privacy concerns are valid, however a full prohibition of UAS technology would limit law enforcement agencies from taking advantage of a valuable public safety tool.  This paper will examine privacy issues and UAS and will review the legal basis for law enforcement\u2019s use of technology.  The focus is to protect the privacy of citizens without prohibiting a potentially revolutionary technology.", 
+            "authors": [
+                "Daniel Friedenzohn", 
+                "Alexander Mirot"
+            ], 
+            "fields": [], 
+            "title": "The Fear of Drones: Privacy and Unmanned Aircraft", 
+            "url": "http://cn.bing.com/academic/profile?id=217bbd77bcd4fbbb4221ac98f7793351&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "urrent developments in unmanned aerial vehicles (UAVs) trace their beginnings to World War I. Efforts during the Interwar Period, World War II, and afterward ultimately led to the development of cruise missiles such as Harpoon and Tomahawk, aerial targets, and the current family of UAVs. UAVs have the ability to transmit to the battlefield commander real-time intelligence, surveillance, and reconnaissance information from hostile areas. They can also act as communication relays, designate targets for neutralization by other assets, or attack the targets themselves with onboard munitions and then loiter while streaming real-time battle damage information back to friendly forces\u2014all without risking the lives of an aircrew. This article provides a historical survey on the early development of select UAVs in the U.S. military and their military applications. The development of cruise missiles and UAVs is intertwined. As the reader will see, many of the technologies experimented with in cruise missiles made their way to UAVs, and vice versa. Although making mention occasionally of cruise missiles, this article will attempt to focus on selected UAV development and employment through the Persian Gulf War.", 
+            "authors": [
+                "John F Keane", 
+                "Stephen S Carr"
+            ], 
+            "fields": [], 
+            "title": "A Brief History of Early Unmanned Aircraft", 
+            "url": "http://cn.bing.com/academic/profile?id=2176cf5c7a2084887d7196928facc83e&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper presents an integrated methodology for addressing safety concerns during the systems engineering of small Unmanned Aircraft Systems (sUAS). We describe both the systems and safety engineering activities performed, their interrelations, and how they complement range safety analysis. The broad goal of this work is to support the derivation of an airworthiness statement, and the subsequent application for a Certificate of Authorization (COA) to operate sUAS in the National Airspace System (NAS). We exemplify our methodology by presenting its application to the Swift UAS and its payload data system, both of which are under development at NASA Ames Research Center.", 
+            "authors": [
+                "Ewen Denney", 
+                "Ganesh Pai", 
+                "Corey Ippolito", 
+                "Ritchie Lee", 
+                "Silicon Valley"
+            ], 
+            "fields": [
+                "Systems engineering"
+            ], 
+            "title": "An Integrated Safety and Systems Engineering Methodology for Small Unmanned Aircraft Systems", 
+            "url": "http://cn.bing.com/academic/profile?id=13e13ec384be2024de917ce5ed6a381d&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper presents the design of three channel controller based on active disturbance rejection control (ADRC). The final aim is to develop a robust tracking control scheme which ensures that the outputs of closed-loop system track the given expectations. The results of simulations show that the control system has satisfactory tracking performance, and the great ability to suppress disturbances.", 
+            "authors": [
+                "Zhigang Yu", 
+                "Guiying Li"
+            ], 
+            "fields": [], 
+            "title": "Unmanned Helicopter Autopilot Design Based on Active Disturbance Rejection Control", 
+            "url": "http://cn.bing.com/academic/profile?id=203568a7ba0ed08016a5ad8f2d881cf1&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Purpose \u2013 The purpose of this paper is to review the Association for Unmanned Vehicle Systems International (AUVSI) Conference and Show held in Washington DC, with emphasis on unmanned vehicles or service robots and their application on the ground, in the air and in the water.Design/methodology/approach \u2013 In\u2010depth interviews with exhibitors of unmanned vehicles and the providers of the technologies which are fundamental to their design and deployment.Findings \u2013 The unmanned vehicle industry is largely driven by government requirements, both military and civilian. Unmanned service robots are also found in applications such as crop monitoring and fish school location at sea. Unmanned vehicles are getting smaller, smarter and more rugged to meet new challenges.Originality/value \u2013 Unmanned vehicles continue to address air, ground and marine application needs where human safety is important. The vehicles continue to become more and more autonomous, smaller and ever better to address a wider range of applicatio...", 
+            "authors": [
+                "Richard Bloss"
+            ], 
+            "fields": [
+                "Robot", 
+                "Watercraft"
+            ], 
+            "title": "Unmanned vehicle show makes a capital appearance", 
+            "url": "http://cn.bing.com/academic/profile?id=6bec3fb4eae2cfbdd7f84423cf357538&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "We propose a novel haptic teleoperation control framework for multiple unmanned aerial vehicles (UAVs) over the Internet, consisting of the three control layers: 1) UAV control layer, where each UAV is abstracted by, and is controlled to follow the trajectory of, its own kinematic virtual point (VP); 2) VP control layer, which modulates each VP's motion according to the teleoperation commands and local artificial potentials (for inter-VP/VP-obstacle collision avoidance and inter-VP connectivity preservation); and 3) teleoperation layer, through which a remote human user can command all (or some) of the VPs' velocity while haptically perceiving the state of all (or some) of the UAVs over the Internet. Master-passivity/slave-stability and some asymptotic performance measures are proved. Semi-experiment results are presented to validate the theory.", 
+            "authors": [
+                "Dongjun Lee", 
+                "Antonio Franchi", 
+                "Paolo Robuffo Giordano", 
+                "Hyoung Il Son", 
+                "H H Bulthoff"
+            ], 
+            "fields": [
+                "The Internet", 
+                "Remote sensing", 
+                "Mobile robot", 
+                "Kinematics", 
+                "Trajectory"
+            ], 
+            "title": "Haptic teleoperation of multiple unmanned aerial vehicles over the internet", 
+            "url": "http://cn.bing.com/academic/profile?id=15e6f9b674c9c1cd2bb0b23d0ec040ee&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper is concerned with the in-field au- tonomous operation of unmanned marine vehicles in accordance with convention for safe and proper collision avoidance as pre- scribed by the Coast Guard Collision Regulations (COLREGS). These rules are written to train and guide safe human operation of marine vehicles and are heavily dependent on human common sense in determining rule applicability as well as rule execution, especially when multiple rules apply simultaneously. To capture the flexibility exploited by humans, this work applies a novel method of multi-objective optimization, interval programming, in a behavior-based control framework for representing the navigation rules, as well as task behaviors, in a way that achieves simultaneous optimal satisfaction. We present experimental vali- dation of this approach using multiple autonomous surface craft. This work represents the first in-field demonstration of multi- objective optimization applied to autonomous COLREGS-based marine vehicle navigation.", 
+            "authors": [
+                "Michael R Benjamin", 
+                "Joseph Curcio", 
+                "John J Leonard", 
+                "Paul Newman"
+            ], 
+            "fields": [
+                "Navigation", 
+                "Automotive engineering", 
+                "Law", 
+                "Telerobotics", 
+                "Mobile robot"
+            ], 
+            "title": "Navigation of unmanned marine vehicles in accordance with the rules of the road", 
+            "url": "http://cn.bing.com/academic/profile?id=f0193d9d805a15cd191ba4b17363156e&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "this paper illustrates the prototype Unmanned Ground Vehicle (UGV) developed for the military purpose. There are four different modes to control UGV: command controlled mode, self-controlled mode, gesture controlled mode and raptor controlled mode. Our prototype UGV is built to undertake missions like border patrol, surveillance and in active combat both as a standalone unit (automatic) as well as in co-ordination with human soldiers (manual). A person from a remote place can comfortably control the motion of the robot wirelessly (manual mode) and in situations where manual control is not prudent, the vehicle is capable of reaching the pre-programmed destination on its own (automatic mode). In few other cases, UGV can use gesture mode and raptor mode. The complete set up and working of the UGV are described in the paper.", 
+            "authors": [
+                "Mithileysh Sathiyanarayanan", 
+                "Syed Azharuddin", 
+                "Santhosh Kumar"
+            ], 
+            "fields": [], 
+            "title": "Four Different Modes to Control Unmanned Ground Vehicle for Military Purpose", 
+            "url": "http://cn.bing.com/academic/profile?id=f2a387f3205af7fbdc0a33493fb799d6&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Unmanned ships is an interesting proposal to implement slow steaming and saving fuel while avoiding that the crew has to stay on board for very long deep-sea passages. To maintain efficiency and safety, autonomy has to be implemented to enable the ship to operate without requiring the SCC to continuously control the ship. Communication between ship and a shore control center (SCC) is therefore critical for the unmanned ship and proper safety and security precautions are required, including sufficient redundancy and backup solutions. Communication systems should be able to supply at least 4 Megabits/second for full remote control from SCC, but reduced operation can be maintained at down to 125 kilobits/second. In autonomous mode, the required communication bandwidth will be very low. For an autonomous ship the higher bandwidth requirements are from ship to shore which is the opposite of the situation for normal ships. Cost and availability of communication is an issue. The use of technical and functional indexes will enable the SCC to monitor the status of the ship at minimum load on operators and on the communication systems. The security and integrity of information transfers is crucial and appropriate means must be taken to ensure failure tolerance and fail to safe properties of the system.", 
+            "authors": [
+                "Ornulf Jan Rodseth", 
+                "Beate Kvamstad", 
+                "Thomas Porathe", 
+                "Hanschristoph Burmeister"
+            ], 
+            "fields": [
+                "Meteorology", 
+                "Radar", 
+                "Data integrity", 
+                "Communications system", 
+                "Database index"
+            ], 
+            "title": "Communication architecture for an unmanned merchant ship", 
+            "url": "http://cn.bing.com/academic/profile?id=df40a2ca25b1a989eddd64499dda824f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In recent years, Unmanned aerial vehicles (UAVs) have widely applied in reconnaissance and monitoring to natural disasters for real-time response to time-critical events. The high-resolution video image, on one hand, brings us clarity, details and characteristics of ground surface features, on the other hand, presents new challenges in data processing. This paper presents our research on the UAV dataflow processing system for natural response. This software system consists of four main modules: (1) video data flow input, and other ancillary data (including reference image, and digital elevation model (DEM), and priori exterior orientation parameters driven from onboard GPS and INS; (2) photogrammetric orthorectification model including boresight calibration and lens distortion model; (3) video data resampling and automatic extraction of conjugate points; and (4) orthorectification of video frames through removing the displacements caused by various factors, such as terrain, objects (tree, buildings), lens distortion. The experimental results demonstrated that our system can fast orthorectify the video image with a high accuracy and quality.", 
+            "authors": [
+                "Gouqing Zhou", 
+                "Jun Wu"
+            ], 
+            "fields": [], 
+            "title": "UNMANNED AERIAL VEHICLE (UAV) DATA FLOW PROCESSING FOR NATURAL DISASTER RESPONSE", 
+            "url": "http://cn.bing.com/academic/profile?id=1ad79b9d1ec5c2ea381dbdcae3316d74&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The usage of Unmanned Aerial Vehicles (UAVs) has grown drastically because of their ability to operate in dangerous locations while keeping their human operators at a safe distance. UAVs are widely used in military operations nowadays because of their reliability, cost effectiveness and multi-functionality. The problem we posed in this paper is the weight lifting capacity of UAVs. Improvement in weight lifting capacity may leads to adding a more function in account of UAVs. To validate this proposal, we considered many different structures of UAVs and choose Quadrotor. The payload of our Quadrotor is around 4 kg which adds function of weight lifting in military operations as well as industrial applications. Calculation of aerodynamic drag-lift forces has been done. The stresses generated in the body of quadrotor is not more than 22.5 MPa in \"Box\" sectional chassis and 22.2 MPa in \"C\" Sectional chassis as per the practical testing. To validate these results, the stress analysis of two types of body of quadrotor (\"Box\" and \"C\" section) is carried out in ANSYS static structural solver. As per the Static Structural solver the stress generated are 15.4 MPa and 16.97 MPa in \"Box\" and \"C\" sectional chassis respectively. Further analysis and fabrication of model is under process. Quadrotor can be used in safety, inspection of tool in construction industry, toxic material handling, transmitting important and emergency orders.", 
+            "authors": [
+                "Kalpesh N Shah", 
+                "Bala J Dutt", 
+                "Hardik Modh"
+            ], 
+            "fields": [], 
+            "title": "\"Quadrotor - An Unmanned Aerial Vehicle\"", 
+            "url": "http://cn.bing.com/academic/profile?id=572a7f30f021a3f9a54f99d73e84d363&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper discusses the need for informed decision making with respect to the management of the risks Unmanned Aerial System (UAS) operations present to people and property on the ground. In the absence of a wealth of experience in the hazards of UAS operations, an understanding of the risks can be gained through a formal risk analysis.  This paper proposes the development of new risk analysis tools as a means for ensuring risk-informed decision making.  The paper provides an introduction to the risk management of UAS operations over inhabited areas and presents an argument which establishes the need for an objective understanding of the risks.  The development of formal risk analysis tools is then discussed.  A simple casualty expectation model is presented and is applied to the example case-study scenario of a generic Medium Altitude, Long Endurance (MALE) UAS on approach to Royal Australia Air Force (RAAF) Base Edinburgh.  A brief evaluation of the results from the analysis is provided; illustrating how a formal risk analysis can be used to inform practical decision making. The paper concludes by providing a summary on the direction of the program of research and the key points made.", 
+            "authors": [
+                "Reece A Clothier", 
+                "Rodney A Walker", 
+                "Neale L Fulton", 
+                "Duncan A Campbell"
+            ], 
+            "fields": [
+                "Educational assessment", 
+                "Risk"
+            ], 
+            "title": "A Casualty Risk Analysis For Unmanned Aerial System (UAS) Operations Over Inhabited Areas", 
+            "url": "http://cn.bing.com/academic/profile?id=10b33ad347a7d70994d2bb707797496f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper presents a new attitude stabilization and control of an unmanned helicopter based on neural network compensation. A systematic derivation on the dynamics of an unmanned small-scale helicopter is performed. Combined rotor-fuselage-tail dynamics is derived in body-fixed reference frame with its origin at the C.G. of the helicopter. And the resulting nonlinear equation of motion consists of 6-DOF air vehicle dynamics as well as the rotor flapping and engine torque equations. A simulation model was modified using the existing simulator for an unmanned helicopter dynamic model, which reflects the unmanned test helicopter(CNUHELI). The dynamic response of the refined model was compared with the flight test data. It can be shown that a good coincidence was accomplished between the real unmanned helicopter system and the mathematical model. This dynamic model was linearized for classical controller design using small perturbation method. A Neuro-PD control system was designed for both longitudinal and lateral flight modes, and the results were compared with the PD-only control response. Simulation results show that the proposed Neuro-PD control system demonstrates better performance.", 
+            "authors": [
+                "Seongjun An", 
+                "Bumjin Park", 
+                "Jinyoung Suk"
+            ], 
+            "fields": [], 
+            "title": "Intelligent Attitude Control of an Unmanned Helicopter", 
+            "url": "http://cn.bing.com/academic/profile?id=6d1a25b10919dc6841303aec95f00334&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Traditional manned airborne surveys are usually exp ensive and the resolution of the acquired images is often limited. The main advantage of Unmanned Aerial Vehicle (UAV) system acting as a photogrammetric sensor platform over more traditional manned airborne system is the high flexibility that allows image acquisition from unconventional viewpoints, the low cost in comparison with classical aerial photogrammetry and the high r esolution images obtained. Nowadays there is a nece ssity for surveying small areas and in these cases, it is not economical the use of normal large format aerial or metric cameras to acquire aerial photos, therefore, the use of UAV platforms can be very sui table. Also the large availability of digital camer as has strongly enhanced the capabilities of UAVs. The use of digital non metric cameras together with the UAV could be used for multiple applications such as aerial surveys, GIS, wildfire mapping, stability of landslides, crop monitoring, etc. The aim of this work was to develop a low cost and accurate methodology in the production of ortho photos and Digital Elevation Models (DEM). The study was conducted in the province of Almeria, south of Spain. The photogrammetric flight had an altitude of 50 m over ground, c overing an area of 5.000 m 2 approximately. The UAV used in this work was the md4-200, which is an electronic battery powered quadr ocopter UAV developed by Microdrones GmbH, Germany. It had on-board a Pextax Optio A40 digital non metric camera with 12 Megapixels. It features a 3x optical zoom lens with a focal range covering an gles of view equivalent to those of 37-111 mm lens in 35 mm format. The quadrocopter can be programmed to follow a route defined by several waypoints and actions and it has t he ability for vertical take off and landing. Proper flight geometry during image ac quisition is essential in order to minimize the num ber of photographs, avoid areas without a good coverage and make the overlaps homogeneous. The flight planning was done using the MdCockpit software, with the module waypoint editor. Flight route file was downloaded into the quadrocopter autonomous chip via cable. A total of twelve vertical images with a longitudinal and tran sversal overlapping of 60 % and 50 % respectively were taken. The digital camera was previously geometrically calibrated. Field cont rol points covering the whole studied area were def ined over the area of interest and their coordinates were measured by a GPS. Natural targets were used as field control points. The c lose range photogrammetric software Photomodeler Scanner v.7 was used in this work to calibrate the camera and to carry out the p hotogrammetric process. The software Golden Surfer was used to produce the DEM. The planimetric and the altimetric root mean squar e error (RMSE) were calculated in order to check the accuracy of the pr oducts. The RMSEx was 6 cm, the RMSEy was 4 cm and the RMSEy was 7 cm. Our preliminary results demonstrate the feasibility and accuracy of orthophotos and DEMs obtained from images captured from a quadrocopter using low cost photogrammetric software. A future work can be the comparison of the produ cts obtained following the route used in this study where the images are taken vertically with the products obtained with an orbi tal route where the number of images will be diminished and the photos will be ta ken oblique.", 
+            "authors": [
+                "M Perez", 
+                "Francisco Orgaz Aguera", 
+                "F Carvajal"
+            ], 
+            "fields": [], 
+            "title": "LOW COST SURVEYING USING AN UNMANNED AERIAL VEHICLE", 
+            "url": "http://cn.bing.com/academic/profile?id=3d723ecb64c9c0f6544ee7c56ec52f6b&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper discusses the need for informed decision making with respect to the management of the risks Unmanned Aerial System (UAS) operations present to people and property on the ground. In the absence of a wealth of experience in the hazards of UAS operations, an understanding of the risks can be gained through a formal risk analysis.  This paper proposes the development of new risk analysis tools as a means for ensuring risk-informed decision making.  The paper provides an introduction to the risk management of UAS operations over inhabited areas and presents an argument which establishes the need for an objective understanding of the risks.  The development of formal risk analysis tools is then discussed.  A simple casualty expectation model is presented and is applied to the example case-study scenario of a generic Medium Altitude, Long Endurance (MALE) UAS on approach to Royal Australia Air Force (RAAF) Base Edinburgh.  A brief evaluation of the results from the analysis is provided; illustrating how a formal risk analysis can be used to inform practical decision making. The paper concludes by providing a summary on the direction of the program of research and the key points made.", 
+            "authors": [
+                "Reece A Clothier", 
+                "Rodney A Walker", 
+                "Neale L Fulton", 
+                "Duncan A Campbell"
+            ], 
+            "fields": [
+                "Educational assessment", 
+                "Risk"
+            ], 
+            "title": "A Casualty Risk Analysis For Unmanned Aerial System (UAS) Operations Over Inhabited Areas", 
+            "url": "http://cn.bing.com/academic/profile?id=10b33ad347a7d70994d2bb707797496f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The usage of Unmanned Aerial Vehicles (UAVs) has grown drastically because of their ability to operate in dangerous locations while keeping their human operators at a safe distance. UAVs are widely used in military operations nowadays because of their reliability, cost effectiveness and multi-functionality. The problem we posed in this paper is the weight lifting capacity of UAVs. Improvement in weight lifting capacity may leads to adding a more function in account of UAVs. To validate this proposal, we considered many different structures of UAVs and choose Quadrotor. The payload of our Quadrotor is around 4 kg which adds function of weight lifting in military operations as well as industrial applications. Calculation of aerodynamic drag-lift forces has been done. The stresses generated in the body of quadrotor is not more than 22.5 MPa in \"Box\" sectional chassis and 22.2 MPa in \"C\" Sectional chassis as per the practical testing. To validate these results, the stress analysis of two types of body of quadrotor (\"Box\" and \"C\" section) is carried out in ANSYS static structural solver. As per the Static Structural solver the stress generated are 15.4 MPa and 16.97 MPa in \"Box\" and \"C\" sectional chassis respectively. Further analysis and fabrication of model is under process. Quadrotor can be used in safety, inspection of tool in construction industry, toxic material handling, transmitting important and emergency orders.", 
+            "authors": [
+                "Kalpesh N Shah", 
+                "Bala J Dutt", 
+                "Hardik Modh"
+            ], 
+            "fields": [], 
+            "title": "\"Quadrotor - An Unmanned Aerial Vehicle\"", 
+            "url": "http://cn.bing.com/academic/profile?id=572a7f30f021a3f9a54f99d73e84d363&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "In recent years, Unmanned aerial vehicles (UAVs) have widely applied in reconnaissance and monitoring to natural disasters for real-time response to time-critical events. The high-resolution video image, on one hand, brings us clarity, details and characteristics of ground surface features, on the other hand, presents new challenges in data processing. This paper presents our research on the UAV dataflow processing system for natural response. This software system consists of four main modules: (1) video data flow input, and other ancillary data (including reference image, and digital elevation model (DEM), and priori exterior orientation parameters driven from onboard GPS and INS; (2) photogrammetric orthorectification model including boresight calibration and lens distortion model; (3) video data resampling and automatic extraction of conjugate points; and (4) orthorectification of video frames through removing the displacements caused by various factors, such as terrain, objects (tree, buildings), lens distortion. The experimental results demonstrated that our system can fast orthorectify the video image with a high accuracy and quality.", 
+            "authors": [
+                "Gouqing Zhou", 
+                "Jun Wu"
+            ], 
+            "fields": [], 
+            "title": "UNMANNED AERIAL VEHICLE (UAV) DATA FLOW PROCESSING FOR NATURAL DISASTER RESPONSE", 
+            "url": "http://cn.bing.com/academic/profile?id=1ad79b9d1ec5c2ea381dbdcae3316d74&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper presents a new attitude stabilization and control of an unmanned helicopter based on neural network compensation. A systematic derivation on the dynamics of an unmanned small-scale helicopter is performed. Combined rotor-fuselage-tail dynamics is derived in body-fixed reference frame with its origin at the C.G. of the helicopter. And the resulting nonlinear equation of motion consists of 6-DOF air vehicle dynamics as well as the rotor flapping and engine torque equations. A simulation model was modified using the existing simulator for an unmanned helicopter dynamic model, which reflects the unmanned test helicopter(CNUHELI). The dynamic response of the refined model was compared with the flight test data. It can be shown that a good coincidence was accomplished between the real unmanned helicopter system and the mathematical model. This dynamic model was linearized for classical controller design using small perturbation method. A Neuro-PD control system was designed for both longitudinal and lateral flight modes, and the results were compared with the PD-only control response. Simulation results show that the proposed Neuro-PD control system demonstrates better performance.", 
+            "authors": [
+                "Seongjun An", 
+                "Bumjin Park", 
+                "Jinyoung Suk"
+            ], 
+            "fields": [], 
+            "title": "Intelligent Attitude Control of an Unmanned Helicopter", 
+            "url": "http://cn.bing.com/academic/profile?id=6d1a25b10919dc6841303aec95f00334&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Since the turn of the century, emerging unmanned aircraft systems (UAS) have found increasingly diverse applications in wildlife science as convenient, very high-resolution remote sensing devices. Achieved or conceptualized applications include optical surveying and observation of animals, autonomous wildlife telemetry tracking, and habitat research and monitoring. As the technology continues to progress and interest from the wildlife science community grows, there may yet be much untapped potential for UAS to contribute to the discipline. We present a review of the published primary literature on the application of UAS in wildlife science and related fields. This is followed by a systematic review of the broader wildlife science literature published since the turn of the century to assess where UAS are likely to make important contributions going forward based on the trends that have emerged thus far. UAS, in particular small lightweight models, are generally well suited for collecting data at an interme...", 
+            "authors": [
+                "Dominique Chabot", 
+                "D M Bird"
+            ], 
+            "fields": [
+                "Drone", 
+                "Conservation", 
+                "Aerial survey"
+            ], 
+            "title": "Wildlife research and management methods in the 21st century: Where do unmanned aircraft fit in?1", 
+            "url": "http://cn.bing.com/academic/profile?id=7532ae53337774762e0aaad225e4adb2&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Invasive species spread rapidly and their eradication is difficult. New methods enabling fast and efficient monitoring are urgently needed for their successful control. Remote sensing can improve early detection of invading plants and make their management more efficient and less expensive. In an ongoing project in the Czech Republic, we aim at developing innovative methods of mapping invasive plant species (semi-automatic detection algorithms) by using purposely designed unmanned aircraft (UAV). We examine possibilities for detection of two tree and two herb invasive species. Our aim is to establish fast, repeatable and efficient computerassisted method of timely monitoring, reducing the costs of extensive field campaigns. For finding the best detection algorithm we test various classification approaches (object-, pixel-based and hybrid). Thanks to its flexibility and low cost, UAV enables assessing the effect of phenological stage and spatial resolution, and is most suitable for monitoring the efficiency of eradication efforts. However, several challenges exist in UAV application, such as geometrical and radiometric distortions, high amount of data to be processed and legal constrains for the UAV flight missions over urban areas (often highly invaded). The newly proposed UAV approach shall serve invasive species researchers, management practitioners and policy makers.", 
+            "authors": [
+                "Petr Dvo\u0159ak", 
+                "Jana Mullerova", 
+                "Tomas Bartalos", 
+                "Josef Br\u016fna"
+            ], 
+            "fields": [
+                "Invasive species"
+            ], 
+            "title": "UNMANNED AERIAL VEHICLES FOR ALIEN PLANT SPECIES DETECTION AND MONITORING", 
+            "url": "http://cn.bing.com/academic/profile?id=c37168df4fd90a670949c4fa90a52dd5&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract#R##N##R##N#A new type of aerial vehicle was introduced in the twentieth century, alongside manned aviation \u2013 the Unmanned Aerial Vehicle (UAV). A UAV is either remotely controlled by a human operator or operates autonomously. A system that includes a UAV platform, a Command and Control station and, in some cases, take-off and landing devices is called UAS.#R##N##R##N##R##N##R##N#The history of the UAV begins in parallel to the history of manned aviation. However, only recently its development and progress, hindered in the past by lack of technology, made the UAV category a major area of interest for many civilian and military applications. Dimensions, propulsion and applications of UAVs differ from manned aircraft. Nowadays, sizes of UAVs vary from several centimeters to a wingspan of over 40\u2009m. Propulsion types are diverse as well; from tiny electrical motors to large Turbofan engines. UAVs are used today to substitute manned aircraft in missions of reconnaissance, attack or scientific survey \u2013 in many cases with better performance, lower costs and without endangering a pilot. As the widened introduction of UAVs continues, their capabilities and versatility grow, and thus present the most promising technological solution for many current and future airborne applications.#R##N##R##N##R##N##R##N#This chapter presents a short review of Unmanned Aerial Vehicle and systems. UAV characteristics, technologies, development history and future trends are discussed.#R##N##R##N##R##N#Keywords:#R##N##R##N#UAV;#R##N#unmanned;#R##N#Drone;#R##N#MALE;#R##N#HALE;#R##N#UCAV", 
+            "authors": [
+                "Shlomo Tsach", 
+                "Alex Tatievsky", 
+                "L T London"
+            ], 
+            "fields": [
+                "Drone"
+            ], 
+            "title": "Unmanned Aerial Vehicles (UAVs)", 
+            "url": "http://cn.bing.com/academic/profile?id=3806b8ffde0a9dd74a332a10662c2aff&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Because of extreme weather and frequent natural disasters, improvement of disaster prevention capabilities and early warning technologies is an urgent matter. Inshore areas are where ocean and land intersect; the sea conditions and environment are complex and changeable, and human activities are frequent in these areas. Natural disasters, such as a substantial rise in sea levels, coastal erosion and transitions, and rapid flooding from tsunamis, and human development projects, pollution, and ecological damage must be thoroughly investigated, monitored, recorded, and prevented. The west coast of Taiwan, particularly the southeast coastal plain, is a highly populated narrow area; thus, field survey tools with a high degree of freedom and flexible applications are required for data collection to reach its full potential. The Taiwan Ocean Research Institute developed an unmanned surface vehicle (USV) for the \u201cLong Term Observation for Research Performed in TORI\u201d 2010 project. This USV is a platform that integrates scientific equipment, including Wi-Fi communication and a satellite-based global positioning system (GPS) with navigation images and signals, to form an internal network with onshore control bases to allow the instant acquisition of measured data and enable researchers to conduct surveys in safe conditions. USVs are appropriate for various types of inshore research and surveys, such as marine topography, sediment disposition analysis, inshore engineering measurements, and the monitoring of hydrology, water quality, and the environment. One aim of the Taiwan Ocean Research Institute (TORI) is to establish a method to use the USV for collecting inshore marine topography, hydrology, water quality, and meteorological data. Integrating field investigations of Taiwan\u2019s coastal waters will provide data for verifying numerical simulations and lead scientists to explore novel and unknown areas.", 
+            "authors": [
+                "Wenrong Yang", 
+                "Cingying Chen", 
+                "Chaomin Hsu", 
+                "Chiungjung Tseng", 
+                "Wenchang Yang"
+            ], 
+            "fields": [
+                "Emergency management", 
+                "Global Positioning System"
+            ], 
+            "title": "Multifunctional Inshore Survey Platform with Unmanned Surface Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=94b977dfef614e89a39674f11e3c2e46&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper provides a brief overview on the recent advances of small-scale unmanned aerial vehicles (UAVs) from the perspective of platforms, key elements, and scientific research. The survey starts with an introduction of the recent advances of small-scale UAV platforms, based on the information summarized from 132 models available worldwide. Next, the evolvement of the key elements, including onboard processing units, navigation sensors, mission-oriented sensors, communication modules, and ground control station, is presented and analyzed. Third, achievements of small-scale UAV research, particularly on platform design and construction, dynamics modeling, and flight control, are introduced. Finally, the future of small-scale UAVs' research, civil applications, and military applications are forecasted.", 
+            "authors": [
+                "Guowei Cai", 
+                "Jorge Dias", 
+                "Lakmal D Seneviratne"
+            ], 
+            "fields": [
+                "Guidance, navigation and control"
+            ], 
+            "title": "A Survey of Small-Scale Unmanned Aerial Vehicles: Recent Advances and Future Development Trends", 
+            "url": "http://cn.bing.com/academic/profile?id=c19fbf4b8e79a371d74922e3280b944a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper describes secure control architecture for UAV control system for multiple operator environments. Multiple access of UAV is necessary because UAV must capture and process various data and UAV's functions become more complex and diverse. From this perspective, UAV control system needs to be secure because new control system will be exposed to multiple operators. To discuss this issue, the paper proposes new control architecture for UAV using RBAC (Roll Based Access Control). Generally, RBAC is applied and contributes to the security of computer systems, thus, we modified RBAC to apply to UAV control system. In this paper, we present how the modified RBAC model can be applied to UAV control systems and implement a prototype UAV control system based on the modified RBAC model.", 
+            "authors": [
+                "Hyeokjune Jeong", 
+                "Youngguk Ha"
+            ], 
+            "fields": [], 
+            "title": "Design and Implementation of Secure Control Architecture for Unmanned Aerial Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=748bafeeb8918b45fdc9898fd8f9def4&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Most of the unmanned air vehicles (UAV) were developed with military purposes and freely used without any regulatory concerns. UAVs are expected to be used at the commercial applications in near future. The noise generation mechanism of conventional aircrafts, reduction techniques and regulatory goals are outlined in the paper. Similarly, the noise generation and control for the UAVs are discussed. Study, indicated that future studies are needed to control the noise of UAVs better and regulatory involvement is essential to keep their impact minimum on human health and environment. I. INTRODUCTION Unmanned air vehicles (UAV) have been used for many tasks including surveillance, reconnaissance, target acquisition, relaying communications, delivering small items, working as decoy and many others. Any size UAV including the nano, micro, mini through large UAVs should be well designed and properly configured to perform the assigned tasks. The structure, aerodynamic profile, electromechanical components, sensors, power source, computers, propulsion system and other components have been selected by considering mainly the required payload, operational distance, altitude and speed. The aero-acoustics of the UAVs has been gaining importance with the maturity of the available UAVs. To give them system stealth feature or not to disturb people while operating at the populated areas, the aero-acoustic of the propulsion system should be carefully studied. The length, wingspan, payload, weight, endurance, cruise speed are carefully selected during the design stage of the UaVs [1]. Most of the existing propulsion systems of UaVs were initially designed by considering the basic operation conditions including the dimensions, weight, flight distance, altitude, atmospheric conditions and operation time. They may use electrical motor(s), internal combustion engine(s) (piston engine, Wankel), turbines such as Turboprop, turbojet, turbofan, propfan), rocket(s), Pulse/Scram/Motor/Ram \u2010jets. Fuel cell(s) or solar panels may be used to generate the electricity during the operation of the system. The electrically powered UaVs are usually powered by (a) batteries (good for small size aircrafts due to the weight versus energy density), (b) fuel cells (good for high altitude UaVs due to their high effective energy density), (c) Solar cells (good for very light aircrafts, for long endurance flies, with simple missions in calm and sunny weather conditions).", 
+            "authors": [
+                "Balemir Uragun", 
+                "Ibrahim N Tansel"
+            ], 
+            "fields": [
+                "Vibration", 
+                "Noise reduction", 
+                "Active noise control", 
+                "Noise"
+            ], 
+            "title": "The noise reduction techniques for unmanned air vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=9e5f93ab1a684478eb93a97078a7016f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Due to the accident of Fukushima Daiichi Nuclear Power Plant, some areas were contaminated by released radioisotopes (mainly 137Cs and 134Cs). Effective decontamination is demanded to encourage evacuated people to return. This paper proposes a new survey system using an unmanned helicopter equipped with a Compton camera for localizing radionuclides. As a prototype, 32 Ce:Gd3(Al,Ga)5O12 (GAGG) crystals were coupled to 16 silicon photomultipliers and 16 avalanched photodiodes as the scatterer and absorber, respectively. A new Dynamic Time-over-Threshold (dToT) method was applied to convert CR-RC shaping signals to digital signals for multi-channel spectra and coincidence acquisition. The system was designed to work in two modes: one is Compton-camera mode (CCM) which obtains the radiation distribution maps through Compton imaging using hovering flights, while the other one is Gamma-camera mode\u00a0(GCM) which maps the radiation distribution via measured coincidence events using programmed flights. For point sou...", 
+            "authors": [
+                "Jianyong Jiang", 
+                "K Shimazoe", 
+                "Y Nakamura", 
+                "Hiroyuki Takahashi", 
+                "Y Shikaze", 
+                "Yukiyasu Nishizawa", 
+                "Mami Yoshida", 
+                "Yukihisa Sanada", 
+                "Tatsuo Torii", 
+                "Masao Yoshino", 
+                "Shigeki Ito", 
+                "Takanori Endo", 
+                "Kosuke Tsutsumi", 
+                "Sho Kato", 
+                "Hiroki Sato", 
+                "Yoshiyuki Usuki", 
+                "Shunsuke Kurosawa", 
+                "Kei Kamada", 
+                "Akira Yoshikawa"
+            ], 
+            "fields": [
+                "Human decontamination"
+            ], 
+            "title": "A prototype of aerial radiation monitoring system using an unmanned helicopter mounting a GAGG scintillator Compton camera", 
+            "url": "http://cn.bing.com/academic/profile?id=7f680f00540605758339f726c5a83e33&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract Unmanned aircraft systems (UASs) are proposed as a useful alternative to manned aircraft for some aerial wildlife surveys. We described the components and current capabilities of a small UAS developed specifically for wildlife and ecological surveys that is currently in field use for a variety of applications. We also reviewed government regulations currently affecting the use of UASs in civilian airspace. Information on capabilities and regulations will be valuable for agencies and individuals interested in the potential UASs offer for monitoring wildlife populations and their habitat. Descriptions of current uses and recommendations for future employment will be helpful in implementing this technology efficiently for aerial surveys as the civilian sector begins to adopt UASs for peacetime missions.", 
+            "authors": [
+                "Adam C Watts", 
+                "John Perry", 
+                "Scot Smith", 
+                "Matthew A Burgess", 
+                "Benjamin E Wilkinson", 
+                "Zoltan Szantoi", 
+                "Peter Ifju", 
+                "H Franklin Percival"
+            ], 
+            "fields": [
+                "Remote sensing", 
+                "Aerial survey", 
+                "Technology"
+            ], 
+            "title": "Small Unmanned Aircraft Systems for Low-Altitude Aerial Surveys", 
+            "url": "http://cn.bing.com/academic/profile?id=581770e22df0cc2c40852606271250a9&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract#R##N##R##N#A new type of aerial vehicle was introduced in the twentieth century, alongside manned aviation \u2013 the Unmanned Aerial Vehicle (UAV). A UAV is either remotely controlled by a human operator or operates autonomously. A system that includes a UAV platform, a Command and Control station and, in some cases, take-off and landing devices is called UAS.#R##N##R##N##R##N##R##N#The history of the UAV begins in parallel to the history of manned aviation. However, only recently its development and progress, hindered in the past by lack of technology, made the UAV category a major area of interest for many civilian and military applications. Dimensions, propulsion and applications of UAVs differ from manned aircraft. Nowadays, sizes of UAVs vary from several centimeters to a wingspan of over 40\u2009m. Propulsion types are diverse as well; from tiny electrical motors to large Turbofan engines. UAVs are used today to substitute manned aircraft in missions of reconnaissance, attack or scientific survey \u2013 in many cases with better performance, lower costs and without endangering a pilot. As the widened introduction of UAVs continues, their capabilities and versatility grow, and thus present the most promising technological solution for many current and future airborne applications.#R##N##R##N##R##N##R##N#This chapter presents a short review of Unmanned Aerial Vehicle and systems. UAV characteristics, technologies, development history and future trends are discussed.#R##N##R##N##R##N#Keywords:#R##N##R##N#UAV;#R##N#unmanned;#R##N#Drone;#R##N#MALE;#R##N#HALE;#R##N#UCAV", 
+            "authors": [
+                "Shlomo Tsach", 
+                "Alex Tatievsky", 
+                "L T London"
+            ], 
+            "fields": [
+                "Drone"
+            ], 
+            "title": "Unmanned Aerial Vehicles (UAVs)", 
+            "url": "http://cn.bing.com/academic/profile?id=3806b8ffde0a9dd74a332a10662c2aff&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Invasive species spread rapidly and their eradication is difficult. New methods enabling fast and efficient monitoring are urgently needed for their successful control. Remote sensing can improve early detection of invading plants and make their management more efficient and less expensive. In an ongoing project in the Czech Republic, we aim at developing innovative methods of mapping invasive plant species (semi-automatic detection algorithms) by using purposely designed unmanned aircraft (UAV). We examine possibilities for detection of two tree and two herb invasive species. Our aim is to establish fast, repeatable and efficient computerassisted method of timely monitoring, reducing the costs of extensive field campaigns. For finding the best detection algorithm we test various classification approaches (object-, pixel-based and hybrid). Thanks to its flexibility and low cost, UAV enables assessing the effect of phenological stage and spatial resolution, and is most suitable for monitoring the efficiency of eradication efforts. However, several challenges exist in UAV application, such as geometrical and radiometric distortions, high amount of data to be processed and legal constrains for the UAV flight missions over urban areas (often highly invaded). The newly proposed UAV approach shall serve invasive species researchers, management practitioners and policy makers.", 
+            "authors": [
+                "Petr Dvo\u0159ak", 
+                "Jana Mullerova", 
+                "Tomas Bartalos", 
+                "Josef Br\u016fna"
+            ], 
+            "fields": [
+                "Invasive species"
+            ], 
+            "title": "UNMANNED AERIAL VEHICLES FOR ALIEN PLANT SPECIES DETECTION AND MONITORING", 
+            "url": "http://cn.bing.com/academic/profile?id=c37168df4fd90a670949c4fa90a52dd5&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Because of extreme weather and frequent natural disasters, improvement of disaster prevention capabilities and early warning technologies is an urgent matter. Inshore areas are where ocean and land intersect; the sea conditions and environment are complex and changeable, and human activities are frequent in these areas. Natural disasters, such as a substantial rise in sea levels, coastal erosion and transitions, and rapid flooding from tsunamis, and human development projects, pollution, and ecological damage must be thoroughly investigated, monitored, recorded, and prevented. The west coast of Taiwan, particularly the southeast coastal plain, is a highly populated narrow area; thus, field survey tools with a high degree of freedom and flexible applications are required for data collection to reach its full potential. The Taiwan Ocean Research Institute developed an unmanned surface vehicle (USV) for the \u201cLong Term Observation for Research Performed in TORI\u201d 2010 project. This USV is a platform that integrates scientific equipment, including Wi-Fi communication and a satellite-based global positioning system (GPS) with navigation images and signals, to form an internal network with onshore control bases to allow the instant acquisition of measured data and enable researchers to conduct surveys in safe conditions. USVs are appropriate for various types of inshore research and surveys, such as marine topography, sediment disposition analysis, inshore engineering measurements, and the monitoring of hydrology, water quality, and the environment. One aim of the Taiwan Ocean Research Institute (TORI) is to establish a method to use the USV for collecting inshore marine topography, hydrology, water quality, and meteorological data. Integrating field investigations of Taiwan\u2019s coastal waters will provide data for verifying numerical simulations and lead scientists to explore novel and unknown areas.", 
+            "authors": [
+                "Wenrong Yang", 
+                "Cingying Chen", 
+                "Chaomin Hsu", 
+                "Chiungjung Tseng", 
+                "Wenchang Yang"
+            ], 
+            "fields": [
+                "Emergency management", 
+                "Global Positioning System"
+            ], 
+            "title": "Multifunctional Inshore Survey Platform with Unmanned Surface Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=94b977dfef614e89a39674f11e3c2e46&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper provides a brief overview on the recent advances of small-scale unmanned aerial vehicles (UAVs) from the perspective of platforms, key elements, and scientific research. The survey starts with an introduction of the recent advances of small-scale UAV platforms, based on the information summarized from 132 models available worldwide. Next, the evolvement of the key elements, including onboard processing units, navigation sensors, mission-oriented sensors, communication modules, and ground control station, is presented and analyzed. Third, achievements of small-scale UAV research, particularly on platform design and construction, dynamics modeling, and flight control, are introduced. Finally, the future of small-scale UAVs' research, civil applications, and military applications are forecasted.", 
+            "authors": [
+                "Guowei Cai", 
+                "Jorge Dias", 
+                "Lakmal D Seneviratne"
+            ], 
+            "fields": [
+                "Guidance, navigation and control"
+            ], 
+            "title": "A Survey of Small-Scale Unmanned Aerial Vehicles: Recent Advances and Future Development Trends", 
+            "url": "http://cn.bing.com/academic/profile?id=c19fbf4b8e79a371d74922e3280b944a&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper describes secure control architecture for UAV control system for multiple operator environments. Multiple access of UAV is necessary because UAV must capture and process various data and UAV's functions become more complex and diverse. From this perspective, UAV control system needs to be secure because new control system will be exposed to multiple operators. To discuss this issue, the paper proposes new control architecture for UAV using RBAC (Roll Based Access Control). Generally, RBAC is applied and contributes to the security of computer systems, thus, we modified RBAC to apply to UAV control system. In this paper, we present how the modified RBAC model can be applied to UAV control systems and implement a prototype UAV control system based on the modified RBAC model.", 
+            "authors": [
+                "Hyeokjune Jeong", 
+                "Youngguk Ha"
+            ], 
+            "fields": [], 
+            "title": "Design and Implementation of Secure Control Architecture for Unmanned Aerial Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=748bafeeb8918b45fdc9898fd8f9def4&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Abstract Unmanned aircraft systems (UASs) are proposed as a useful alternative to manned aircraft for some aerial wildlife surveys. We described the components and current capabilities of a small UAS developed specifically for wildlife and ecological surveys that is currently in field use for a variety of applications. We also reviewed government regulations currently affecting the use of UASs in civilian airspace. Information on capabilities and regulations will be valuable for agencies and individuals interested in the potential UASs offer for monitoring wildlife populations and their habitat. Descriptions of current uses and recommendations for future employment will be helpful in implementing this technology efficiently for aerial surveys as the civilian sector begins to adopt UASs for peacetime missions.", 
+            "authors": [
+                "Adam C Watts", 
+                "John Perry", 
+                "Scot Smith", 
+                "Matthew A Burgess", 
+                "Benjamin E Wilkinson", 
+                "Zoltan Szantoi", 
+                "Peter Ifju", 
+                "H Franklin Percival"
+            ], 
+            "fields": [
+                "Remote sensing", 
+                "Aerial survey", 
+                "Technology"
+            ], 
+            "title": "Small Unmanned Aircraft Systems for Low-Altitude Aerial Surveys", 
+            "url": "http://cn.bing.com/academic/profile?id=581770e22df0cc2c40852606271250a9&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Most of the unmanned air vehicles (UAV) were developed with military purposes and freely used without any regulatory concerns. UAVs are expected to be used at the commercial applications in near future. The noise generation mechanism of conventional aircrafts, reduction techniques and regulatory goals are outlined in the paper. Similarly, the noise generation and control for the UAVs are discussed. Study, indicated that future studies are needed to control the noise of UAVs better and regulatory involvement is essential to keep their impact minimum on human health and environment. I. INTRODUCTION Unmanned air vehicles (UAV) have been used for many tasks including surveillance, reconnaissance, target acquisition, relaying communications, delivering small items, working as decoy and many others. Any size UAV including the nano, micro, mini through large UAVs should be well designed and properly configured to perform the assigned tasks. The structure, aerodynamic profile, electromechanical components, sensors, power source, computers, propulsion system and other components have been selected by considering mainly the required payload, operational distance, altitude and speed. The aero-acoustics of the UAVs has been gaining importance with the maturity of the available UAVs. To give them system stealth feature or not to disturb people while operating at the populated areas, the aero-acoustic of the propulsion system should be carefully studied. The length, wingspan, payload, weight, endurance, cruise speed are carefully selected during the design stage of the UaVs [1]. Most of the existing propulsion systems of UaVs were initially designed by considering the basic operation conditions including the dimensions, weight, flight distance, altitude, atmospheric conditions and operation time. They may use electrical motor(s), internal combustion engine(s) (piston engine, Wankel), turbines such as Turboprop, turbojet, turbofan, propfan), rocket(s), Pulse/Scram/Motor/Ram \u2010jets. Fuel cell(s) or solar panels may be used to generate the electricity during the operation of the system. The electrically powered UaVs are usually powered by (a) batteries (good for small size aircrafts due to the weight versus energy density), (b) fuel cells (good for high altitude UaVs due to their high effective energy density), (c) Solar cells (good for very light aircrafts, for long endurance flies, with simple missions in calm and sunny weather conditions).", 
+            "authors": [
+                "Balemir Uragun", 
+                "Ibrahim N Tansel"
+            ], 
+            "fields": [
+                "Vibration", 
+                "Noise reduction", 
+                "Active noise control", 
+                "Noise"
+            ], 
+            "title": "The noise reduction techniques for unmanned air vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=9e5f93ab1a684478eb93a97078a7016f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Due to the accident of Fukushima Daiichi Nuclear Power Plant, some areas were contaminated by released radioisotopes (mainly 137Cs and 134Cs). Effective decontamination is demanded to encourage evacuated people to return. This paper proposes a new survey system using an unmanned helicopter equipped with a Compton camera for localizing radionuclides. As a prototype, 32 Ce:Gd3(Al,Ga)5O12 (GAGG) crystals were coupled to 16 silicon photomultipliers and 16 avalanched photodiodes as the scatterer and absorber, respectively. A new Dynamic Time-over-Threshold (dToT) method was applied to convert CR-RC shaping signals to digital signals for multi-channel spectra and coincidence acquisition. The system was designed to work in two modes: one is Compton-camera mode (CCM) which obtains the radiation distribution maps through Compton imaging using hovering flights, while the other one is Gamma-camera mode\u00a0(GCM) which maps the radiation distribution via measured coincidence events using programmed flights. For point sou...", 
+            "authors": [
+                "Jianyong Jiang", 
+                "K Shimazoe", 
+                "Y Nakamura", 
+                "Hiroyuki Takahashi", 
+                "Y Shikaze", 
+                "Yukiyasu Nishizawa", 
+                "Mami Yoshida", 
+                "Yukihisa Sanada", 
+                "Tatsuo Torii", 
+                "Masao Yoshino", 
+                "Shigeki Ito", 
+                "Takanori Endo", 
+                "Kosuke Tsutsumi", 
+                "Sho Kato", 
+                "Hiroki Sato", 
+                "Yoshiyuki Usuki", 
+                "Shunsuke Kurosawa", 
+                "Kei Kamada", 
+                "Akira Yoshikawa"
+            ], 
+            "fields": [
+                "Human decontamination"
+            ], 
+            "title": "A prototype of aerial radiation monitoring system using an unmanned helicopter mounting a GAGG scintillator Compton camera", 
+            "url": "http://cn.bing.com/academic/profile?id=7f680f00540605758339f726c5a83e33&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Technological advances in power electronics such as miniature electro-mechanical devices\u00a0(MEMS) and small, powerful electric motors have enabled the development of small and\u00a0lightweight devices. These devices include flying devices such as unmanned aerial vehicles\u00a0(UAV\u2019s). One such UAV is the open source quadcopter, the Crazyflie.\u00a0The technological advances have made it possible to produce lightweight, low power yet accurate\u00a0sensors which can be used with controllers that have a high processing power yet low power\u00a0consumption. This has allowed for the development of complex control systems that can be\u00a0implemented onboard the UAV. With this combination of high accuracy and light weight, realtime\u00a0onboard guidance and autonomous flight are now practical.\u00a0The Quadcopter is an inherently unstable system, having similar kinematics to an inverted\u00a0pendulum. By creating an accurate mathematical model of a Quadcopter, control systems are\u00a0implemented and tested without the possibility of damage. Once a theoretically stable control\u00a0system is designed it can then be implemented in the firmware of the Quadcopter. By maximizing\u00a0the accuracy of the mathematical model the resultant motion of the Quadcopter can be predicted.\u00a0This prediction can then be used to increase the accuracy, stability and time response of the\u00a0overall system.\u00a0Experiments were conducted in order to obtain the physical characteristics of the Quadcopter.\u00a0These parameters were then used to create a MATLAB model of the Quadcopter. This model was\u00a0then used to design and implement various control systems. These control systems where then\u00a0implemented in the Quadcopter and the performance compared to that of the mathematical\u00a0model.\u00a0The mathematical model was found to be capable of accurately predicting the behaviour of the\u00a0Crazy Flie under conditions involving low external influences such at wind.", 
+            "authors": [
+                "William John Hanna"
+            ], 
+            "fields": [
+                "Mathematical model", 
+                "Control system"
+            ], 
+            "title": "Modelling and control of an unmanned aerial vehicle", 
+            "url": "http://cn.bing.com/academic/profile?id=8cc7ffcda6555a0899f79edd93a6673d&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Polar regions are experiencing rapid and severe climatic shifts with major changes in temperature, wind speed and UV-B radiation already observed in Antarctica. Since vegetation is isolated to the coastal fringe and climatic records only extend back 50 years, with limited spatial resolution, we urgently need new proxies to determine if coastal climate has changed over the past century. In a manner similar to trees, old growth mosses also preserve a climate record along their shoots. Our ability to accurately date these mosses and map their extent in sufficient spatial detail means that, for the first time, mosses can be used as sentinels to provide crucial information on how the Antarctic coastal climate has changed over past centuries and how biota has responded to these changes. #R##N##R##N#The spatial scale of the moss beds (tens of m2) makes satellite imagery (even very high resolution imagery of 0.5 m) unsuitable for mapping their extent in sufficient detail. Due to logistical constraints aerial photography is impractical. Recent developments in the use of unmanned aerial vehicles (UAVs) for remote sensing applications provide exciting new opportunities for ultra-high resolution mapping and monitoring of the environment. In this study, we developed a UAV consisting of a remote controlled helicopter carrying three different cameras: visible colour, near-infrared, and thermal infrared for cost-effective, efficient, and ultra-high resolution mapping of terrestrial vegetation in the Windmill Islands, Antarctica. These three sensors allow us to map different physical characteristics of the moss beds at resolutions of several centimetres.  This paper and presentation will address the issues encountered in developing a UAV system, discuss the different UAV sensors and components, and demonstrate how this system can be applied in these fragile remote polar ecosystems.", 
+            "authors": [
+                "Arko Lucieer", 
+                "Sharon A Robinson", 
+                "Darren Turner"
+            ], 
+            "fields": [
+                "Geomatics engineering", 
+                "Image resolution", 
+                "Climate change", 
+                "Natural environment", 
+                "Aerial photography"
+            ], 
+            "title": "Using an unmanned aerial vehicle (UAV) for ultra- high resolution mapping of Antarctic moss beds", 
+            "url": "http://cn.bing.com/academic/profile?id=0a96128aec288aabed8d0a2f2f6c1d3d&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Unmanned Air Vehicles (UAVs) have several advantages and disadvantages compared with Unmanned Ground Vehicles (UGVs). Both systems have different mobility and perception abilities. UAV systems have extended perception, tracking, and mobility capabilities compared with UGVs. UGVs have more intimate mobility and manipulation capabilities. This paper presents the research that has been conducted in the collaboration of UAVs and UGVs. This research demonstrates the use of a passive UAV system for tracking and state estimation of a UGV. This paper presents the UAV sensors and avionics, the algorithms for combining the UGV kinematics equations, and the geo-positioning algorithms used on the UAV to form a robust UGV state estimation. Experimental results are presented.", 
+            "authors": [
+                "Donald K Macarthur", 
+                "Carl D Crane"
+            ], 
+            "fields": [
+                "Tracking", 
+                "Intelligent sensor", 
+                "Vehicle dynamics", 
+                "Mobile robot", 
+                "Memory"
+            ], 
+            "title": "Unmanned Ground Vehicle State Estimation using an Unmanned Air Vehicle", 
+            "url": "http://cn.bing.com/academic/profile?id=2aa23c2127fcf7083e5137a830f35fb3&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "As unmanned aerial vehicles have become more affordable, their popularity with the general public and commercial organisations has seen significant growth in recent years. Whilst remaining a device for both the hobbyist and aircraft-enthusiast to enjoy, they are now also used for carrying out activities such as law enforcement surveillance, agricultural maintenance, acquiring specialist movie and sports event footage along with search and seizure activities. Conversely, despite maintaining many legitimate uses, there are also increasing media reports of unmanned aerial vehicle technology being abused, ranging from physical assaults due to negligent flights to breaches of Civil Aviation Authority Air Navigation Regulations, requiring a forensic analysis of these devices in order to establish the chain of events. This article presents an introductory discussion of unmanned aerial vehicle analysis and provides the results of a digital forensic investigation of a test Parrot Bebop unmanned aerial vehicle. Directions for the acquisition and analysis of the device's internal storage are provided along with an interpretation of on-board flight data, captured media and operating system. Further, as the device can be controlled via Android and iOS devices using the application FreeFlight3, forensic analysis of these devices is also presented. Results showed the ability to recover flight data from both the unmanned aerial vehicle and controller handsets along with captured media, however problems exist with establishing the definitive owner of the device, particularly if a user had abandoned it at the scene of a crime.", 
+            "authors": [
+                "Graeme Horsman"
+            ], 
+            "fields": [
+                "Global Positioning System", 
+                "Drone", 
+                "Forensic science"
+            ], 
+            "title": "Unmanned aerial vehicles: A preliminary analysis of forensic challenges", 
+            "url": "http://cn.bing.com/academic/profile?id=ec952c30f3c0f4b436935d5295714ded&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "An unmanned airship, also known as a Unmanned aircraft System (UAS) or a remotely piloted aircraft is a machine which functions either by the remote control of a navigator or pilot. The unmanned airship uses the autonomous flight, navigation and guidance based on the telemetry command of ground station. The Autonomous Flight Control System (AFCS) [1] plays a key role in achieving the given requirements and missions. This paper introduces the overall design architecture of the hardware and software of the flight control systems in a 50m long unmanned airship", 
+            "authors": [
+                "Vishnu G Nair", 
+                "M Dileep", 
+                "Prahalad K R"
+            ], 
+            "fields": [], 
+            "title": "GPS Based Autonomous Flight Control System for an Unmanned Airship", 
+            "url": "http://cn.bing.com/academic/profile?id=78f4ace5c8c7296abcd693338ea69afe&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Polar regions are experiencing rapid and severe climatic shifts with major changes in temperature, wind speed and UV-B radiation already observed in Antarctica. Since vegetation is isolated to the coastal fringe and climatic records only extend back 50 years, with limited spatial resolution, we urgently need new proxies to determine if coastal climate has changed over the past century. In a manner similar to trees, old growth mosses also preserve a climate record along their shoots. Our ability to accurately date these mosses and map their extent in sufficient spatial detail means that, for the first time, mosses can be used as sentinels to provide crucial information on how the Antarctic coastal climate has changed over past centuries and how biota has responded to these changes. #R##N##R##N#The spatial scale of the moss beds (tens of m2) makes satellite imagery (even very high resolution imagery of 0.5 m) unsuitable for mapping their extent in sufficient detail. Due to logistical constraints aerial photography is impractical. Recent developments in the use of unmanned aerial vehicles (UAVs) for remote sensing applications provide exciting new opportunities for ultra-high resolution mapping and monitoring of the environment. In this study, we developed a UAV consisting of a remote controlled helicopter carrying three different cameras: visible colour, near-infrared, and thermal infrared for cost-effective, efficient, and ultra-high resolution mapping of terrestrial vegetation in the Windmill Islands, Antarctica. These three sensors allow us to map different physical characteristics of the moss beds at resolutions of several centimetres.  This paper and presentation will address the issues encountered in developing a UAV system, discuss the different UAV sensors and components, and demonstrate how this system can be applied in these fragile remote polar ecosystems.", 
+            "authors": [
+                "Arko Lucieer", 
+                "Sharon A Robinson", 
+                "Darren Turner"
+            ], 
+            "fields": [
+                "Geomatics engineering", 
+                "Image resolution", 
+                "Climate change", 
+                "Natural environment", 
+                "Aerial photography"
+            ], 
+            "title": "Using an unmanned aerial vehicle (UAV) for ultra- high resolution mapping of Antarctic moss beds", 
+            "url": "http://cn.bing.com/academic/profile?id=0a96128aec288aabed8d0a2f2f6c1d3d&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Unmanned Air Vehicles (UAVs) have several advantages and disadvantages compared with Unmanned Ground Vehicles (UGVs). Both systems have different mobility and perception abilities. UAV systems have extended perception, tracking, and mobility capabilities compared with UGVs. UGVs have more intimate mobility and manipulation capabilities. This paper presents the research that has been conducted in the collaboration of UAVs and UGVs. This research demonstrates the use of a passive UAV system for tracking and state estimation of a UGV. This paper presents the UAV sensors and avionics, the algorithms for combining the UGV kinematics equations, and the geo-positioning algorithms used on the UAV to form a robust UGV state estimation. Experimental results are presented.", 
+            "authors": [
+                "Donald K Macarthur", 
+                "Carl D Crane"
+            ], 
+            "fields": [
+                "Tracking", 
+                "Intelligent sensor", 
+                "Vehicle dynamics", 
+                "Mobile robot", 
+                "Memory"
+            ], 
+            "title": "Unmanned Ground Vehicle State Estimation using an Unmanned Air Vehicle", 
+            "url": "http://cn.bing.com/academic/profile?id=2aa23c2127fcf7083e5137a830f35fb3&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "As unmanned aerial vehicles have become more affordable, their popularity with the general public and commercial organisations has seen significant growth in recent years. Whilst remaining a device for both the hobbyist and aircraft-enthusiast to enjoy, they are now also used for carrying out activities such as law enforcement surveillance, agricultural maintenance, acquiring specialist movie and sports event footage along with search and seizure activities. Conversely, despite maintaining many legitimate uses, there are also increasing media reports of unmanned aerial vehicle technology being abused, ranging from physical assaults due to negligent flights to breaches of Civil Aviation Authority Air Navigation Regulations, requiring a forensic analysis of these devices in order to establish the chain of events. This article presents an introductory discussion of unmanned aerial vehicle analysis and provides the results of a digital forensic investigation of a test Parrot Bebop unmanned aerial vehicle. Directions for the acquisition and analysis of the device's internal storage are provided along with an interpretation of on-board flight data, captured media and operating system. Further, as the device can be controlled via Android and iOS devices using the application FreeFlight3, forensic analysis of these devices is also presented. Results showed the ability to recover flight data from both the unmanned aerial vehicle and controller handsets along with captured media, however problems exist with establishing the definitive owner of the device, particularly if a user had abandoned it at the scene of a crime.", 
+            "authors": [
+                "Graeme Horsman"
+            ], 
+            "fields": [
+                "Global Positioning System", 
+                "Drone", 
+                "Forensic science"
+            ], 
+            "title": "Unmanned aerial vehicles: A preliminary analysis of forensic challenges", 
+            "url": "http://cn.bing.com/academic/profile?id=ec952c30f3c0f4b436935d5295714ded&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "An unmanned airship, also known as a Unmanned aircraft System (UAS) or a remotely piloted aircraft is a machine which functions either by the remote control of a navigator or pilot. The unmanned airship uses the autonomous flight, navigation and guidance based on the telemetry command of ground station. The Autonomous Flight Control System (AFCS) [1] plays a key role in achieving the given requirements and missions. This paper introduces the overall design architecture of the hardware and software of the flight control systems in a 50m long unmanned airship", 
+            "authors": [
+                "Vishnu G Nair", 
+                "M Dileep", 
+                "Prahalad K R"
+            ], 
+            "fields": [], 
+            "title": "GPS Based Autonomous Flight Control System for an Unmanned Airship", 
+            "url": "http://cn.bing.com/academic/profile?id=78f4ace5c8c7296abcd693338ea69afe&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "PEREIRA , E., BENCATEL , R., CORREIA , J., FELIX , L., GONCALVES , G., MORGADO, J. AND SOUSA , J., 2009. Unmanned Air Vehicles for coastal environmental research. Journal of Coastal Research, SI 56 (Proceedings of the 10th International Coastal Symposium), pg \u2013 pg. Lisbon, Portugal, ISBN (Leave the number of pages blank) In the last decade we have witnessed an unprecedented development of Unmanned Air Vehicles (UAVs) for missions with high societal impact. Future generations of UAV systems will reflect the major current trends: increased levels of autonomy, lower cost, longer endurance, and networking capabilities. Networking is one of the major trends for unmanned vehicle systems; it is also one of the enabling technologies for distributed cooperation (and computation). In mobile network systems, vehicles, sensors and operators interact through (inter-operated) communication networks. Dynamic networks of UAVs can be used in a broad range of missions like border patrol, tracking of pollution at sea, and oceanographic and environmental research. The Portuguese Air Force Academy and the School of Engineering at Porto University have been collaborating, since 2006, on the design, implementation and testing of different types of UAVs to demonstrate these technologies in a wide spectrum of military/civil missions. This is a multi-disciplinary cooperation encompassing several technological fields: advanced vision systems for identification and tracking of fixed and mobile features, cooperative control of teams of UAVs in mixed-initiative environments, sensor fusion and navigation systems. These technologies are being developed and integrated into UAV platforms for demonstration in military missions like reconnaissance, surveillance and target acquisition, and also in several civil missions like aerial gravimetry, aerial photography, surveillance and control of maritime traffic, fishing surveillance, and detection and control of coastal hazards. This paper reports on these developments and on the demonstrations that took place in the last two years. We report on video surveillance and environmental monitoring operations with six different types of fixed-wing UAVs (wingspans ranging from 1 to 6 meters), with autonomous take-off and landing capabilities. The smaller platforms can be easily deployed (hand-launched) while the others are more suitable for endurance and larger payloads.", 
+            "authors": [
+                "E Pereira", 
+                "R Bencatel", 
+                "J Correia", 
+                "L Felix", 
+                "G Goncalves", 
+                "J Morgado", 
+                "J Sousa"
+            ], 
+            "fields": [], 
+            "title": "Unmanned Air Vehicles for coastal and environmental research", 
+            "url": "http://cn.bing.com/academic/profile?id=16cdaccaf57ff4aca3748707d91ff052&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper describes a software architecture for mission-level control of autonomous unmanned air vehicles (UAVs). The architecture provides for sensor data fusion, worldview generation, and mission planning and execution. Details about the airborne platform and a high-level description of the control architecture are provided. As an example of the architecture\u2019s versatility a formation flight behavior is described.", 
+            "authors": [
+                "N Long", 
+                "Albert F Niessner", 
+                "Joseph F Horn"
+            ], 
+            "fields": [
+                "Software architecture"
+            ], 
+            "title": "Intelligent Systems Software for Unmanned Air Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=8e480196811d72d0c09b18577c491b88&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Unmanned aerial vehicles have been developed and applied to support agricultural production management.  Compared with piloted aircraft, an Unmanned Aerial Vehicle (UAV) can focus on small crop fields at lower flight altitudes than regular aircraft to perform site-specific farm management with higher precision.  They can also fill in the gap in locations where fixed winged or rotary winged aircraft are not readily available.  In agriculture, UAVs have primarily been developed and used for remote sensing and application of crop production and protection materials.  Application of fertilizers and chemicals is frequently needed at specific times and locations for site-specific management.  Routine monitoring of crop plant health is often required at very high resolution for accurate site-specific management as well.  This paper presents an overview of research involving the development of UAV technology for agricultural production management.  Technologies, systems and methods are examined and studied.  The limitations of current UAVs for agricultural production management are discussed, as well as future needs and suggestions for development and application of the UAV technologies in agricultural production management.", 
+            "authors": [
+                "Yanbo Huang", 
+                "Steven J Thomson", 
+                "W Clint Hoffmann", 
+                "Yubin Lan", 
+                "Bradley K Fritz"
+            ], 
+            "fields": [
+                "Remote sensing", 
+                "Precision agriculture", 
+                "Sensor", 
+                "Agricultural science", 
+                "Agricultural productivity"
+            ], 
+            "title": "Development and prospect of unmanned aerial vehicle technologies for agricultural production management", 
+            "url": "http://cn.bing.com/academic/profile?id=3adf6e3c4b5dab30ea46c40a897c4f1f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Here we consider the problem of low-flying rotorcraft that must perform various missions such as navigating to specific goal points while avoiding obstacles, looking for acceptable landing sites or performing continuous surveillance. Not all of such missions can be expressed as safe, goal seeking, partly because in many cases there isn't an obvious goal. Rather than developing singular solutions to each mission, we seek a generalized formulation that enables us to express a wider range of missions. Here we propose a framework that allows for multiple objectives to be considered simultaneously and discuss corresponding planning algorithms that are capable of running in realtime on autonomous air vehicles. The algorithms create a set of initial hypotheses that are then optimized by a sub-gradient based trajectory algorithm that optimizes the multiple objectives, producing dynamically feasible trajectories. We have demonstrated the feasibility of our approach with changing cost functions based on newly discovered information. We report on results in simulation of a system that is tasked with navigating safely between obstacles while searching for an acceptable landing site.", 
+            "authors": [
+                "Sebastian Scherer", 
+                "Sanjiv Singh"
+            ], 
+            "fields": [
+                "Mobile robot", 
+                "Loss function", 
+                "Motion planning", 
+                "Singular solution", 
+                "Heuristic"
+            ], 
+            "title": "Multiple-objective motion planning for unmanned aerial vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=7eb29cc0f6af22c1982d427b0e08689c&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Research on aircraft morphing has exploded in recent years. The motivation and driving force behind this has been to find new and novel ways to increase the capabilities of aircraft. Materials advancements have helped to increase possibilities with respect to actuation and, hence, a diversity of concepts and unimagined capabilities. The expanded role of unmanned aerial vehicles (UAVs) has provided an ideal platform for exploring these emergent morphing concepts since at this scale a greater amount of risk can be taken, as well as having more manageable fabrication and cost requirements. This review focuses on presenting the role UAVs have in morphing research by giving an overview of the UAV morphing concepts, designs, and technologies described in the literature. A presentation of quantitative information as well as a discussion of technical issues is given where possible to begin gaining some insight into the overall assessment and performance of these technologies.", 
+            "authors": [
+                "Juan Carlos Gomez", 
+                "Ephrahim Garcia"
+            ], 
+            "fields": [
+                "Concept art"
+            ], 
+            "title": "Morphing unmanned aerial vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=e1b5b6b13288204c2622c0c64cfd6ab8&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The emerging technology of unmanned aerial vehicle (UAV) has become more affordable and practicable for power line inspections. In this paper, we propose a multi-platform UAV system and multi-model communication system for highly efficient power line inspection tasks in China. The different UAVs cooperatively serve as long-distance imaging, short dis- tance imaging and communication relay. The high quality im- age/video is transmitted in realtime to the on-site control station for UAV navigation and far end office for analysis. Our experi- ence shows that the cooperative inspection for multi-UAVs can achieve a much higher efficiency than traditional inspection methods. \uf020 Index Terms\u2014UAV, hexrotor, fixed wing, tethered rotor, pow- er line inspection, communication relay, datalink", 
+            "authors": [
+                "Chuang Deng", 
+                "Shengwei Wang", 
+                "Zhi Huang", 
+                "Zhongfu Tan", 
+                "Junyong Liu"
+            ], 
+            "fields": [], 
+            "title": "Unmanned Aerial Vehicles for Power Line Inspection: A Cooperative Way in Platforms and Communications", 
+            "url": "http://cn.bing.com/academic/profile?id=921756e7b96907c0513ee9b7efdd06e5&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Recent shifts in tactical defense operations have led to a need for improved capabilities in Unmanned Aerial Vehicles (UAVs). Several vehicle types such as the Predator are currently operational, and numerous smaller specialized vehicles are under development. Many of the vehicles under development require the ability to stow their wings and control surfaces into very small volumes to permit gun launch or packaging into aircraft mounted aerial drop assemblies. One technology that has shown promise in achieving this goal is the inflatable wing. Inflatable wings have been demonstrated in many applications over the past five decades, including aircraft, UAVs, airships, and missile stabilization surfaces. Recent advancements in high strength fibers and rigidizable materials have enabled higher performance designs for modern application. The inclusion of \u201csmart materials\u201d has provided the opportunity to impart a multi-functional capability to inflatable wings. Such materials include electronictextiles, which provide the potential for the integration of numerous functions directly into the structure of the wing such as shape modification for control and morphing, power generation and storage, antennas, and sensing.", 
+            "authors": [
+                "David Cadogan", 
+                "William Graham", 
+                "Timothy Smith"
+            ], 
+            "fields": [], 
+            "title": "INFLATABLE AND RIGIDIZABLE WINGS FOR UNMANNED AERIAL VEHICLES", 
+            "url": "http://cn.bing.com/academic/profile?id=4fbc4110b7c6e52f0f251eceb366e7a4&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "PEREIRA , E., BENCATEL , R., CORREIA , J., FELIX , L., GONCALVES , G., MORGADO, J. AND SOUSA , J., 2009. Unmanned Air Vehicles for coastal environmental research. Journal of Coastal Research, SI 56 (Proceedings of the 10th International Coastal Symposium), pg \u2013 pg. Lisbon, Portugal, ISBN (Leave the number of pages blank) In the last decade we have witnessed an unprecedented development of Unmanned Air Vehicles (UAVs) for missions with high societal impact. Future generations of UAV systems will reflect the major current trends: increased levels of autonomy, lower cost, longer endurance, and networking capabilities. Networking is one of the major trends for unmanned vehicle systems; it is also one of the enabling technologies for distributed cooperation (and computation). In mobile network systems, vehicles, sensors and operators interact through (inter-operated) communication networks. Dynamic networks of UAVs can be used in a broad range of missions like border patrol, tracking of pollution at sea, and oceanographic and environmental research. The Portuguese Air Force Academy and the School of Engineering at Porto University have been collaborating, since 2006, on the design, implementation and testing of different types of UAVs to demonstrate these technologies in a wide spectrum of military/civil missions. This is a multi-disciplinary cooperation encompassing several technological fields: advanced vision systems for identification and tracking of fixed and mobile features, cooperative control of teams of UAVs in mixed-initiative environments, sensor fusion and navigation systems. These technologies are being developed and integrated into UAV platforms for demonstration in military missions like reconnaissance, surveillance and target acquisition, and also in several civil missions like aerial gravimetry, aerial photography, surveillance and control of maritime traffic, fishing surveillance, and detection and control of coastal hazards. This paper reports on these developments and on the demonstrations that took place in the last two years. We report on video surveillance and environmental monitoring operations with six different types of fixed-wing UAVs (wingspans ranging from 1 to 6 meters), with autonomous take-off and landing capabilities. The smaller platforms can be easily deployed (hand-launched) while the others are more suitable for endurance and larger payloads.", 
+            "authors": [
+                "E Pereira", 
+                "R Bencatel", 
+                "J Correia", 
+                "L Felix", 
+                "G Goncalves", 
+                "J Morgado", 
+                "J Sousa"
+            ], 
+            "fields": [], 
+            "title": "Unmanned Air Vehicles for coastal and environmental research", 
+            "url": "http://cn.bing.com/academic/profile?id=16cdaccaf57ff4aca3748707d91ff052&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "The United States is preparing to integrate Unmanned Aircraft Systems (UAS) into the national airspace.  It is expected that UAS will be able to serve the needs of both public and private sector interests. The use of UAS by law enforcement agencies has caused many Americans to express concern about how this new technology may affect privacy rights.  Several states have enacted laws limiting or prohibiting the use of UAS by state or local governmental agencies. #R##N#Privacy concerns are valid, however a full prohibition of UAS technology would limit law enforcement agencies from taking advantage of a valuable public safety tool.  This paper will examine privacy issues and UAS and will review the legal basis for law enforcement\u2019s use of technology.  The focus is to protect the privacy of citizens without prohibiting a potentially revolutionary technology.", 
+            "authors": [
+                "Daniel Friedenzohn", 
+                "Alexander Mirot"
+            ], 
+            "fields": [], 
+            "title": "The Fear of Drones: Privacy and Unmanned Aircraft", 
+            "url": "http://cn.bing.com/academic/profile?id=217bbd77bcd4fbbb4221ac98f7793351&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "This paper describes a software architecture for mission-level control of autonomous unmanned air vehicles (UAVs). The architecture provides for sensor data fusion, worldview generation, and mission planning and execution. Details about the airborne platform and a high-level description of the control architecture are provided. As an example of the architecture\u2019s versatility a formation flight behavior is described.", 
+            "authors": [
+                "N Long", 
+                "Albert F Niessner", 
+                "Joseph F Horn"
+            ], 
+            "fields": [
+                "Software architecture"
+            ], 
+            "title": "Intelligent Systems Software for Unmanned Air Vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=8e480196811d72d0c09b18577c491b88&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Unmanned aerial vehicles have been developed and applied to support agricultural production management.  Compared with piloted aircraft, an Unmanned Aerial Vehicle (UAV) can focus on small crop fields at lower flight altitudes than regular aircraft to perform site-specific farm management with higher precision.  They can also fill in the gap in locations where fixed winged or rotary winged aircraft are not readily available.  In agriculture, UAVs have primarily been developed and used for remote sensing and application of crop production and protection materials.  Application of fertilizers and chemicals is frequently needed at specific times and locations for site-specific management.  Routine monitoring of crop plant health is often required at very high resolution for accurate site-specific management as well.  This paper presents an overview of research involving the development of UAV technology for agricultural production management.  Technologies, systems and methods are examined and studied.  The limitations of current UAVs for agricultural production management are discussed, as well as future needs and suggestions for development and application of the UAV technologies in agricultural production management.", 
+            "authors": [
+                "Yanbo Huang", 
+                "Steven J Thomson", 
+                "W Clint Hoffmann", 
+                "Yubin Lan", 
+                "Bradley K Fritz"
+            ], 
+            "fields": [
+                "Remote sensing", 
+                "Precision agriculture", 
+                "Sensor", 
+                "Agricultural science", 
+                "Agricultural productivity"
+            ], 
+            "title": "Development and prospect of unmanned aerial vehicle technologies for agricultural production management", 
+            "url": "http://cn.bing.com/academic/profile?id=3adf6e3c4b5dab30ea46c40a897c4f1f&encoded=0&v=paper_preview&mkt=zh-cn"
+        }, 
+        {
+            "abstract": "Here we consider the problem of low-flying rotorcraft that must perform various missions such as navigating to specific goal points while avoiding obstacles, looking for acceptable landing sites or performing continuous surveillance. Not all of such missions can be expressed as safe, goal seeking, partly because in many cases there isn't an obvious goal. Rather than developing singular solutions to each mission, we seek a generalized formulation that enables us to express a wider range of missions. Here we propose a framework that allows for multiple objectives to be considered simultaneously and discuss corresponding planning algorithms that are capable of running in realtime on autonomous air vehicles. The algorithms create a set of initial hypotheses that are then optimized by a sub-gradient based trajectory algorithm that optimizes the multiple objectives, producing dynamically feasible trajectories. We have demonstrated the feasibility of our approach with changing cost functions based on newly discovered information. We report on results in simulation of a system that is tasked with navigating safely between obstacles while searching for an acceptable landing site.", 
+            "authors": [
+                "Sebastian Scherer", 
+                "Sanjiv Singh"
+            ], 
+            "fields": [
+                "Mobile robot", 
+                "Loss function", 
+                "Motion planning", 
+                "Singular solution", 
+                "Heuristic"
+            ], 
+            "title": "Multiple-objective motion planning for unmanned aerial vehicles", 
+            "url": "http://cn.bing.com/academic/profile?id=7eb29cc0f6af22c1982d427b0e08689c&encoded=0&v=paper_preview&mkt=zh-cn"
+        }
+    ], 
+    "num": 107
+}
