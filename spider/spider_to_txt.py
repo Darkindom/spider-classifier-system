@@ -10,7 +10,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleW
 page = 1
 file_url_path = '/Users/darkindom/Desktop/spidder/spider_txt/url_'
 file_data_path = '/Users/darkindom/Desktop/spidder/spider_txt/data_'
-file_keywords_path = '/Users/darkindom/Desktop/spidder/keywords.txt'
+file_keywords_path = '/Users/darkindom/Desktop/spidder/spider/keywords.txt'
 
 # with open(file_data_path, "w") as f_data
 def getKeywords():
