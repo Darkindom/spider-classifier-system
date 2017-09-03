@@ -10,3 +10,6 @@ spidder/bin
 spidder/include
 spidder/lib
 spidder/.Python
+
+# 忽略展示页面的node包
+visual_web/node_modules/
