@@ -28,12 +28,19 @@ for i in xrange(1, kinds+1):
     data_destination = []
 
     for data in data_list:
-        index = { "index": {"_index": "info", "_type": data_type, "_id": data_id}}
+        index = { "index": {"_index": "papers", "_type": str(data_type), "_id": data_id}}
         # data_destination.append(index)
         json.dump(index, file_destination, sort_keys = True)
+        file_destination.write('\n')
+        # index = str(index).encode("utf-8")
+        # file_destination.write(str(index) + '\n')
+
         # data_destination.append(data)
-        # json.dump('', file_destination, sort_keys = True)
         json.dump(data, file_destination, sort_keys = True)
+        file_destination.write('\n')
+        # data = str(data).encode("utf-8")
+        # file_destination.write(str(data) + '\n')
+
         data_id += 1
 
     # json.dump(data_destination, file_destination, sort_keys = True)
