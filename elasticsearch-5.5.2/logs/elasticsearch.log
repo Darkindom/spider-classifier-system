@@ -26,3 +26,7 @@
 [2017-09-06T10:11:57,158][INFO ][o.e.n.Node               ] [rnQD3QO] started
 [2017-09-06T10:11:57,426][INFO ][o.e.g.GatewayService     ] [rnQD3QO] recovered [1] indices into cluster_state
 [2017-09-06T10:11:58,767][INFO ][o.e.c.r.a.AllocationService] [rnQD3QO] Cluster health status changed from [RED] to [GREEN] (reason: [shards started [[papers][3]] ...]).
+[2017-09-06T10:27:15,782][INFO ][o.e.n.Node               ] [rnQD3QO] stopping ...
+[2017-09-06T10:27:15,830][INFO ][o.e.n.Node               ] [rnQD3QO] stopped
+[2017-09-06T10:27:15,830][INFO ][o.e.n.Node               ] [rnQD3QO] closing ...
+[2017-09-06T10:27:15,845][INFO ][o.e.n.Node               ] [rnQD3QO] closed
