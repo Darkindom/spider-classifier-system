@@ -8,7 +8,10 @@ import word_is_num
 import json
 
 path_file = os.path.abspath(sys.argv[0])
-path_file=os.path.dirname(path_file) + '/'
+path_parent = os.path.abspath(os.path.join(path_file, os.pardir))
+path_file = os.path.dirname(path_file) + '/'
+path_parent = os.path.dirname(path_parent) + '/'
+
 print path_file
 
 kinds = 8
@@ -76,6 +79,14 @@ def bayes(text):
 
 
 def classify():
+    file_keywords = open(path_parent + 'spider/keywords.txt', "r")
+    keywords_list = file_keywords.readlines()
+    file_keywords.close
+    key = []
+    print keywords_list
+    for keyword in keywords_list:
+        key.append(keyword.strip('\n'))
+
     all_count = 0
     right_count = 0
     file_text = open(path_file + 'data/wait_to_classify_text.json', "r")
@@ -83,7 +94,7 @@ def classify():
     wait_classify_text = item['data']
     file_text.close
 
-    file_outcome = open(path_file + 'classify_result.txt', 'w')
+    file_outcome = open(path_file + 'classify_result.json', 'w')
     for item in wait_classify_text:
         text = item['abstract']
         text = text.strip()
@@ -95,7 +106,9 @@ def classify():
         getIndex = bayes(text)
 
         print str(item['title']) + "\nclassify kind : " + str(getIndex)
-        file_outcome.write(str(getIndex) + '\n')
+        # file_outcome.write(str(key[getIndex]) + '\n')
+        item['fields'] = key[getIndex]
+        json.dump(item, file_outcome, sort_keys = True, indent = 4)
     file_outcome.close
 
 

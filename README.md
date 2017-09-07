@@ -77,7 +77,7 @@ X = {![公式名](http://latex.codecogs.com/png.latex?{X_{1},X_{2},...,X_{m}})}
 对待分类文本的单词与各个类别进行比较，计算 |
 &nbsp;&nbsp;&nbsp;&nbsp;若单词在该类别的表中，则用对应的概率 |
 &nbsp;&nbsp;&nbsp;&nbsp;若单词不在该类别的表中，则计算 1/(所有训练样本的单词数 + 词频和) |
-最终取得的结果即为该文本与类别的关联度，关联度最大的即视为该文本所属的类别，并记录 | `classify_text.json`
+最终取得的结果即为该文本与类别的关联度，关联度最大的即视为该文本所属的类别，并记录 | `classify_result.json`
 
 
 # Elasticsearch
