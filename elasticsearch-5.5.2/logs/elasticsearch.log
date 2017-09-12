@@ -1,27 +1,4 @@
-[2017-09-08T10:14:23,489][INFO ][o.e.n.Node               ] [] initializing ...
-[2017-09-08T10:14:23,710][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] using [1] data paths, mounts [[/ (/dev/disk0s2)]], net usable_space [73.7gb], net total_space [118.4gb], spins? [unknown], types [hfs]
-[2017-09-08T10:14:23,713][INFO ][o.e.e.NodeEnvironment    ] [rnQD3QO] heap size [1.9gb], compressed ordinary object pointers [true]
-[2017-09-08T10:14:23,795][INFO ][o.e.n.Node               ] node name [rnQD3QO] derived from node ID [rnQD3QOKRgq3maAyhuE5gQ]; set [node.name] to override
-[2017-09-08T10:14:23,797][INFO ][o.e.n.Node               ] version[5.5.2], pid[18326], build[b2f0c09/2017-08-14T12:33:14.154Z], OS[Mac OS X/10.11.6/x86_64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_144/25.144-b01]
-[2017-09-08T10:14:23,799][INFO ][o.e.n.Node               ] JVM arguments [-Xms2g, -Xmx2g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -Djdk.io.permissionsUseCanonicalPath=true, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Dlog4j.skipJansi=true, -XX:+HeapDumpOnOutOfMemoryError, -Des.path.home=/Users/darkindom/Desktop/spidder/elasticsearch-5.5.2]
-[2017-09-08T10:14:26,335][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [aggs-matrix-stats]
-[2017-09-08T10:14:26,335][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [ingest-common]
-[2017-09-08T10:14:26,336][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-expression]
-[2017-09-08T10:14:26,336][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-groovy]
-[2017-09-08T10:14:26,336][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-mustache]
-[2017-09-08T10:14:26,337][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [lang-painless]
-[2017-09-08T10:14:26,337][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [parent-join]
-[2017-09-08T10:14:26,337][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [percolator]
-[2017-09-08T10:14:26,337][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [reindex]
-[2017-09-08T10:14:26,337][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty3]
-[2017-09-08T10:14:26,339][INFO ][o.e.p.PluginsService     ] [rnQD3QO] loaded module [transport-netty4]
-[2017-09-08T10:14:26,341][INFO ][o.e.p.PluginsService     ] [rnQD3QO] no plugins loaded
-[2017-09-08T10:14:29,259][INFO ][o.e.d.DiscoveryModule    ] [rnQD3QO] using discovery type [zen]
-[2017-09-08T10:14:30,369][INFO ][o.e.n.Node               ] initialized
-[2017-09-08T10:14:30,370][INFO ][o.e.n.Node               ] [rnQD3QO] starting ...
-[2017-09-08T10:14:30,958][INFO ][o.e.t.TransportService   ] [rnQD3QO] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
-[2017-09-08T10:14:34,107][INFO ][o.e.c.s.ClusterService   ] [rnQD3QO] new_master {rnQD3QO}{rnQD3QOKRgq3maAyhuE5gQ}{4xGJ2O0JREKRxeJqtnYFOA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-elected-as-master ([0] nodes joined)
-[2017-09-08T10:14:34,186][INFO ][o.e.h.n.Netty4HttpServerTransport] [rnQD3QO] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
-[2017-09-08T10:14:34,186][INFO ][o.e.n.Node               ] [rnQD3QO] started
-[2017-09-08T10:14:34,551][INFO ][o.e.g.GatewayService     ] [rnQD3QO] recovered [1] indices into cluster_state
-[2017-09-08T10:14:36,096][INFO ][o.e.c.r.a.AllocationService] [rnQD3QO] Cluster health status changed from [RED] to [GREEN] (reason: [shards started [[papers][0]] ...]).
+[2017-09-10T22:55:51,062][INFO ][o.e.n.Node               ] [rnQD3QO] stopping ...
+[2017-09-10T22:55:51,102][INFO ][o.e.n.Node               ] [rnQD3QO] stopped
+[2017-09-10T22:55:51,103][INFO ][o.e.n.Node               ] [rnQD3QO] closing ...
+[2017-09-10T22:55:51,119][INFO ][o.e.n.Node               ] [rnQD3QO] closed
