@@ -92,6 +92,9 @@ X = {![公式名](http://latex.codecogs.com/png.latex?{X_{1},X_{2},...,X_{m}})}
 运行	`npm run start`  
 打开浏览器	输入 `localhost:9100/`	显示的就是head插件的页面
 
+#### 注意，如果是新机器上，需要重新安装Elasticsearch和head插件
+Elasticsearch 安装地址为 https://www.elastic.co/downloads/elasticsearch
+head 插件安装地址为 https://github.com/mobz/elasticsearch-head
 
 ## 对于可能出现的集群健康值 ：yellow
 执行  curl -XPUT "http://localhost:9200/_settings" -d' { "number_of_replicas" : 0 } '
